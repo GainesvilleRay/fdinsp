@@ -7,7 +7,7 @@
 # User will need to select the district to update or and which county to report.
 # At this point, it's all in code below. This is not a working copy.
 
-# Script by Douglas Ray, doug.ray@gainesville.com, updated 09/18/2018
+# Script by Douglas Ray, doug.ray@gainesville.com, updated 10/02/2018
 
 # Requires access to rinspect.sqlite
 
@@ -36,13 +36,29 @@ with open('db_update_log.txt','a') as outFile:
 # filter for needed fields and assign headersself.
 # URL below needs to be changed to reflect district.
 # Example: 1fdinsp.csv is District 1
-insp = pd.read_csv("ftp://dbprftp.state.fl.us/pub/llweb/1fdinspi.csv",
+insp1 = pd.read_csv("ftp://dbprftp.state.fl.us/pub/llweb/1fdinspi.csv",
                    usecols=[2, 4, 5, 6, 7, 8, 9, 12, 13, 14, 17, 18, 80, 81], encoding="ISO-8859-1")
+insp2 = pd.read_csv("ftp://dbprftp.state.fl.us/pub/llweb/2fdinspi.csv",
+                   usecols=[2, 4, 5, 6, 7, 8, 9, 12, 13, 14, 17, 18, 80, 81], encoding="ISO-8859-1")
+insp3 = pd.read_csv("ftp://dbprftp.state.fl.us/pub/llweb/3fdinspi.csv",
+                   usecols=[2, 4, 5, 6, 7, 8, 9, 12, 13, 14, 17, 18, 80, 81], encoding="ISO-8859-1")
+insp4 = pd.read_csv("ftp://dbprftp.state.fl.us/pub/llweb/4fdinspi.csv",
+                   usecols=[2, 4, 5, 6, 7, 8, 9, 12, 13, 14, 17, 18, 80, 81], encoding="ISO-8859-1")
+insp5 = pd.read_csv("ftp://dbprftp.state.fl.us/pub/llweb/5fdinspi.csv",
+                   usecols=[2, 4, 5, 6, 7, 8, 9, 12, 13, 14, 17, 18, 80, 81], encoding="ISO-8859-1")
+insp6 = pd.read_csv("ftp://dbprftp.state.fl.us/pub/llweb/6fdinspi.csv",
+                   usecols=[2, 4, 5, 6, 7, 8, 9, 12, 13, 14, 17, 18, 80, 81], encoding="ISO-8859-1")
+insp7 = pd.read_csv("ftp://dbprftp.state.fl.us/pub/llweb/7fdinspi.csv",
+                   usecols=[2, 4, 5, 6, 7, 8, 9, 12, 13, 14, 17, 18, 80, 81], encoding="ISO-8859-1")
+frames = [insp1, insp2, insp3, insp4, insp5, insp6, insp7]
+insp = pd.concat(frames)
 insp.columns = ["county", "licnum", "sitename", "streetaddy", "cityaddy", "zip",
                 "inspnum", "insptype", "inspdispos", "inspdate", "totalvio", "highvio", "licid", "visitid"]
+
 #insp = insp[(insp.county == county_sought)] # uncomment if particular county sought
 insp.sitename = insp.sitename.str.title()
 insp.sitename = insp.sitename.str.replace('Mcdonald\'s', 'McDonald\'s')
+insp.sitename = insp.sitename.str.replace('Mcdonalds', 'McDonald\'s')
 insp.sitename = insp.sitename.str.replace('Bbq', 'BBQ')
 insp.sitename = insp.sitename.str.replace(r'\'S ', '\'s ')
 insp.streetaddy = insp.streetaddy.str.title()
@@ -104,24 +120,25 @@ c.executemany('''INSERT OR IGNORE INTO fdinsp (librow, county, licnum, sitename,
               inspdate, totalvio, highvio, licid, visitid)
               VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)''', var)
 conn.commit()
-conn.close()
 
 # VIOLATIONS from scrape of indiviual reports go into another table
-conn = sqlite3.connect(sqlite_file)
-c = conn.cursor()
-
 def make_obs():
     visitid = url.split("VisitID=")[1].split("&")[0]
     licid = url.split("&id=")[1]
     html = urlopen(url)
     soup = BeautifulSoup(html, "lxml")
     tables = soup.find_all( "table" )
+    conn = sqlite3.connect(sqlite_file)
+    c = conn.cursor()
+    url_error = "http://www.myfloridalicense.com/InspectionDetail.asp?VisitID={:d}&licid={:s}".format(visitid, licid)
     try:
         rows = tables[16].find_all( "tr" )
     except IndexError:
         with open('db_update_log.txt','a') as outFile:
-            outFile.write("""***Problem gathering from http://www.myfloridalicense.com/
-            InspectionDetail.asp?VisitID={:s}&licid={:s}""".format(visitid, licid))
+            outFile.write("***Problem gathering from {:s}".format(url_error))
+            c.execute("""DELETE FROM fdinsp WHERE visit = '{}' """.format(visitid))
+            conn.commit()
+
     # get cells we want from each row - note, middle cell is empty
     else:
         for row in rows:

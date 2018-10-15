@@ -1,5 +1,5 @@
 import sqlite3
-conn = sqlite3.connect("rinspect1.sqlite")
+conn = sqlite3.connect("rinspect.sqlite")
 cursor = conn.cursor()
 
 cursor.execute("""CREATE TABLE IF NOT EXISTS fdinsp (
