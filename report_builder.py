@@ -24,14 +24,15 @@ from email.message import EmailMessage
 #start_date = input("What is our start date? ") #'2018, 09, 04' format
 #end_date = input("What is your end date? ") #'2018, 09, 14' format
 today = datetime.today()
-start_delta = timedelta(weeks=1)
+start_delta = timedelta(days=9)
 priorweek = today - start_delta
 end_date = today.strftime('%Y, %m, %d')
 start_date = priorweek.strftime('%Y, %m, %d')
 
-countywanted = 'Marion' # replace with the county you want
+countywanted = 'Marion'
+# replace with the county you want
 # Who gets the report:
-receiver = 'you@domain.com' # add single address or create list of more
+receiver = 'doug.ray@starbanner.com' # add single address or create list of more
 
 # The new report and, later, its path:
 path = 'bigreport.txt'
@@ -308,17 +309,11 @@ else:
     print("The old file for {} isn't there.".format(path))
 
 # Add intro graph to bigreport, with date of last inspection included
-intro_date = datetime.strptime(end_date, '%Y, %m, %d')
-stamp = ""
-if intro_date.month == 9:
-    stamp += "Sept. " +  datetime.strftime(intro_date, "%d").lstrip("0")
-elif date_object.month < 3 or date_object.month > 7:
-    stamp += datetime.strftime(intro_date, "%b. ") + datetime.strftime(intro_date, "%d").lstrip("0")
-else:
-    stamp += datetime.strftime(intro_date, "%B ") + datetime.strftime(intro_date, "%d").lstrip("0")
-intro_date = stamp
+intro_date = "Oct. 4"
+end_date = "Oct. 13"
 
-intro = """These are recent restaurant inspection reports — through {} — filed by state safety and sanitation inspectors.\nThe Florida Department of Business & Professional Regulation describes an inspection report as “a ‘snapshot’ of conditions present at the time of the inspection. On any given day, an establishment may have fewer or more violations than noted in their most recent inspection. An inspection conducted on any given day may not be representative of the overall, long-term conditions at the establishment.\nPlease note that some more recent, follow-up inspections may not be included here.\n""".format(intro_date)
+
+intro = """These are recent restaurant inspection reports for {} County — from {} to {} — filed by state safety and sanitation inspectors.\nThe Florida Department of Business & Professional Regulation describes an inspection report as “a ‘snapshot’ of conditions present at the time of the inspection. On any given day, an establishment may have fewer or more violations than noted in their most recent inspection. An inspection conducted on any given day may not be representative of the overall, long-term conditions at the establishment.\nPlease note that some more recent, follow-up inspections may not be included here.\n""".format(countywanted, intro_date, end_date)
 
 f= open(path,'a+')
 f.write(intro)
