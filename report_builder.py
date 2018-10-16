@@ -1,26 +1,22 @@
+""" This script gathers data on restaurant inspections by the state of Florida
+that have been collected into a database by a related script
+and builds a txt report for a particular county within a date range.
 
-# coding: utf-8
+Script by Douglas Ray, doug.ray@gainesville.com, updated 10/16/2018
+with help from Mike Stucka, Palm Beach Post, and Mindy McAdams, Univ. of Florida
 
-# This script gathers data on restaurant inspections by the state of Florida
-# that have been collected into a database by a related script
-# and builds a txt report for a particular county within a date range.
-
-# Script by Douglas Ray, doug.ray@gainesville.com, updated 09/17/2018
-# with help from Mike Stucka, Palm Beach Post, and Mindy McAdams, Univ. of Florida
-
-# Requires access to rinspect.sqlite and insptypes.csv
+Requires access to rinspect.sqlite and insptypes.csv """
 
 from datetime import datetime
 from datetime import timedelta
-from datetime import date
+#from datetime import date
 import sqlite3
 import csv
-import re
 import smtplib
 import os
 from email.message import EmailMessage
 
-# CHOOSE date range and county, used to build a list of visitid numbers included in report
+# CHOOSE date range and county, used to build a list of visitid numbers
 #start_date = input("What is our start date? ") #'2018, 09, 04' format
 #end_date = input("What is your end date? ") #'2018, 09, 14' format
 today = datetime.today()
@@ -29,16 +25,34 @@ priorweek = today - start_delta
 end_date = today.strftime('%Y, %m, %d')
 start_date = priorweek.strftime('%Y, %m, %d')
 
+# Goes into intro for bigreport email, generally the closing Saturday
+intro_date = "Oct. 4"
+final_date = "Oct. 13"
+
 countywanted = 'Marion'
-# replace with the county you want
+#countywanted = 'Alachua'
+#countywanted = 'Polk'
+#countywanted = 'Sarasota'
+#countywanted = 'Manatee'
+
 # Who gets the report:
-receiver = 'doug.ray@starbanner.com' # add single address or create list of more
+if countywanted == 'Marion':
+    receiver = ['doug.ray@starbanner.com', 'joe.byrnes@gvillesun.com', 'alan.youngblood@starbanner.com']
+elif countywanted == 'Alachua':
+    receiver = ['doug.ray@starbanner.com', 'joe.byrnes@gvillesun.com', 'alan.youngblood@starbanner.com']
+elif countywanted == 'Polk':
+    receiver = ['doug.ray@starbanner.com', 'laura.davis@theledger.com']
+elif countywanted == 'Sarasota':
+    receiver = ['doug.ray@starbanner.com', 'brian.ries@heraldtribune.com']
+elif countywanted == 'Manatee':
+    receiver = ['doug.ray@starbanner.com', 'brian.ries@heraldtribune.com']
 
 # The new report and, later, its path:
-path = 'bigreport.txt'
+path_directory = os.path.dirname(os.path.abspath(__file__))
+bigreport = os.path.join(path_directory, 'bigreport.txt')
 
 # Access database
-sqlite_file = 'rinspect.sqlite'
+sqlite_file = os.path.join(path_directory, 'rinspect.sqlite')
 conn = sqlite3.connect(sqlite_file)
 conn.row_factory = lambda cursor, row: row[0]
 c = conn.cursor()
@@ -59,9 +73,10 @@ ids_date = c.execute("""SELECT visitid
 
 reportnum = len(ids_date)
 
-# CSV FILE as sort of a mini module to streamline narrative; courtesy of Mike Stucka, Palm Beach Post
+# CSV FILE as sort of a mini module to streamline narrative
 insptypedict = {}
-with open("insptypes.csv", "r") as csvfile:
+insptypes = os.path.join(path_directory, 'insptypes.csv')
+with open(insptypes, "r") as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         insptypedict[row["inspdisposition"]] = row["text"]
@@ -88,13 +103,14 @@ def get_big_timestamp(date_object=None):
 
 # MAIN FUNCTION to pull inspection report data from db and build narrative
 def clean_report(id):
-    sqlite_file = 'rinspect.sqlite'
+    db_directory = os.path.dirname(os.path.abspath(__file__))
+    sqlite_file = os.path.join(db_directory, 'rinspect.sqlite')
     table_name1 = 'fdinsp'
     conn = sqlite3.connect(sqlite_file)
     c = conn.cursor()
 
     visitid = id
-    c.execute("SELECT * FROM '{}' WHERE visitid = '{}'".              format(table_name1, visitid))
+    c.execute("SELECT * FROM '{}' WHERE visitid = '{}'".format(table_name1, visitid))
     data = c.fetchall()
     sitename = str([x[3] for x in data]).strip("['']")
     streetaddy = str([x[4] for x in data]).strip("['']")
@@ -103,7 +119,6 @@ def clean_report(id):
     inspdispos = str([x[9] for x in data]).strip("['']")
     inspdate = str([x[10] for x in data]).strip("['']")
     inspdate = str(datetime.strptime(inspdate, ('%Y, %m, %d')).date())
-    #inspdate = inspdate.strftime('%B %d, %Y') #comment out if using big_timestamp
     inspdate = (datetime.strptime(inspdate, ('%Y-%m-%d')).date())
     totalvio = str([x[11] for x in data]).strip("['']")
     highvio = str([x[12] for x in data]).strip("['']")
@@ -303,19 +318,14 @@ def clean_report(id):
     return(pn)
 
 # Delete old report file since we'll be building a new one here.
-if os.path.exists(path):
-    os.remove(path)
+if os.path.exists(bigreport):
+    os.remove(bigreport)
 else:
-    print("The old file for {} isn't there.".format(path))
+    print("The old file for {} isn't there.".format(bigreport))
 
-# Add intro graph to bigreport, with date of last inspection included
-intro_date = "Oct. 4"
-end_date = "Oct. 13"
+intro = """These are recent restaurant inspection reports for {} County — from {} to {} — filed by state safety and sanitation inspectors.\nThe Florida Department of Business & Professional Regulation describes an inspection report as “a ‘snapshot’ of conditions present at the time of the inspection. On any given day, an establishment may have fewer or more violations than noted in their most recent inspection. An inspection conducted on any given day may not be representative of the overall, long-term conditions at the establishment.\nPlease note that some more recent, follow-up inspections may not be included here.\n""".format(countywanted, intro_date, final_date)
 
-
-intro = """These are recent restaurant inspection reports for {} County — from {} to {} — filed by state safety and sanitation inspectors.\nThe Florida Department of Business & Professional Regulation describes an inspection report as “a ‘snapshot’ of conditions present at the time of the inspection. On any given day, an establishment may have fewer or more violations than noted in their most recent inspection. An inspection conducted on any given day may not be representative of the overall, long-term conditions at the establishment.\nPlease note that some more recent, follow-up inspections may not be included here.\n""".format(countywanted, intro_date, end_date)
-
-f= open(path,'a+')
+f= open(bigreport,'a+')
 f.write(intro)
 
 # CALL MAIN function, create big report
@@ -325,13 +335,13 @@ for id in ids:
     pn = ""
     clean_report(id)
     # append pn to text file
-    f= open(path,"a")
+    f= open(bigreport,"a")
     f.write(pn)
     f.close()
 conn.close()
 
 # SEND REPORT to recipient(s).
-with open(path) as fp:
+with open(bigreport) as fp:
     # Create a text/plain message
     msg = EmailMessage()
     msg.set_content(fp.read())
