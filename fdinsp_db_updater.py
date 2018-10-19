@@ -18,10 +18,8 @@ from email.message import EmailMessage
 import datetime
 import re
 import sqlite3
-import urllib
 import csv
 import smtplib
-import os
 
 # append to log that goes out by email with each run
 #log_directory = os.path.dirname(os.path.abspath(__file__))

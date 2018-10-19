@@ -7,39 +7,31 @@ with help from Mike Stucka, Palm Beach Post, and Mindy McAdams, Univ. of Florida
 
 Requires access to rinspect.sqlite and insptypes.csv """
 
-from datetime import datetime
-from datetime import timedelta
-#from datetime import date
 import sqlite3
 import csv
 import smtplib
 import os
+import datetime
 from email.message import EmailMessage
 
-# CHOOSE date range and county, used to build a list of visitid numbers
-#start_date = input("What is our start date? ") #'2018, 09, 04' format
-#end_date = input("What is your end date? ") #'2018, 09, 14' format
-today = datetime.today()
-start_delta = timedelta(days=9)
-priorweek = today - start_delta
-end_date = today.strftime('%Y, %m, %d')
-start_date = priorweek.strftime('%Y, %m, %d')
-
-# Goes into intro for bigreport email, generally the closing Saturday
-intro_date = "Oct. 4"
-final_date = "Oct. 13"
-
-countywanted = 'Marion'
-#countywanted = 'Alachua'
+# COUNTY for inspection reports; unselect the one you want
+#countywanted = 'Marion'
+countywanted = 'Alachua'
 #countywanted = 'Polk'
 #countywanted = 'Sarasota'
 #countywanted = 'Manatee'
+
+# DATE RANGE for report
+today = datetime.date.today()
+idx = (today.weekday() + 1) % 7
+start_date = today - datetime.timedelta(6+idx) # Monday prior week
+end_date = today - datetime.timedelta(1+idx) # Saturday following that Monday
 
 # Who gets the report:
 if countywanted == 'Marion':
     receiver = ['doug.ray@starbanner.com', 'joe.byrnes@gvillesun.com', 'alan.youngblood@starbanner.com']
 elif countywanted == 'Alachua':
-    receiver = ['doug.ray@starbanner.com', 'joe.byrnes@gvillesun.com', 'alan.youngblood@starbanner.com']
+    receiver = ['doug.ray@starbanner.com']
 elif countywanted == 'Polk':
     receiver = ['doug.ray@starbanner.com', 'laura.davis@theledger.com']
 elif countywanted == 'Sarasota':
@@ -65,13 +57,20 @@ ids_vio = c.execute("""SELECT visitid
     """.format(countywanted, start_date, end_date)).fetchall()
 
 # Ordered by date, most recent first; choose later
-ids_date = c.execute("""SELECT visitid
+ids_date_desc = c.execute("""SELECT visitid
     FROM fdinsp WHERE county = '{}'
     AND inspdate BETWEEN '{}' AND '{}'
     ORDER BY inspdate DESC, highvio DESC, totalvio DESC
     """.format(countywanted, start_date, end_date)).fetchall()
 
-reportnum = len(ids_date)
+# Ordered by date, Monday to Saturday; choose later
+ids_date_asc = c.execute("""SELECT visitid
+    FROM fdinsp WHERE county = '{}'
+    AND inspdate BETWEEN '{}' AND '{}'
+    ORDER BY inspdate ASC, highvio DESC, totalvio DESC
+    """.format(countywanted, start_date, end_date)).fetchall()
+
+reportnum = len(ids_vio)
 
 # CSV FILE as sort of a mini module to streamline narrative
 insptypedict = {}
@@ -323,14 +322,15 @@ if os.path.exists(bigreport):
 else:
     print("The old file for {} isn't there.".format(bigreport))
 
-intro = """These are recent restaurant inspection reports for {} County — from {} to {} — filed by state safety and sanitation inspectors.\nThe Florida Department of Business & Professional Regulation describes an inspection report as “a ‘snapshot’ of conditions present at the time of the inspection. On any given day, an establishment may have fewer or more violations than noted in their most recent inspection. An inspection conducted on any given day may not be representative of the overall, long-term conditions at the establishment.\nPlease note that some more recent, follow-up inspections may not be included here.\n""".format(countywanted, intro_date, final_date)
+intro = """These are recent restaurant inspection reports for {} County — from {} to {} — filed by state safety and sanitation inspectors.\nThe Florida Department of Business & Professional Regulation describes an inspection report as “a ‘snapshot’ of conditions present at the time of the inspection. On any given day, an establishment may have fewer or more violations than noted in their most recent inspection. An inspection conducted on any given day may not be representative of the overall, long-term conditions at the establishment.\nPlease note that some more recent, follow-up inspections may not be included here.\n""".format(countywanted, start_date, end_date)
 
 f= open(bigreport,'a+')
 f.write(intro)
 
 # CALL MAIN function, create big report
 ids = ids_vio # to order reports by severity of violations
-#ids = ids_date # to order reports by date, most recent in the range first
+#ids = ids_date_desc # to order reports by date, most recent first
+#ids = ids_date_asc # to order reports by date, Monday to Saturday
 for id in ids:
     pn = ""
     clean_report(id)
