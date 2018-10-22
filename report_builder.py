@@ -2,22 +2,23 @@
 that have been collected into a database by a related script
 and builds a txt report for a particular county within a date range.
 
-Script by Douglas Ray, doug.ray@gainesville.com, updated 10/16/2018
+Script by Douglas Ray, doug.ray@gainesville.com, updated 10/22/2018
 with help from Mike Stucka, Palm Beach Post, and Mindy McAdams, Univ. of Florida
 
 Requires access to rinspect.sqlite and insptypes.csv """
 
-import sqlite3
+#Python standard libraries
 import csv
-import smtplib
-import os
 import datetime
 from email.message import EmailMessage
+import os
+import smtplib
+import sqlite3
 
 # COUNTY for inspection reports; unselect the one you want
 #countywanted = 'Marion'
-countywanted = 'Alachua'
-#countywanted = 'Polk'
+#countywanted = 'Alachua'
+countywanted = 'Polk'
 #countywanted = 'Sarasota'
 #countywanted = 'Manatee'
 
@@ -29,11 +30,11 @@ end_date = today - datetime.timedelta(1+idx) # Saturday following that Monday
 
 # Who gets the report:
 if countywanted == 'Marion':
-    receiver = ['doug.ray@starbanner.com', 'joe.byrnes@gvillesun.com', 'alan.youngblood@starbanner.com']
+    receiver = ['doug.ray@starbanner.com'] # , 'joe.byrnes@gvillesun.com', 'alan.youngblood@starbanner.com']
 elif countywanted == 'Alachua':
     receiver = ['doug.ray@starbanner.com']
 elif countywanted == 'Polk':
-    receiver = ['doug.ray@starbanner.com', 'laura.davis@theledger.com']
+    receiver = ['doug.ray@starbanner.com'] #, 'laura.davis@theledger.com']
 elif countywanted == 'Sarasota':
     receiver = ['doug.ray@starbanner.com', 'brian.ries@heraldtribune.com']
 elif countywanted == 'Manatee':
@@ -105,11 +106,11 @@ def clean_report(id):
     db_directory = os.path.dirname(os.path.abspath(__file__))
     sqlite_file = os.path.join(db_directory, 'rinspect.sqlite')
     table_name1 = 'fdinsp'
+    table_name2 = 'violations'
+
     conn = sqlite3.connect(sqlite_file)
     c = conn.cursor()
-
-    visitid = id
-    c.execute("SELECT * FROM '{}' WHERE visitid = '{}'".format(table_name1, visitid))
+    c.execute(f"SELECT * FROM {table_name1} WHERE visitid = {id}")
     data = c.fetchall()
     sitename = str([x[3] for x in data]).strip("['']")
     streetaddy = str([x[4] for x in data]).strip("['']")
@@ -277,8 +278,6 @@ def clean_report(id):
             pn += str(highvio) + " high-priority violations:\n"
 
     # GET VIOLATIONS from db, rank by severity, cleanup & build narrative
-    sqlite_file = 'rinspect.sqlite'
-    table_name2 = 'violations'
     vn = "" # violations narrative
     bn = "" # basic violations narrative
     cn = "" # intermediate violatins narrative
@@ -287,8 +286,7 @@ def clean_report(id):
 
     conn = sqlite3.connect(sqlite_file)
     c = conn.cursor()
-    obs = c.execute("""SELECT obs FROM '{tn}'
-        WHERE visitid = '{vi}' """.format(tn=table_name2, vi=visitid))
+    obs = c.execute(f"SELECT obs FROM {table_name2} WHERE visitid = {id}")
     vios = c.fetchall()
     for vio in vios:
         if "'Basic" in str(vio):
