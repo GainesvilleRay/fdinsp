@@ -22,19 +22,24 @@ countywanted = 'Polk'
 #countywanted = 'Sarasota'
 #countywanted = 'Manatee'
 
-# DATE RANGE for report
+# DATE RANGE for report, week prior
 today = datetime.date.today()
 idx = (today.weekday() + 1) % 7
-start_date = today - datetime.timedelta(6+idx) # Monday prior week
-end_date = today - datetime.timedelta(1+idx) # Saturday following that Monday
+start_day = today - datetime.timedelta(6+idx) # Monday prior week; date object
+start_date = str(start_day.strftime("%Y, %m, %d")) # Monday; date as string
+end_day = today - datetime.timedelta(1+idx) # following Saturday; date object
+end_date = str(end_day.strftime("%Y, %m, %d")) # Saturday; date as string
+pn_startdate = start_day.strftime("%b. %d") # date as string for email narrative
+pn_enddate = end_day.strftime("%b. %d") # date as string for email narrative
 
 # Who gets the report:
 if countywanted == 'Marion':
-    receiver = ['doug.ray@starbanner.com'] # , 'joe.byrnes@gvillesun.com', 'alan.youngblood@starbanner.com']
+    receiver = ['doug.ray@starbanner.com', 'joe.byrnes@gvillesun.com', \
+    'alan.youngblood@starbanner.com']
 elif countywanted == 'Alachua':
     receiver = ['doug.ray@starbanner.com']
 elif countywanted == 'Polk':
-    receiver = ['doug.ray@starbanner.com'] #, 'laura.davis@theledger.com']
+    receiver = ['doug.ray@starbanner.com']#, 'laura.davis@theledger.com']
 elif countywanted == 'Sarasota':
     receiver = ['doug.ray@starbanner.com', 'brian.ries@heraldtribune.com']
 elif countywanted == 'Manatee':
@@ -46,7 +51,7 @@ bigreport = os.path.join(path_directory, 'bigreport.txt')
 
 # Access database
 sqlite_file = os.path.join(path_directory, 'rinspect.sqlite')
-conn = sqlite3.connect(sqlite_file)
+conn = sqlite3.connect('rinspect.sqlite')
 conn.row_factory = lambda cursor, row: row[0]
 c = conn.cursor()
 
@@ -89,13 +94,15 @@ def get_big_timestamp(date_object=None):
     # comment out below if you don't want "Wednesday" or similar in your string
     #stamp += datetime.datetime.strftime(date_object, "%A, ")
     if date_object.month == 9:
-        stamp += "Sept. " +  datetime.strftime(date_object, "%d, %Y").lstrip("0")
+        stamp += "Sept. " +  datetimedatetime.strftime(date_object, "%d, %Y").lstrip("0")
     elif date_object.month < 3 or date_object.month > 7:
-        stamp += datetime.strftime(date_object, "%b. ") + datetime.strftime(date_object, "%d").lstrip("0")
+        stamp += datetime.datetime.strftime(date_object, "%b. ") \
+        + datetime.datetime.strftime(date_object, "%d").lstrip("0")
     else:
-        stamp += datetime.strftime(date_object, "%B ") + datetime.strftime(date_object, "%d").lstrip("0")
+        stamp += datetime.datetime.strftime(date_object, "%B ") \
+        + datetime.datetime.strftime(date_object, "%d").lstrip("0")
     # uncomment out below if you want the year
-    #stamp += datetime.strftime(date_object, ", %Y")
+    #stamp += datetime.datetime.strftime(date_object, ", %Y")
     # uncomment below if you want the time
     # stamp += ", at "
     # stamp += datetime.datetime.strftime(date_object, "%I:%M %p").lstrip("0").replace("AM", "a.m.").replace("PM", "p.m.")
@@ -118,8 +125,8 @@ def clean_report(id):
     insptype = str([x[8] for x in data]).strip("['']")
     inspdispos = str([x[9] for x in data]).strip("['']")
     inspdate = str([x[10] for x in data]).strip("['']")
-    inspdate = str(datetime.strptime(inspdate, ('%Y, %m, %d')).date())
-    inspdate = (datetime.strptime(inspdate, ('%Y-%m-%d')).date())
+    inspdate = str(datetime.datetime.strptime(inspdate, ('%Y, %m, %d')).date())
+    inspdate = (datetime.datetime.strptime(inspdate, ('%Y-%m-%d')).date())
     totalvio = str([x[11] for x in data]).strip("['']")
     highvio = str([x[12] for x in data]).strip("['']")
 
@@ -137,7 +144,6 @@ def clean_report(id):
     pn = "\n"
     pn += str(sitename).strip('"') + ", "
     pn += addy + ", had a " + insptype + " inspection "
-    #pn += inspdate + ". " #comment out if using big_timestamp
     pn += get_big_timestamp(inspdate) + ". "
     pn += insptypedict[inspdispos]
     if str(totalvio) == "0":
@@ -286,27 +292,32 @@ def clean_report(id):
 
     conn = sqlite3.connect(sqlite_file)
     c = conn.cursor()
-    obs = c.execute(f"SELECT obs FROM {table_name2} WHERE visitid = {id}")
+    obs = c.execute("SELECT obs FROM '{}' WHERE visitid = '{}'"\
+    .format(table_name2, id))
     vios = c.fetchall()
     for vio in vios:
         if "'Basic" in str(vio):
             basicvio = str(vio)
-            bn += "-- " + str(vio).strip("('')").rstrip(",").rstrip("'").replace('\\n', ' ')
+            bn += "-- " + str(vio).strip("('')").rstrip(",").rstrip("'")\
+            .replace('\\n', ' ')
             " ".join(bn.split())
             bn += "\n"
         elif "'Intermediate" in str(vio):
             intervio = str(vio)
-            cn += "-- " + str(vio).strip("('')").rstrip(",").rstrip("'").replace('\\n', ' ')
+            cn += "-- " + str(vio).strip("('')").rstrip(",").rstrip("'")\
+            .replace('\\n', ' ')
             " ".join(cn.split())
             cn += "\n"
         elif "'High Priority" in str(vio):
             highvio = str(vio)
-            hn += "-- " + str(vio).strip("('')").rstrip(",").rstrip("'").replace('\\n', ' ')
+            hn += "-- " + str(vio).strip("('')").rstrip(",").rstrip("'")\
+            .replace('\\n', ' ')
             " ".join(hn.split())
             hn += "\n"
         else:
             unkvio = str(vio)
-            vn += "-- " + str(vio).strip("('')").rstrip(",").rstrip("'").replace('\\n', ' ')
+            vn += "-- " + str(vio).strip("('')").rstrip(",").rstrip("'")\
+            .replace('\\n', ' ')
             " ".join(kn.split())
             kn += "\n"
     vn = hn + cn + bn + kn
@@ -318,10 +329,9 @@ def clean_report(id):
 if os.path.exists(bigreport):
     os.remove(bigreport)
 else:
-    print("The old file for {} isn't there.".format(bigreport))
+    print(f"The old file for {bigreport} isn't there.")
 
-intro = """These are recent restaurant inspection reports for {} County — from {} to {} — filed by state safety and sanitation inspectors.\nThe Florida Department of Business & Professional Regulation describes an inspection report as “a ‘snapshot’ of conditions present at the time of the inspection. On any given day, an establishment may have fewer or more violations than noted in their most recent inspection. An inspection conducted on any given day may not be representative of the overall, long-term conditions at the establishment.\nPlease note that some more recent, follow-up inspections may not be included here.\n""".format(countywanted, start_date, end_date)
-
+intro = f"""These are recent restaurant inspection reports for {countywanted} County — from {pn_startdate} to {pn_enddate} — filed by state safety and sanitation inspectors.\nThe Florida Department of Business & Professional Regulation describes an inspection report as “a ‘snapshot’ of conditions present at the time of the inspection. On any given day, an establishment may have fewer or more violations than noted in their most recent inspection. An inspection conducted on any given day may not be representative of the overall, long-term conditions at the establishment.\nPlease note that some more recent, follow-up inspections may not be included here.\n"""
 f= open(bigreport,'a+')
 f.write(intro)
 
@@ -346,7 +356,7 @@ with open(bigreport) as fp:
 
 sender = 'data@sunwriters.com'
 gmail_password = '%WatchingTheDetectives'
-msg['Subject'] = 'Latest restaurant inspection report for {}'.format(countywanted)
+msg['Subject'] = f'Latest restaurant inspection report for {countywanted}'
 msg['from'] = sender
 msg['To'] = receiver
 
@@ -359,6 +369,6 @@ try:
     server.quit()
 
     print('Email sent!')
-    print('There are {} inspections in the new report.'.format(reportnum))
+    print(f'There are {reportnum} inspections in the new report.')
 except:
     print('Something went wrong...')
