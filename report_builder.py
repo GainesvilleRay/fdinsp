@@ -17,8 +17,8 @@ import sqlite3
 
 # COUNTY for inspection reports; unselect the one you want
 #countywanted = 'Marion'
-#countywanted = 'Alachua'
-countywanted = 'Polk'
+countywanted = 'Alachua'
+#countywanted = 'Polk'
 #countywanted = 'Sarasota'
 #countywanted = 'Manatee'
 
@@ -37,9 +37,10 @@ if countywanted == 'Marion':
     receiver = ['doug.ray@starbanner.com', 'joe.byrnes@gvillesun.com', \
     'alan.youngblood@starbanner.com']
 elif countywanted == 'Alachua':
-    receiver = ['doug.ray@starbanner.com']
+    receiver = ['doug.ray@starbanner.com', 'joe.byrnes@gvillesun.com', \
+    'alan.youngblood@starbanner.com']
 elif countywanted == 'Polk':
-    receiver = ['doug.ray@starbanner.com']#, 'laura.davis@theledger.com']
+    receiver = ['doug.ray@starbanner.com', 'laura.davis@theledger.com']
 elif countywanted == 'Sarasota':
     receiver = ['doug.ray@starbanner.com', 'brian.ries@heraldtribune.com']
 elif countywanted == 'Manatee':
@@ -131,31 +132,32 @@ def clean_report(id):
     highvio = str([x[12] for x in data]).strip("['']")
 
     # Start building narrative; based on concept and foundation from Stuckya
-    addy = str(streetaddy) + ", " + str(cityaddy)
+    addy = str(streetaddy) + ", " + str(cityaddy) + "\n"
     if "Routine" in str(insptype):
-        insptype = "routine"
+        insptype = "Routine"
     elif "Licensing" in str(insptype):
-        insptype = "licensing"
+        insptype = "Licensing"
     elif "Complaint" in insptype:
-        insptype = "complaint"
+        insptype = "Complaint"
     else:
-        insptype = "unknown"
+        insptype = "Unknown type"
     global pn
     pn = "\n"
-    pn += str(sitename).strip('"') + ", "
-    pn += addy + ", had a " + insptype + " inspection "
-    pn += get_big_timestamp(inspdate) + ". "
-    pn += insptypedict[inspdispos]
+    pn += str(sitename).strip('"') + "\n"
+    pn += addy
+    pn += insptype + " inspection "
+    pn += get_big_timestamp(inspdate) + ".\n"
+    pn += insptypedict[inspdispos] + "\n"
     if str(totalvio) == "0":
-        pn += " No violations were found.\n"
+        pn += "No violations were found.\n"
     elif str(totalvio) == "1":
-        pn += " One violation, with "
+        pn += "One violation, with "
         if str(highvio) == "0":
             pn += "no high-priority violations.\n"
         else:
             pn += "one high-priority violation:\n"
     elif str(totalvio) == "2":
-        pn += " Two total violations, with "
+        pn += "Two total violations, with "
         if str(highvio) == "0":
             pn += "no high-priority violations.\n"
         elif str(highvio) == "1":
@@ -163,7 +165,7 @@ def clean_report(id):
         else:
             pn += "both as high-priority violations:\n"
     elif str(totalvio) == "3":
-        pn += " Three total violations, with "
+        pn += "Three total violations, with "
         if str(highvio) == "3":
             pn += "three high-priority violations:\n"
         elif str(highvio) == "2":
@@ -173,7 +175,7 @@ def clean_report(id):
         else:
             pn += "no high-priority violations.\n"
     elif str(totalvio) == "4":
-        pn += " Four total violations, with "
+        pn += "Four total violations, with "
         if str(highvio) == "4":
             pn += "four high-priority violations:\n"
         elif str(highvio) == "3":
@@ -185,7 +187,7 @@ def clean_report(id):
         else:
             pn += "no high-priority violations.\n"
     elif str(totalvio) == "5":
-        pn += " Five total violations, with "
+        pn += "Five total violations, with "
         if str(highvio) == "5":
             pn += "five high-priority violations:\n"
         elif str(highvio) == "4":
@@ -199,7 +201,7 @@ def clean_report(id):
         else:
             pn += "no high-priority violations.\n"
     elif str(totalvio) == "6":
-        pn += " Six total violations, with "
+        pn += "Six total violations, with "
         if str(highvio) == "6":
             pn += "six high-priority violations:\n"
         elif str(highvio) == "5":
@@ -215,7 +217,7 @@ def clean_report(id):
         else:
             pn += "no high-priority violations.\n"
     elif str(totalvio) == "7":
-        pn += " Seven total violations, with "
+        pn += "Seven total violations, with "
         if str(highvio) == "7":
             pn += "seven high-priority violations:\n"
         elif str(highvio) == "6":
@@ -233,7 +235,7 @@ def clean_report(id):
         else:
             pn += "no high-priority violations.\n"
     elif str(totalvio) == "8":
-        pn += " Eight total violations, with "
+        pn += "Eight total violations, with "
         if str(highvio) == "8":
             pn += "eight high-priority violations:\n"
         elif str(highvio) == "7":
@@ -253,7 +255,7 @@ def clean_report(id):
         else:
             pn += "no high-priority violations.\n"
     elif str(totalvio) == "9":
-        pn += " Nine total violations, with "
+        pn += "Nine total violations, with "
         if str(highvio) == "9":
             pn += "nine high-priority violations:\n"
         elif str(highvio) == "8":
@@ -275,7 +277,7 @@ def clean_report(id):
         else:
             pn += "no high-priority violations.\n"
     else:
-        pn += " " + str(totalvio) + " total violations, with "
+        pn += str(totalvio) + " total violations, with "
         if str(highvio) == "0":
             pn += "no high-priority violations."
         elif str(highvio) == "1":
