@@ -1,5 +1,5 @@
 from datetime import datetime
-today = datetime.date.today()
+today = datetime.today()
 weekday = today.weekday()
 
 if (weekday == 6):

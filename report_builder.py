@@ -17,10 +17,10 @@ import sqlite3
 
 # COUNTY for inspection reports; unselect the one you want
 #countywanted = 'Marion'
-countywanted = 'Alachua'
+#countywanted = 'Alachua'
 #countywanted = 'Polk'
 #countywanted = 'Sarasota'
-#countywanted = 'Manatee'
+countywanted = 'Manatee'
 
 # DATE RANGE for report, week prior
 today = datetime.date.today()
