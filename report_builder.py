@@ -20,7 +20,7 @@ import sqlite3
 #countywanted = 'Alachua'
 #countywanted = 'Polk'
 #countywanted = 'Sarasota'
-countywanted = 'Manatee'
+#countywanted = 'Manatee'
 
 # DATE RANGE for report, week prior
 today = datetime.date.today()
@@ -40,7 +40,8 @@ elif countywanted == 'Alachua':
     receiver = ['doug.ray@starbanner.com', 'joe.byrnes@gvillesun.com', \
     'alan.youngblood@starbanner.com']
 elif countywanted == 'Polk':
-    receiver = ['doug.ray@starbanner.com', 'laura.davis@theledger.com']
+    receiver = ['doug.ray@starbanner.com', 'laura.davis@theledger.com', \
+    'bheist@theledger.com']
 elif countywanted == 'Sarasota':
     receiver = ['doug.ray@starbanner.com', 'brian.ries@heraldtribune.com']
 elif countywanted == 'Manatee':

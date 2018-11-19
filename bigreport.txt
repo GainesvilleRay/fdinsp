@@ -1,384 +1,225 @@
-These are recent restaurant inspection reports for Manatee County — from Nov. 05 to Nov. 10 — filed by state safety and sanitation inspectors.
+These are recent restaurant inspection reports for Manatee County — from Nov. 12 to Nov. 17 — filed by state safety and sanitation inspectors.
 The Florida Department of Business & Professional Regulation describes an inspection report as “a ‘snapshot’ of conditions present at the time of the inspection. On any given day, an establishment may have fewer or more violations than noted in their most recent inspection. An inspection conducted on any given day may not be representative of the overall, long-term conditions at the establishment.
 Please note that some more recent, follow-up inspections may not be included here.
 
-Tortilleria La Rancherita
-3010 14 St W, Bradenton
-Complaint inspection Nov. 5.
+Senor Fajitas
+316 Old Main St, Bradenton
+Routine inspection Nov. 16.
 Follow-up needed: Warning issued.
-17 total violations, with 6 high-priority violations:
--- High Priority - Employee failed to wash hands before changing gloves and/or putting on gloves to work with food. Observed employee put on gloves with no hand wash. **Warning**
--- High Priority - Food-contact surfaces not sanitized after cleaning, before use. Do not use equipment/utensils not properly sanitized. **Corrected On-Site** **Warning**
--- High Priority - Potentially hazardous (time/temperature control for safety) food cold held at greater than 41 degrees Fahrenheit.  Reach-in cooler - ambient temp 54° F, tomatoes cut 61°F, lettuce 58°F, tm 59°F, milk 54°F. **Warning**
--- High Priority - Raw animal food stored over canned/bottled drinks walk-in freezer. Manager moved water to the side of the walk-in freezer away from frozen raw meat. **Corrected On-Site** **Warning**
--- High Priority - Raw animal food stored over ready-to-eat food in walk-in cooler. Raw chicken over cooked salsa. Manager moved raw chicken to bottom of reach-in cooler. **Corrected On-Site** **Warning**
--- High Priority - Stop Sale issued on potentially hazardous (time/temperature control for safety) food due to temperature abuse.  Reach-in cooler - ambient temp 54° F, tomatoes cut 61°F, lettuce 58°F, tm 59°F, milk 54°F. **Warning**
--- Intermediate - Ambient air thermometer in holding unit not accurate within plus or minus 3 degrees Fahrenheit. Reach-in cooler across from wRe washing area. **Warning**
--- Intermediate - No probe thermometer provided to measure temperature of food products. **Warning**
--- Basic - Bowl or other container with no handle used to dispense food. Cup used to serve salsa. **Warning**
--- Basic - Ceiling/ceiling tile shows damage or is in disrepair. Ceiling tile missing at entrance to kitchen. **Warning**
--- Basic - Employee personal items stored in or above a food preparation area. Medicine, phones, drinks, and phone cables above food prep table. **Warning**
--- Basic - Food not stored at least 6 inches off of the floor. Observed lard and corn meal on floor in outside dry storage. **Warning**
--- Basic - Food stored outside. Skid of bottled water ouside near dry storage. **Warning**
--- Basic - Opened employee beverage container in a cold holding unit with food to be served to customers. Drink found in walk-in freezer and hand washing sink. **Warning**
--- Basic - Plumbing system in disrepair. Hand washing sink near reach-in cooler not draining.  **Warning**
--- Basic - Unnecessary items/unused equipment on the premises. Observed washer/dryer, reach-in cooler, and other objects stored outside premises near dumpster and outside dry storage area. **Warning**
--- Basic - Working containers of food removed from original container not identified by common name. Flour not labeled in kitchen area.  Manager disposed of flour **Corrected On-Site** **Warning**
+24 total violations, with 8 high-priority violations:
+-- High Priority - Cooked potentially hazardous (time/temperature control for safety) food not cooled from 135 degrees Fahrenheit to 41 degrees Fahrenheit within 6 hours. Cooked rice temperature at 45°F. Owner stated rice cooked last night. See stop sale report **Corrective Action Taken** **Warning**
+-- High Priority - Food-contact surfaces not sanitized after cleaning, before use. Do not use equipment/utensils not properly sanitized. Observed employee rinse off scoop without proper wash, rinse, sanitize. Educate employee about proper ware washing procedures  **Corrective Action Taken** **Warning**
+-- High Priority - Live, small flying insects in kitchen, food preparation area, or food storage area. Approximately 5 flying insects in cook area near back door and approximately 6 in the bar seating area. **Admin Complaint**
+-- High Priority - Raw animal food stored over cooked food at reach-in freezer, raw chicken over ice cream. **Corrected On-Site** **Warning**
+-- High Priority - Server handled soiled dishes or utensils and then picked up plated food, served food, or prepared a beverage without washing hands. Observed cook clean soiled scoop with water for reuse without hand wash. Employee placed scoop back into ware washing area for cleaning. **Corrected On-Site** **Warning**
+-- High Priority - Spray bottle with chemical/toxic substance stored near/on/above food preparation surface or food at bar area. **Repeat Violation** **Warning**
+-- High Priority - Stop Sale issued on potentially hazardous (time/temperature control for safety) food due to temperature abuse. Cooked rice temperature at 45°F. Owner stated rice cooked last night. **Warning**
+-- High Priority - Warewashing sanitizing solution exceeding the maximum concentration allowed. Observed sanitizing bucket at over 200+ ppm. Operator dumped bucket and second bucket was 50 ppm. **Corrected On-Site** **Warning**
+-- Intermediate - Encrusted material on can opener blade. **Warning**
+-- Intermediate - Establishment conducts non-continuous cooking of raw animal foods without written procedures approved by the division. Chicken and beef at cook line reach-in cooler partially cooked with no written method approved. **Warning**
+-- Intermediate - Handwash sink not accessible for employee use due to items stored in the sink. Observed scratch pads in hand washing sink neat warewashing station.  **Repeat Violation** **Warning**
+-- Intermediate - Interior of reach-in cooler soiled with accumulation of food residue, at salsa serving reach-in cooler bottom. Reach-in freezer bottom soiled, as well as gaskets. **Warning**
+-- Intermediate - Ready-to-eat, potentially hazardous (time/temperature control for safety) food prepared onsite and held more than 24 hours not properly date marked. No date marking on any food products held overnight. Foods were datemarked by staff. **Corrected On-Site** **Repeat Violation** **Warning**
+-- Basic - Dead roaches on premises. Observed approximately 6 dead roaches in bar area cabinets. Operator cleaned up dead roaches from bar area. **Corrected On-Site** **Admin Complaint**
+-- Basic - Employee beverage container on a food preparation table or over/next to clean equipment/utensils. Drink at expedite line.  **Repeat Violation** **Warning**
+-- Basic - Employee personal items stored with or above food, clean equipment and utensils, or single-service items. Phone and speaker in dry storage area. **Warning**
+-- Basic - Establishment did not report seating change that affects the license fee, Clean Indoor Air Act, sewage system approval or other related requirements. Observed 44 seats inside restaurant. **Warning**
+-- Basic - Fan cover in reach-in cooler  has accumulation of dust or debris, near dry storage. **Warning**
+-- Basic - Floors not constructed to be easily cleanable. Observed floor near dish wash machine not sealed or easily cleanable. **Warning**
+-- Basic - Food stored in dry storage area not covered. Dry rice at dish, dry storage area containing large box of aluminum foil. Operator removed aluminum box and threw away dry rice. **Corrected On-Site** **Warning**
+-- Basic - Food stored on floor. Observed approximately three food buckets on floor near dry storage area, cook line. Operator moved them off floor onto shelf. **Corrected On-Site** **Repeat Violation** **Warning**
+-- Basic - Front and back door left open other than during cleaning or maintenance. **Warning**
+-- Basic - Garbage can located outside has no lid or lid open/broken. **Warning**
+-- Basic - Unisex bathroom door not self-closing. **Warning**
 
-Beef 'O' Brady'S
-4925  Cortez Road West, Bradenton
-Routine inspection Nov. 8.
-Follow-up needed: Warning issued.
-20 total violations, with 5 high-priority violations:
--- High Priority - Dishmachine chlorine sanitizer not at proper minimum strength. Observed 0 ppm chlorine test strip at dish wash machine, container of chlorine was empty. Operator put new container of chlorine under dish wash machine and primed dish wash machine until it functioned properly. **Corrected On-Site** **Warning**
--- High Priority - Employee handled soiled dishes or utensils and then handled clean dishes or utensils without washing hands. Server loaded dirty dishes into dish wash machine and then touched clean pans on shelf. Educated server on proper hand washing. Server washed hands properly. **Corrected On-Site** **Warning**
--- High Priority - Live, small flying insects in kitchen, food preparation area, or food storage area. Observed approximately five flying insects in the cook prep area. **Warning**
--- High Priority - Raw animal food stored over ready-to-eat food.  Observed raw over ready to eat reach-in freezer on cook line cooked rice over bread, raw beef over fries. Manager moved and separated items. **Corrected On-Site** **Warning**
--- High Priority - Spray bottle with chemical/toxic substance stored near/on/above food preparation surface or food, two spray bottles in bar area. Bartender labeled bottles. **Warning**
--- Intermediate - Accumulation of black/green mold-like substance in the interior of the ice machine at wait station. **Repeat Violation** **Warning**
--- Intermediate - Accumulation of food debris/grease on food-contact surface.  Soiled dishes placed on prep table at cook station. Employee removed them from table.   **Corrected On-Site** **Warning**
--- Intermediate - Cutting board(s) stained/soiled. **Warning**
--- Intermediate - Encrusted material on can opener blade. **Repeat Violation** **Warning**
--- Intermediate - Handwash sink not accessible for employee use due to items stored in the sink. Back prep area. **Repeat Violation** **Warning**
--- Basic - Can opener blade not kept sharp - observed metal shavings. **Warning**
--- Basic - Cardboard used to line nonfood-contact shelves. Beer walk-in cooler, wait area. **Warning**
--- Basic - Clean pans not separated from soiled equipment and utensils at warewashing area. Observed meat from meat slicing station on shelves and pans stored in the dish wash area. **Warning**
--- Basic - Employee personal food not properly identified and segregated from food to be served to the public. Crackers observed in small kitchen walk-in cooler, drink in beer walk-in cooler. Manager removed items from walk-in coolers. **Corrected On-Site** **Warning**
--- Basic - Equipment in poor repair.  Broken plastic pan containing  shredded cheese at pizza make station,  sugar container broken and soiled. **Warning**
--- Basic - Floor soiled/has accumulation of debris. Observed chards of glass in corner of walk-in cooler. **Warning**
--- Basic - In-use tongs stored on equipment door handle between uses. Tong on fryer door at cook line. **Warning**
--- Basic - Plumbing system in disrepair. Observed container catching water from plumbing in beer walk-in cooler. **Warning**
--- Basic - Single-service articles improperly stored on floor in dry storage video game area.
--- Basic - Soil residue build-up on nonfood-contact surface. observed soiled fryer side, bottom shelf of prep table at cook line, dirty gaskets along cook line for six reach-in cooler, one reach-in freezer.   **Warning**
 
-Robins Downtown Cafe
-428 12 Street West, Bradenton
-Routine inspection Nov. 8.
+Steak & Shake Inc #84
+106 Cortez Road, Bradenton
+Complaint inspection Nov. 15.
 Follow-up needed: Warning issued.
-23 total violations, with 4 high-priority violations:
--- High Priority - Container of medicine improperly stored at prep and dish washing area. **Repeat Violation** **Warning**
--- High Priority - Employee handled soiled dishes or utensils and then handled clean dishes or utensils without washing hands. Dishwasher load dirty dishes and then unload clean dishes without hand cleaning. THIS MUST BE CORRECTED BY: 11/9/18 **Warning**
--- High Priority - Potentially hazardous (time/temperature control for safety) food cold held at greater than 41 degrees Fahrenheit. At cook line: raw beef 45°F, deli meat 44° F, cooked chicken 45°F, cooked ham 44°F, Raw shell Eggs 45°F, cooked eggs 44°F, pasta 45°F **THIS MUST BE CORRECTED BY: 11/9/18 **Warning**
--- High Priority - Toxic substance/chemical stored by or with food. Observed food stored with chemicals at dry storage. **Warning**
--- Intermediate - Accumulation of black/green mold-like substance behind soda dispensing nozzles in wait area. **Warning**
--- Intermediate - Cutting board(s) stained/soiled. **Warning**
--- Intermediate - Handwash sink not accessible for employee use due to items stored in the sink. Observed lettuce and colander in hand washing sink. Cook removed items.  **Corrected On-Site** **Warning**
--- Intermediate - Interior of reach-in cooler soiled with accumulation of food residue, bottom of reach-in cooler soiled at cook prep station, fan blade with mold-like substance at reach-in cooler in dry storage area. **Warning**
--- Basic - Case/container/bag of food stored on floor in dry storage area. Box of food stored on floor in hallway. **Warning**
--- Basic - Employee personal items stored in or above a food preparation area. Phone and drinks at prep area; personal items, vape pen at dry storage; drink container at wait station. **Warning**
--- Basic - Employee wearing jewelry other than a plain ring on their hands/arms while preparing food. Two wait staff wearing jewelry. **Warning**
--- Basic - Employee with no hair restraint while engaging in food preparation. Line cook no hat, dishwasher no beard guard **Repeat Violation** **Warning**
--- Basic - Equipment and utensils not properly air-dried - wet nesting, at dish wash area on shelves. **Warning**
--- Basic - Gaskets with slimy/mold-like build-up at reach-in cooler dry storage. **Warning**
--- Basic - Hole in or other damage to wall. Neat hot water heater. **Warning**
--- Basic - In-use utensil not stored with handle above the top of potentially hazardous (time/temperature control for safety) food and rim of the container. Spoon handles in contact with food at reach-in cooler prep cook area. **Warning**
--- Basic - Inaccurate/damaged temperature gauge(s) on dishmachine. Temperature gauge at dish wash machine not operational. **Warning**
--- Basic - Nonfood-contact equipment in poor repair. Rust on bottom shelf container storage; reach-in cooler racks rusted, no fan cover, soiled gaskets, no fan blade cover at reach-in cooler near dry storage, two freezers with accumulation of ice build-up. **Warning**
--- Basic - Outer openings not protected with self-closing doors. Back door. **Warning**
--- Basic - Plumbing system in disrepair. Backflow preventer leaking at mop sink ceiling. **Warning**
--- Basic - Stored food not covered in reach-in freezer. Observed ready to eat food item stored on shelf in reach-in freezer without wrapping. **Warning**
--- Basic - Wet wiping cloths used for occasional spills on equipment food- and nonfood-contact surfaces not clean. On cooks line **Warning**
--- Basic - Wiping cloth chlorine sanitizing solution not at proper minimum strength. Observed no chlorine in sanitizing bucket at wait station. Wait staff added chlorine into the sanitizer bucket and subsequent reading was 100 ppm. **Corrected On-Site** **Warning**
+19 total violations, with 4 high-priority violations:
+-- High Priority - Potentially hazardous (time/temperature control for safety) food cold held at greater than 41 degrees Fahrenheit. At ice well at wait station, observed half and half at 46°F while Cold Holding. Operator removed food from unit and stored food in unit capable of maintaining potentially hazardous food at 41°F.  **Corrective Action Taken** **Repeat Violation** **Warning**
+-- High Priority - Server handled soiled dishes or utensils and then picked up plated food, served food, or prepared a beverage without washing hands. **Warning**
+-- High Priority - Vacuum breaker missing at hose bibb or on fitting/splitter added to hose bibb at rear exterior of establishment. **Warning**
+-- High Priority - Vacuum breaker missing at mop sink faucet or on fitting/splitter added to mop sink faucet. **Repeat Violation** **Warning**
+-- Intermediate - Ambient air thermometer in holding unit not accurate within plus or minus 3 degrees Fahrenheit at walk in cooler. Thermometer read 30°F. Actual ambient air temperature at 38°F. **Warning**
+-- Intermediate - Certified Food Manager or person in charge lacks knowledge of foodborne illnesses and symptoms of illness that would prevent an employee from working with food, clean equipment and utensils, and single-service items. **Warning**
+-- Basic - Coffee filters at wait station not stored in a protected manner to prevent contamination. **Corrected On-Site** **Warning**
+-- Basic - Double door Reach-in cooler gaskets at shake making area and at double door reach in freezer across from fryer on cook line torn/in disrepair. **Repeat Violation** **Warning**
+-- Basic - Employee personal items (bags/purses) stored with or above food, clean equipment and utensils, or single-service items at wait station. Employee items removed. **Corrected On-Site** **Warning**
+-- Basic - Employee personal items stored in or above a food preparation area. Observed employee cellular phone stored on a cutting board at preparation area. **Corrected On-Site** **Warning**
+-- Basic - Floor soiled/has accumulation of debris throughout kitchen, cook line, ware washing area and walk in freezer. **Warning**
+-- Basic - Food stored on floor. (Box of onions) **Corrected On-Site** **Warning**
+-- Basic - Garbage on the ground and/or pad around dumpster. **Repeat Violation** **Warning**
+-- Basic - In-use ice scoop stored on soiled surface between uses at wait station and proximal to ice machine at kitchen. **Corrected On-Site** **Warning**
+-- Basic - In-use utensil used with moist food stored in running water with insufficient velocity to flush food particles away at shake preparation area. Observed build up of food debris at water at dipper well used for ice cream scoops. Water appeared cloudy. Ice dean scoops in use. **Warning**
+-- Basic - Lime scale build-up inside ice machine. **Warning**
+-- Basic - Single-service articles stored on a soiled surface. Observed single service cups stored on cart with discarded food and receipt paper. **Repeat Violation** **Warning**
+-- Basic - Wall soiled with accumulated grease, food debris, and/or dust in food preparation and food storage areas. **Warning**
+-- Basic - Wiping cloth quaternary ammonium compound sanitizing solution not at proper minimum strength. At wait station: ; Sanitizer Bucket (Quaternary 0ppm). Operator increased the amount of sanitizer in use to 150ppm. **Corrected On-Site** **Warning**
+
+
+Georges Seafood House
+8419 Honore Ave, Bradenton
+Licensing inspection Nov. 13.
+Met standards.
+14 total violations, with one high-priority violation:
+-- High Priority - Toxic substance/chemical stored by or with food at dry storage. Operator separated chemicals from food dry storage area.  **Corrected On-Site**
+-- Intermediate - Spray bottle containing toxic substance not labeled. Spray bottle containing toxic substance not labeled. Operator threw away unlabeled spray bottle.  **Corrected On-Site**
+-- Basic - Bowl or other container with no handle used to dispense food.
+-- Basic - Build-up of grease on nonfood-contact surface on single-door hold holding  unit near wok and on floor proximal to unit.
+-- Basic - Build-up of grease/dust/debris on hood filters at cook line.
+-- Basic - Dumpster rusted out on bottom.
+-- Basic - Exterior door has a gap at the threshold that opens to the outside.
+-- Basic - Floor tiles cracked, broken or in disrepair. One floor tile broken at expedite area.
+-- Basic - Grease accumulated on kitchen floor and/or under cooking equipment. Wall soiled with accumulated grease, food debris, and/or dust. Observed debris lining the cove molding in hallway to back exit.
+-- Basic - No Heimlich maneuver/choking sign posted.
+-- Basic - One dead roach on premises at food preparation table shelf near can opener. Operator removed and discarded dead roach. Operator removed contaminated cooking equipment. **Corrected On-Site**
+-- Basic - Reach-in cooler gasket torn/in disrepair at cook line. Walk-in freezer gasket torn.
+-- Basic - Standing water or very slow draining water in handwash sink near reach-in freezer near three-compartment sink.
+-- Basic - Walk-in cooler and  reach-in cooler at cook line  gaskets soiled with slimy/mold-like build-up.
+
+Chi Chop
+8404 Lockwood Ridge Road, Sarasota
+Licensing inspection Nov. 15.
+Met standards.
+Six total violations, with one high-priority violation:
+-- High Priority - Wiping cloth sanitizer solution exceeds the maximum concentration allowed. Observed Sanitizer Bucket Chlorine sanitizing solution at 200ppm. Operator diluted solution to 100ppm. **Corrected On-Site**
+-- Intermediate - Spray bottle containing toxic substance not labeled. **Corrected On-Site**
+-- Basic - Carbon dioxide/helium tanks not adequately secured.
+-- Basic - Lights in food preparation, food storage or warewashing area missing the proper shield, sleeve coatings or covers at dry storage area.
+-- Basic - No Heimlich maneuver/choking sign posted.
+-- Basic - Open dumpster lid.
+
+Krave  N  Joy
+1135-1137 53rd Ave. West, Bradenton
+Routine inspection Nov. 16.
+Time extension given to correct earlier problems.
+Six total violations, with one high-priority violation:
+-- High Priority - - From initial inspection : High Priority - Vacuum breaker missing at mop sink faucet or on fitting/splitter added to mop sink faucet. **Warning**     - From follow-up inspection 2018-10-23:  **Time Extended**     - From follow-up inspection 2018-11-16:  **Time Extended**
+-- Intermediate - - From initial inspection : Intermediate - Accumulation of black/green mold-like substance in the interior of the ice machine. **Warning**     - From follow-up inspection 2018-10-23:  **Time Extended**     - From follow-up inspection 2018-11-16:  **Time Extended**
+-- Intermediate - - From initial inspection : Intermediate - No certified food manager for establishment.  A list of accredited food manager certification examination providers can be found at http://www.myfloridalicense.com/DBPR/hotels-restaurants/food-lodging/food-manager/ **Repeat Violation** **Warning**     - From follow-up inspection 2018-10-23:  **Time Extended**     - From follow-up inspection 2018-11-16:  **Time Extended**
+-- Basic - - From initial inspection : Basic - Equipment in poor repair. Observed ice machine with broken door. **Repeat Violation** **Warning**     - From follow-up inspection 2018-10-23:  **Time Extended**     - From follow-up inspection 2018-11-16:  **Time Extended**
+-- Basic - - From initial inspection : Basic - Open dumpster lid. **Warning**     - From follow-up inspection 2018-10-23:  **Time Extended**     - From follow-up inspection 2018-11-16:  **Time Extended**
+-- Basic - - From initial inspection : Basic - Unnecessary items/unused equipment on the premises. Observed several unused coolers being stored behind beverage display at lobby. **Repeat Violation** **Warning**     - From follow-up inspection 2018-10-23:  **Time Extended**     - From follow-up inspection 2018-11-16:  **Time Extended**
+
+Peach's Restaurant
+6057 26 St W, Bradenton
+Routine inspection Nov. 15.
+Follow-up needed: Administrative complaint recommended.
+Five total violations, with one high-priority violation:
+-- High Priority - - From initial inspection : High Priority - Potentially hazardous (time/temperature control for safety) food cold held at greater than 41 degrees Fahrenheit. At hooded reach in cooler for salad, Observed ambient air temperature at 54°F. Observed the following temperatures: cantaloupe 55°F, sausage links 59°F, sausage patties 54°F, hard boiled eggs 61°F. Operator lowered temperature at unit. At walk in cooler, Observed the following temperatures: beef in gravy; Beef (45°F - Cold Holding), pooled eggs; Poultry (49°F - Cold Holding), hard boiled eggs; Poultry (46°F - Cold Holding), quiche ;  (47°F - Cold Holding), Canadian bacon ; Pork (45°F - Cold Holding), marinara; Plant Foods (45°F - Cold Holding). Operator lowered temperature at unit by opening walk in freezer door adjacent to unit and allowing air flow between units.**Warning** **Corrective Action Taken** **Repeat Violation** **Admin Complaint**     - From follow-up inspection 2018-11-15: At walk in cooler, Observed the following temperatures: sausage patties 44-45°F, sausage links 44-45°F, pooled eggs 45°F. Advised operator to store potentially hazardous food items in coldest areas at unit. **Admin Complaint**
+-- Intermediate - - From initial inspection : Intermediate - No proof of required state approved employee training provided for employee hired more than 60 days ago. To order approved program food safety material, call DBPR contracted provider:  Florida Restaurant and Lodging Association (SafeStaff) 866-372-7233. (Clark) **Warning**     - From follow-up inspection 2018-11-15:  **Time Extended**
+-- Intermediate - - From initial inspection : Intermediate - Probe thermometer not accurate within plus or minus 2 degrees Fahrenheit. **Corrected On-Site** **Warning**     - From follow-up inspection 2018-11-15:  **Time Extended**
+-- Basic - - From initial inspection : Basic - Walk-in cooler shelves soiled with encrusted food debris. **Warning**     - From follow-up inspection 2018-11-15:  **Time Extended**
+-- Basic - - From initial inspection : Basic - Walk-in cooler shelves with rust that has pitted the surface. **Warning**     - From follow-up inspection 2018-11-15:  **Time Extended**
+
+Mr Tequila Mexican Restaurant
+491 Cortez Road W, Bradenton
+Routine inspection Nov. 15.
+Follow-up needed: Administrative complaint recommended.
+Four total violations, with one high-priority violation:
+-- High Priority - - From initial inspection : High Priority - Potentially hazardous (time/temperature control for safety) food cold held at greater than 41 degrees Fahrenheit. At double door hooded reach in cooler, Observed ambient air temperature at 68°F. Observed the following temperatures: shredded mozzarella ; Dairy (70°F - Cold Holding), diced tomatoes ; Plant Foods (64°F - Cold Holding), queso cheese; Dairy (66°F - Cold Holding). Operator put ice on the food. **Corrective Action Taken** **Repeat Violation** **Warning**     - From follow-up inspection 2018-11-15: At hooded reach in cooler, Observed ambient air temperature at 54°F. Observed the following temperatures: Shredded mozzarella 51°F, shredded lettuce 52°F, and chorizo 46°F. Operator assessed ice to food. **Admin Complaint** **Corrective Action Taken**
+-- Intermediate - - From initial inspection : Intermediate - Certified Food Manager or person in charge lacks knowledge of foodborne illnesses and symptoms of illness that would prevent an employee from working with food, clean equipment and utensils, and single-service items. **Warning**     - From follow-up inspection 2018-11-15:  **Time Extended**
+-- Basic - - From initial inspection : Basic - Plumbing system in disrepair. No cold available water at hand washing sink. **Repeat Violation** **Warning**     - From follow-up inspection 2018-11-15:  **Time Extended**
+-- Basic - - From initial inspection : Basic - Reach-in cooler shelves with rust that has pitted the surface. **Repeat Violation** **Warning**     - From follow-up inspection 2018-11-15:  **Time Extended**
+
+Mr Tequila Mexican Restaurant
+491 Cortez Road W, Bradenton
+Routine inspection Nov. 15.
+Follow-up needed: Administrative complaint recommended.
+Three total violations, with one high-priority violation:
+-- High Priority - - From initial inspection : High Priority - Potentially hazardous (time/temperature control for safety) food cold held at greater than 41 degrees Fahrenheit. Operator stated cold holding unit was not turned on in error. Operator turned unit on and put ice on food. **Corrective Action Taken** **Repeat Violation** **Warning**     - From follow-up inspection 2018-10-09: At hooded reach in cooler, Observed ambient air temperature at 71°F. Observed the following temperatures: shredded lettuce 59°F, diced tomatoes 61°F, guacamole 64°F, shredded mozzarella 61°F.  Operator put ice on food. **Admin Complaint** **Corrective Action Taken**     - From follow-up inspection 2018-11-08: At double door hooded reach in cooler, Observed ambient air temperature at 68°F. Observed the following temperatures: shredded mozzarella ; Dairy (70°F - Cold Holding), diced tomatoes ; Plant Foods (64°F - Cold Holding), queso cheese; Dairy (66°F - Cold Holding). Operator put ice on the food. **Time Extended** **Corrective Action Taken**     - From follow-up inspection 2018-11-15: At hooded reach in cooler, Observed ambient air temperature at 54°F. Observed the following temperatures: Shredded mozzarella 51°F, shredded lettuce 52°F, and chorizo 46°F. Operator assessed ice to food. **Admin Complaint** **Corrective Action Taken**
+-- Intermediate - - From initial inspection : Intermediate - Certified Food Manager or person in charge lacks knowledge of foodborne illnesses and symptoms of illness that would prevent an employee from working with food, clean equipment and utensils, and single-service items. **Warning**     - From follow-up inspection 2018-10-09:  **Time Extended**     - From follow-up inspection 2018-11-08:  **Time Extended**     - From follow-up inspection 2018-11-15:  **Time Extended**
+-- Basic - - From initial inspection : Basic - Plumbing system in disrepair. No cold water at hand washing sink. **Warning**     - From follow-up inspection 2018-10-09:  **Time Extended**     - From follow-up inspection 2018-11-08:  **Time Extended**     - From follow-up inspection 2018-11-15:  **Time Extended**
+
+Amf Bradenton Lanes #203
+4208 W Cortez Road, Bradenton
+Routine inspection Nov. 15.
+Follow-up needed: Administrative complaint recommended.
+Seven total violations, with no high-priority violations.
+-- Intermediate - - From initial inspection : Intermediate - Hot water at handwash sink does not reach 100 degrees Fahrenheit. No hot water observed in men or womens restrooms used by employees. 2 sinks located for general use in each restrooms. Cold water only faucets active. **Repeat Violation** **Admin Complaint**     - From follow-up inspection 2018-11-15: None of the bathrooms have hot water. **Admin Complaint**
+-- Intermediate - - From initial inspection : Intermediate - No plan review submitted and approved - renovations were made or are in progress. Must submit plans and plan review application to DBPR H and R Plan Review office located at 2601 Blair Stone Rd., Tallahassee, FL 32399-1011.  Plans must be submitted AND approved within 30 days. Observed bar area undergoing a remodel from original configuration. Observed kitchen missing a dedicated hand was sink near 4 compartment sink area ice machine location. **Warning**     - From follow-up inspection 2018-11-15: Plans were submitted on 10/17. **Time Extended**
+-- Intermediate - - From initial inspection : Intermediate - No quaternary ammonium chemical test kit provided when using quaternary ammonium chemical sanitizer at three-compartment sink/warewashing machine. **Warning**     - From follow-up inspection 2018-11-15: Test strips not available during this visit. **Time Extended**
+-- Basic - - From initial inspection : Basic - Garbage on the ground and/or pad around dumpster. Observed garbage in pad around dumpster. **Repeat Violation** **Admin Complaint**     - From follow-up inspection 2018-11-15:  **Time Extended**
+-- Basic - - From initial inspection : Basic - Reach-in cooler shelves with rust that has pitted the surface. Observed front counter single door cooler with rusted pitted shelves. **Repeat Violation** **Admin Complaint**     - From follow-up inspection 2018-11-15:  **Time Extended**
+-- Basic - - From initial inspection : Basic - Walk-in cooler/freezer shelves with rust that has pitted the surface. Observed walk in cooler shelves rusty. **Repeat Violation** **Admin Complaint**     - From follow-up inspection 2018-11-15:  **Time Extended**
+
 
 Hooter'S
 4908 W 14 St, Bradenton
-Routine inspection Nov. 6.
-Follow-up needed: Warning issued.
-16 total violations, with 4 high-priority violations:
--- High Priority - Dishmachine chlorine sanitizer not at proper minimum strength. Discontinue use of dishmachine for sanitizing and set up manual sanitization until dishmachine is repaired and sanitizing properly. At ware washing area: Dishwasher (Chlorine 10ppm). Operator sought the assistance of a professional to correct sanitization level. At interior bar: ; Dishwasher (Chlorine 0ppm). Operator increased the amount of sanitizer in use at Dishwasher. Observed sanitizer at (Chlorine 50ppm). **Corrective Action Taken** **Repeat Violation** **Warning**
--- High Priority - Raw meat/poultry cold held at greater than 41 degrees Fahrenheit. At reach in meat cooler on cook line, Observed the following temperatures: raw chicken wings; Poultry (45-48°F - Cold Holding). Operator placed ice on the food. **Corrective Action Taken** **Warning**
--- High Priority - Ready-to-eat, potentially hazardous (time/temperature control for safety) food marked with a date that exceeds 7 days after opening/preparation. At double door hooded reach in cooler on cook line, observed container of garlic butter prepared on site on 10-27-18 in use. Operator discarded food. **Corrective Action Taken** **Warning**
--- High Priority - Ready-to-eat, potentially hazardous (time/temperature control for safety) food not consumed/sold within 7 days after opening/preparation. See stop sale. At double door hooded reach in cooler on cook line, observed container of garlic butter prepared on site on 10-27-18 in use. Operator discarded food. **Corrective Action Taken** **Warning**
--- Intermediate - No quaternary ammonium chemical test kit provided when using quaternary ammonium chemical sanitizer at three-compartment sink/warewashing machine. **Warning**
--- Intermediate - Spray bottle containing toxic substance not labeled at chemical storage area. Operator discarded chemical. **Corrected On-Site** **Warning**
--- Basic - Ceiling tile missing at preparation area above walk in coolers. **Warning**
--- Basic - Cove molding at floor/wall juncture broken/missing at walk in cooler and walk in freezer. **Repeat Violation** **Warning**
--- Basic - Equipment and utensils not properly air-dried - wet nesting. **Warning**
--- Basic - Floor tiles cracked, broken or in disrepair at walk in freezer. **Warning**
--- Basic - Garbage on the ground and/or pad around dumpster. **Warning**
--- Basic - In-use ice scoop stored on soiled surface between uses. Operator removed scoop and holder from use. **Corrected On-Site** **Warning**
--- Basic - Lime scale build-up inside ice machine. Operator removed ice and cleaned machine. **Corrected On-Site** **Warning**
--- Basic - Open dumpster lid. **Repeat Violation** **Warning**
--- Basic - Vents soiled with accumulated food debris, grease, dust on cook line. **Warning**
--- Basic - Walk-in freezer floor soiled. **Repeat Violation** **Warning**
+Routine inspection Nov. 16.
+Met standards; earlier problems corrected.
+Five total violations, with no high-priority violations.
+-- Basic - - From initial inspection : Basic - Ceiling tile missing at preparation area above walk in coolers. **Warning**     - From follow-up inspection 2018-11-16: Operator assessed a tile at area. Openings still present. **Time Extended** **Corrective Action Taken**
+-- Basic - - From initial inspection : Basic - Cove molding at floor/wall juncture broken/missing at walk in cooler and walk in freezer. **Repeat Violation** **Warning**     - From follow-up inspection 2018-11-16:  **Time Extended**
+-- Basic - - From initial inspection : Basic - Equipment and utensils not properly air-dried - wet nesting. **Warning**     - From follow-up inspection 2018-11-16:  **Time Extended**
+-- Basic - - From initial inspection : Basic - Floor tiles cracked, broken or in disrepair at walk in freezer. **Warning**     - From follow-up inspection 2018-11-16:  **Time Extended**
+-- Basic - - From initial inspection : Basic - Walk-in freezer floor soiled. **Repeat Violation** **Warning**     - From follow-up inspection 2018-11-16:  **Time Extended**
 
-Kentucky Fried Chicken
-6301 E 15 St, Bradenton
-Licensing inspection Nov. 9.
+Robins Downtown Cafe
+428 12 Street West, Bradenton
+Routine inspection Nov. 16.
+Met standards; earlier problems corrected.
+Four total violations, with no high-priority violations.
+-- Intermediate - - From initial inspection : Intermediate - Cutting board(s) stained/soiled. **Warning**     - From follow-up inspection 2018-11-16:  **Time Extended**
+-- Basic - - From initial inspection : Basic - Nonfood-contact equipment in poor repair. Rust on bottom shelf container storage; reach-in cooler racks rusted, no fan cover, soiled gaskets, no fan blade cover at reach-in cooler near dry storage, two freezers with accumulation of ice build-up. **Warning**     - From follow-up inspection 2018-11-16:  Fan cover fixed, gaskets cleaned, one freezer cleaned of ice. Other items will be time extended to next routine inspection. **Time Extended**
+-- Basic - - From initial inspection : Basic - Outer openings not protected with self-closing doors. Back door. **Warning**     - From follow-up inspection 2018-11-16:  **Time Extended**
+-- Basic - - From initial inspection : Basic - Plumbing system in disrepair. Backflow preventer leaking at mop sink ceiling. **Warning**     - From follow-up inspection 2018-11-16:  **Time Extended**
+
+Tortilleria La Rancherita
+3010 14 St W, Bradenton
+Complaint inspection Nov. 16.
+Met standards; earlier problems corrected.
+Three total violations, with no high-priority violations.
+-- Basic - - From initial inspection : Basic - Ceiling/ceiling tile shows damage or is in disrepair. Ceiling tile missing at entrance to kitchen. **Warning**     - From follow-up inspection 2018-11-16: Ceiling tile still missing at entrance to kitchen. **Time Extended**
+-- Basic - - From initial inspection : Basic - Plumbing system in disrepair. Hand washing sink near reach-in cooler not draining.  **Warning**     - From follow-up inspection 2018-11-16: Hand washing sink near reach-in cooler still draining slowly. **Time Extended**
+-- Basic - - From initial inspection : Basic - Unnecessary items/unused equipment on the premises. Observed washer/dryer, reach-in cooler, and other objects stored outside premises near dumpster and outside dry storage area. **Warning**     - From follow-up inspection 2018-11-16: Unised equipment still onsite. **Time Extended**
+
+The Good Liquid Brewing Co
+4824 14 St W, Bradenton
+Licensing inspection Nov. 16.
 Met standards.
-14 total violations, with 3 high-priority violations:
--- High Priority - Raw animal foods not properly separated from one another based upon minimum required cooking temperature in walk-in cooler. **Corrected On-Site**
--- High Priority - Vacuum breaker missing at hose bibb or on fitting/splitter added to hose bibb behind Blodgett oven and under hand washing sink proximal to poultry walk in cooler.
--- High Priority - Vacuum breaker missing at mop sink faucet or on fitting/splitter added to mop sink faucet.
--- Intermediate - Ice chute on self-service drink machine at drive thru window soiled/build up of mold-like substance/slime. **Corrected On-Site**
--- Basic - At double door Reach-in cooler proximal tp fryer, gasket torn/in disrepair.
--- Basic - Case/container/bag of food stored on floor in walk-in freezer. **Corrected On-Site**
--- Basic - Ceiling not smooth, nonabsorbent and easily cleanable in food preparation, food storage, warewashing areas or bathroom. Observed paint at ceiling peeling.
--- Basic - Ceiling/ceiling tiles/vents soiled with accumulated food debris, grease, dust, or mold-like substance at kitchen.
--- Basic - Cove molding at floor/wall juncture broken/missing at soda storage room.
--- Basic - Golf ball size Hole in ceiling proximal to fryer.
--- Basic - Handle missing at plumbing fixture at preparation sink proximal to three compartment sink.
--- Basic - Missing drain plug at dumpster.
--- Basic - Open dumpster lid.
--- Basic - Wall soiled with accumulated grease, food debris, and/or dust at soda storage room.
+Three total violations, with no high-priority violations.
+-- Intermediate - Ambient air thermometer in holding unit not accurate within plus or minus 3 degrees Fahrenheit. At hooded reach in cooler, observed digital thermometer reading 31°F. Actual ambient air temperature at 49°F.
+-- Intermediate - Bottle containing toxic substance not labeled.
+-- Basic - No Heimlich maneuver/choking sign posted.
 
-Cafe Havana
-1440 63 Ave E, Bradenton
-Routine inspection Nov. 5.
+Taqueria El Guero
+835 301 Blvd E, Bradenton
+Complaint inspection Nov. 15.
 Follow-up needed: Administrative complaint recommended.
-Five total violations, with three high-priority violations:
--- High Priority - - From initial inspection : High Priority - Potentially hazardous (time/temperature control for safety) food hot held at less than 135 degrees Fahrenheit or above. Proximal to steam table at room temperature, observed black beans and rice at 111°F. **Repeat Violation** **Warning**     - From follow-up inspection 2018-11-05: On cook line at plastic container, observed rice and black bean mixture at 117°F. Advised operator that food must be hot held at 135°F or greater or cooled and cold held at 41°F. Operator placed food in cold holding unit.  **Time Extended** **Corrective Action Taken**
--- High Priority - - From initial inspection : High Priority - Ready-to-eat, potentially hazardous (time/temperature control for safety) food marked with a date that exceeds 7 days after opening/preparation. At double door reach in cooler proximal to walk in cooler, Observed cooked chick peas dated 10-20-18 in use. **Repeat Violation** **Warning**     - From follow-up inspection 2018-11-05: At glass front reach in cooler, observed approximately 4 pounds of cooked steak meat thawed on 10/28/18. Advised operator to discard within 7 days of food being in thawed state. Operator discarded food. **Admin Complaint**
--- High Priority - - From initial inspection : High Priority - Ready-to-eat, potentially hazardous (time/temperature control for safety) food not consumed/sold within 7 days after opening/preparation. See stop sale. At double door reach in cooler proximal to walk in cooler, Observed cooked chick peas dated 10-20-18 in use.  **Repeat Violation** **Warning**     - From follow-up inspection 2018-11-05: At glass front reach in cooler, observed approximately 4 pounds of cooked steak meat thawed on 10/28/18. Advised operator to discard within 7 days of food being in thawed state. Operator discarded food. **Admin Complaint** **Corrective Action Taken**
--- Basic - - From initial inspection : Basic - Cove molding at floor under hand washing sink proximal to cook line missing. **Warning**     - From follow-up inspection 2018-11-05:  **Time Extended**
--- Basic - - From initial inspection : Basic - Hole in or other damage to wall. Observed crack in wall approximately 18 inches in length. **Warning**     - From follow-up inspection 2018-11-05:  **Time Extended**
+Three total violations, with no high-priority violations.
+-- Intermediate - - From initial inspection : Intermediate - No plan review submitted and approved -  dry storage area added. Must submit plans and plan review application to DBPR H and R Plan Review office located at 2601 Blair Stone Rd., Tallahassee, FL 32399-1011. Plans must be submitted AND approved within 30 days. **Warning**     - From follow-up inspection 2018-10-12:  **Time Extended**     - From follow-up inspection 2018-11-15:  **Admin Complaint**
+-- Intermediate - - From initial inspection : Intermediate - No probe thermometer provided to measure temperature of food products. **Warning**     - From follow-up inspection 2018-10-12:  **Time Extended**     - From follow-up inspection 2018-11-15:  **Time Extended**
+-- Intermediate - - From initial inspection : Intermediate - No proof of required state approved employee training provided for any employees. To order approved program food safety material, call DBPR contracted provider:  Florida Restaurant and Lodging Association (SafeStaff) 866-372-7233. **Warning**     - From follow-up inspection 2018-10-12:  **Time Extended**     - From follow-up inspection 2018-11-15:  **Time Extended**
 
-Little Caesars #658
-4919 14 St W, Bradenton
-Routine inspection Nov. 6.
-Follow-up needed: Warning issued.
-15 total violations, with 2 high-priority violations:
--- High Priority - Employee began working with food, handling clean equipment or utensils, or touching unwrapped single-service items without first washing hands. **Warning**
--- High Priority - Live, small flying insects in kitchen, food preparation area, or food storage area. Observed approximately 4 flies at ware washing area. **Warning**
--- Intermediate - Hot water not provided/shut off at employee handwash sink. Allowed water to run for approximately three minutes. Observed water temperature reach 81°F. **Warning**
--- Intermediate - No proof of required state approved employee training provided for any employees. To order approved program food safety material, call DBPR contracted provider:  Florida Restaurant and Lodging Association (SafeStaff) 866-372-7233. Observed food handler cards on site. Operator stated employees would be food handler certified within three days. **Warning**
--- Intermediate - Spray bottle containing toxic substance not labeled. **Corrected On-Site** **Warning**
--- Basic - Cove molding at floor/wall juncture broken/missing near dough processing machines. **Warning**
--- Basic - Employee wearing jewelry other than a plain ring on their hands/arms while preparing food. **Corrected On-Site** **Warning**
--- Basic - Fan cover in walk-in cooler has accumulation of dust or debris. **Warning**
--- Basic - Floor area(s) covered with standing water under three compartment sink. **Warning**
--- Basic - Floor drain covers at three compartment sink heavily soiled. **Warning**
--- Basic - Floor soiled/has accumulation of debris near dough processing machines and at walk in cooler. **Corrected On-Site** **Repeat Violation** **Warning**
--- Basic - Food stored on floor. **Repeat Violation** **Warning**
--- Basic - Open dumpster lid. **Repeat Violation** **Warning**
--- Basic - Walk-in cooler shelves soiled with encrusted food debris. **Warning**
-
-
-Kbp Foods
-525 E 1 St, Bradenton
-Licensing inspection Nov. 8.
-Met standards.
-10 total violations, with 2 high-priority violations:
--- High Priority - Quaternary ammonium sanitizer not at proper minimum strength for manual warewashing. Do not use equipment/utensils not properly sanitized. Operator increased the amount of sanitizing solution in use. Triple Sink (Quaternary 100ppm, 200ppm) **Corrected On-Site**
--- High Priority - Vacuum breaker missing at hose bibb or on fitting/splitter added to hose bibb under hand washing sink proximal to walk in cooler.
--- Basic - Ceiling/ceiling tile shows damage or is in disrepair at soda storage room.
--- Basic - Double door Reach-in freezer gasket torn/in disrepair.
--- Basic - Floor area(s) covered with standing water on cook line. **Corrected On-Site**
--- Basic - Hole in wall at soda storage as vent cover removed.
--- Basic - In-use utensil stored in standing water less than 135 degrees Fahrenheit. **Corrected On-Site**
--- Basic - Open dumpster lid. **Corrected On-Site**
--- Basic - Unnecessary items/unused equipment on the premises. (Inoperable single door reach in cooler on cook line)
--- Basic - Wiping cloth quaternary ammonium compound sanitizing solution not at proper minimum strength. Sanitizer Bucket (Quaternary 100ppm). Operator increased the amount of sanitizing solution in use. **Corrected On-Site**
-
-Kentucky Fried Chicken
-1420 Cortez Road, Bradenton
-Licensing inspection Nov. 9.
-Met standards.
-Seven total violations, with two high-priority violations:
--- High Priority - Vacuum breaker missing at hose bibb or on fitting/splitter added to hose bibb at rear exterior of establishment and at soda storage area.
--- High Priority - Vacuum breaker missing at mop sink faucet or on fitting/splitter added to mop sink faucet.
--- Basic - Ceiling not smooth, nonabsorbent and easily cleanable in food preparation, food storage, warewashing areas or bathroom. Observed ceiling with peeling paint at kitchen.
--- Basic - Floor soiled/has accumulation of debris throughout kitchen and all walk in cooling/freezing units
--- Basic - Interior of refrigerator (poultry walk in cooler) or freezer in disrepair/has exposed insulation.
--- Basic - Rust build-up inside ice machine.
--- Basic - Wall soiled with accumulated grease, food debris, and/or dust at poultry walk in cooler.
-
-Pupuseria & Taqueria Cristelle
-5507 14 St W, Bradenton
-Routine inspection Nov. 6.
-Follow-up needed: Warning issued.
-10 total violations, with one high-priority violation:
--- High Priority - Potentially hazardous (time/temperature control for safety) food cold held at greater than 41 degrees Fahrenheit. At hooded reach in cooler, observed sliced turkey; Poultry (52°F - Cold Holding). **Warning**
--- Intermediate - Certified Food Manager or person in charge lacks knowledge of foodborne illnesses and symptoms of illness that would prevent an employee from working with food, clean equipment and utensils, and single-service items. **Warning**
--- Intermediate - Commercially processed ready-to-eat, potentially hazardous (time/temperature control for safety) food opened and held more than 24 hours not properly date marked after opening. (Milk and sliced turkey at the hooded reach in cooler)  **Warning**
--- Intermediate - Employee washed hands in a sink other than an approved handwash sink. (three compartment sink) **Warning**
--- Intermediate - Handwash sink not accessible for employee use due to items stored in the sink. **Corrected On-Site** **Warning**
--- Intermediate - No paper towels or mechanical hand drying device provided at handwash sink. **Warning**
--- Intermediate - No proof of required state approved employee training provided for any employees. To order approved program food safety material, call DBPR contracted provider:  Florida Restaurant and Lodging Association (SafeStaff) 866-372-7233. (Alba:Cook) **Warning**
--- Intermediate - Probe thermometer not within the intended measuring range of use. No thermometer available for taking temperatures below 50°F.  **Warning**
--- Basic - Plumbing system in disrepair. No cold water at hand washing sink. **Warning**
--- Basic - Reach-in cooler gasket torn/in disrepair. **Warning**
-
-Peach's Restaurant
-6057 26 St W, Bradenton
-Routine inspection Nov. 8.
-Follow-up needed: High-priority violations found, and administrative action recommended.
-Nine total violations, with one high-priority violation:
--- High Priority - Potentially hazardous (time/temperature control for safety) food cold held at greater than 41 degrees Fahrenheit. At hooded reach in cooler for salad, Observed ambient air temperature at 54°F. Observed the following temperatures: cantaloupe 55°F, sausage links 59°F, sausage patties 54°F, hard boiled eggs 61°F. Operator lowered temperature at unit. At walk in cooler, Observed the following temperatures: beef in gravy; Beef (45°F - Cold Holding), pooled eggs; Poultry (49°F - Cold Holding), hard boiled eggs; Poultry (46°F - Cold Holding), quiche ;  (47°F - Cold Holding), Canadian bacon ; Pork (45°F - Cold Holding), marinara; Plant Foods (45°F - Cold Holding). Operator lowered temperature at unit by opening walk in freezer door adjacent to unit and allowing air flow between units.**Warning** **Corrective Action Taken** **Repeat Violation** **Admin Complaint**
--- Intermediate - No proof of required state approved employee training provided for employee hired more than 60 days ago. To order approved program food safety material, call DBPR contracted provider:  Florida Restaurant and Lodging Association (SafeStaff) 866-372-7233. (Clark) **Warning**
--- Intermediate - No running water at mop sink. **Warning**
--- Intermediate - Probe thermometer not accurate within plus or minus 2 degrees Fahrenheit. **Corrected On-Site** **Warning**
--- Basic - Employee wearing jewelry other than a plain ring on their hands/arms while preparing food. **Corrected On-Site** **Repeat Violation** **Warning**
--- Basic - Open dumpster lid. **Repeat Violation** **Warning**
--- Basic - Walk-in cooler shelves soiled with encrusted food debris. **Warning**
--- Basic - Walk-in cooler shelves with rust that has pitted the surface. **Warning**
--- Basic - Wiping cloth chlorine sanitizing solution not at proper minimum strength. At wait station, observed Sanitizer Bucket with Chlorine at 10ppm. Operator increased sanitization solution in use to chlorine 100ppm. **Corrected On-Site** **Warning**
-
-Mr Tequila Mexican Restaurant
-491 Cortez Road W, Bradenton
-Routine inspection Nov. 8.
-Follow-up needed: Warning issued.
-Seven total violations, with one high-priority violation:
--- High Priority - Potentially hazardous (time/temperature control for safety) food cold held at greater than 41 degrees Fahrenheit. At double door hooded reach in cooler, Observed ambient air temperature at 68°F. Observed the following temperatures: shredded mozzarella ; Dairy (70°F - Cold Holding), diced tomatoes ; Plant Foods (64°F - Cold Holding), queso cheese; Dairy (66°F - Cold Holding). Operator put ice on the food. **Corrective Action Taken** **Repeat Violation** **Warning**
--- Intermediate - Certified Food Manager or person in charge lacks knowledge of foodborne illnesses and symptoms of illness that would prevent an employee from working with food, clean equipment and utensils, and single-service items. **Warning**
--- Intermediate - Handwash sink not accessible for employee use due to items stored in the sink. **Corrected On-Site** **Repeat Violation** **Warning**
--- Intermediate - No proof of required state approved employee training provided for any employees. To order approved program food safety material, call DBPR contracted provider:  Florida Restaurant and Lodging Association (SafeStaff) 866-372-7233. **Repeat Violation** **Warning**
--- Basic - Plumbing system in disrepair. No cold available water at hand washing sink. **Repeat Violation** **Warning**
--- Basic - Reach-in cooler shelves with rust that has pitted the surface. **Repeat Violation** **Warning**
--- Basic - Single-service articles not stored inverted or protected from contamination. **Corrected On-Site** **Warning**
+Captain Brian's Seafood Market
+8421 N Tamiami Trl, Sarasota
+Complaint inspection Nov. 16.
+Met standards; earlier problems corrected.
+Two total violations, with no high-priority violations.
+-- Basic - - From initial inspection : Basic - Missing drain plug at dumpster. **Warning**     - From follow-up inspection 2018-09-20:  **Time Extended**     - From follow-up inspection 2018-11-16:  **Time Extended**
+-- Basic - - From initial inspection : Basic - Walk-in cooler shelves with rust that has pitted the surface. **Repeat Violation** **Warning**     - From follow-up inspection 2018-09-20:  **Time Extended**     - From follow-up inspection 2018-11-16:  **Time Extended**
 
 Burger King #4527
 5224 E 15 St, Bradenton
-Complaint inspection Nov. 9.
-Follow-up needed: Warning issued.
-Six total violations, with one high-priority violation:
--- High Priority - Potentially hazardous (time/temperature control for safety) food cold held at greater than 41 degrees Fahrenheit. At single door reach in cooler near drive thru window, Observed ambient air temperature at 48°F. Observed the following temperatures: vanilla dairy mixture ; Dairy (52°F - Cold Holding). Operator removed potentially hazardous food items from unit and placed them in unit capable of maintaining food food at 41°F or colder.**Repeat Violation** **Corrective Action Taken** **Repeat Violation** **Warning**
--- Basic - Double door Reach-in freezer proximal to bin toaster, gasket torn/in disrepair. **Warning**
--- Basic - Dumpster overflowing garbage. **Warning**
--- Basic - Employee wearing jewelry other than a plain ring on their hands/arms while preparing food. **Corrected On-Site** **Repeat Violation** **Warning**
--- Basic - Garbage on the ground and/or pad around dumpster. **Warning**
--- Basic - Open dumpster lid. **Warning**
-
-Peridia Golf & Cc Club Dn Room
-4950 Peridia Blvd, Bradenton
-Routine inspection Nov. 5.
-Follow-up needed: Administrative complaint recommended.
-Five total violations, with one high-priority violation:
--- High Priority - - From initial inspection : High Priority - Potentially hazardous (time/temperature control for safety) food cold held at greater than 41 degrees Fahrenheit. At walk in cooler, Observed the following temperatures: whole milk; Dairy (45°F - Cold Holding), cottage cheese; Dairy (44°F - Cold Holding), ham ; Pork (44°F - Cold Holding). Operator stored potentially hazardous food items in colder areas at walk in cooler. At hood of hooded reach in cooler on cook line, Observed the following temperatures: coleslaw; Plant Foods (48°F - Cold Holding), mango salsa; Plant Foods (48°F - Cold Holding), shredded cheddar cheese; Dairy (51°F - Cold Holding). Operator removed food from hood. At double door hooded reach in cooler at pantry, Observed ambient air temperature at 44°F. Observed the following temperatures: artichokes ; Plant Foods (47°F - Cold Holding), chicken salad ; Poultry (45°F - Cold Holding), shrimp salad; Fish (45°F - Cold Holding), blue cheese; Dairy (51°F - Cold Holding). Operator put food on ice. **Corrective Action Taken** **Warning**     - From follow-up inspection 2018-11-05: At double door hooded reach in cooler at pantry, Observed ambient air temperature at 52°F. Observed the following temperatures: artichokes 49°F, diced tomatoes 46°F, shrimp salad 46°F, blue cheese 48°F. Operator attempted to manually decrease temperature at unit. Operator placed food in near by cold holding unit.  **Admin Complaint** **Corrective Action Taken**
--- Intermediate - - From initial inspection : Intermediate - Soda gun at bar soiled. **Corrected On-Site** **Warning**     - From follow-up inspection 2018-11-05:  **Time Extended**
--- Basic - - From initial inspection : Basic - Hole in or other damage to wall. Observed approximately 2 inch by 3 inch holes in wall at storage near A copy of the inspection should be available for members of the general public upon request. Restrooms and at storage off bar. **Warning**     - From follow-up inspection 2018-11-05:  **Time Extended**
--- Basic - - From initial inspection : Basic - Open dumpster lid. **Repeat Violation** **Warning**     - From follow-up inspection 2018-11-05:  **Time Extended**
-
-
-Restaurante Don Beto Jaimes
-6320 15th St E Suite A5, Sarasota
-Routine inspection Nov. 9.
-Time extension given to correct earlier problems.
-Five total violations, with one high-priority violation:
--- High Priority - - From initial inspection : High Priority - Food-contact surfaces not sanitized after cleaning, before use. Do not use equipment/utensils not properly sanitized. Observed employee wash juice bowl with soap in water. No separate sanitization step occurred. **Warning**     - From follow-up inspection 2018-11-09: No Dishwashing observed at time of the inspection. **Time Extended**
--- Intermediate - - From initial inspection : Intermediate - Certified Food Manager or person in charge lacks knowledge of foodborne illnesses and symptoms of illness that would prevent an employee from working with food, clean equipment and utensils, and single-service items. **Warning**     - From follow-up inspection 2018-11-09:  **Time Extended**
--- Intermediate - - From initial inspection : Intermediate - No currently certified food service manager on duty with four or more employees engaged in food preparation/handling.  A list of accredited food manager certification examination providers can be found at http://www.myfloridalicense.com/DBPR/hotels-restaurants/food-lodging/food-manager/ Observed five food preparers on duty. **Warning**     - From follow-up inspection 2018-11-09: Observed five cooks and two front of the house (servers) on duty at time of the inspection.**Time Extended** **Time Extended**
--- Basic - - From initial inspection : Basic - Carbon dioxide/helium tanks not adequately secured. **Warning**     - From follow-up inspection 2018-11-09:  **Time Extended**
--- Basic - - From initial inspection : Basic - Open dumpster lid. **Corrected On-Site** **Repeat Violation** **Warning**     - From follow-up inspection 2018-11-09:  **Time Extended**
-
-Sofresh
-11569 State Road 70 E Unit 106, Lakewood Ranch
-Licensing inspection Nov. 5.
-Met standards.
-Four total violations, with one high-priority violation:
--- High Priority - Vacuum breaker missing at mop sink faucet or on fitting/splitter added to mop sink faucet.
--- Intermediate - No probe thermometer provided to measure temperature of food products.
--- Intermediate - Raw/undercooked animal food offered and establishment has no written consumer advisory. Raw animal foods must be fully cooked prior to service. **Corrected On-Site**
-
-
-Mr Tequila Mexican Restaurant
-491 Cortez Road W, Bradenton
-Routine inspection Nov. 8.
-Time extension given to correct earlier problems.
-Three total violations, with one high-priority violation:
--- High Priority - - From initial inspection : High Priority - Potentially hazardous (time/temperature control for safety) food cold held at greater than 41 degrees Fahrenheit. Operator stated cold holding unit was not turned on in error. Operator turned unit on and put ice on food. **Corrective Action Taken** **Repeat Violation** **Warning**     - From follow-up inspection 2018-10-09: At hooded reach in cooler, Observed ambient air temperature at 71°F. Observed the following temperatures: shredded lettuce 59°F, diced tomatoes 61°F, guacamole 64°F, shredded mozzarella 61°F.  Operator put ice on food. **Admin Complaint** **Corrective Action Taken**     - From follow-up inspection 2018-11-08: At double door hooded reach in cooler, Observed ambient air temperature at 68°F. Observed the following temperatures: shredded mozzarella ; Dairy (70°F - Cold Holding), diced tomatoes ; Plant Foods (64°F - Cold Holding), queso cheese; Dairy (66°F - Cold Holding). Operator put ice on the food. **Time Extended** **Corrective Action Taken**
--- Intermediate - - From initial inspection : Intermediate - Certified Food Manager or person in charge lacks knowledge of foodborne illnesses and symptoms of illness that would prevent an employee from working with food, clean equipment and utensils, and single-service items. **Warning**     - From follow-up inspection 2018-10-09:  **Time Extended**     - From follow-up inspection 2018-11-08:  **Time Extended**
--- Basic - - From initial inspection : Basic - Plumbing system in disrepair. No cold water at hand washing sink. **Warning**     - From follow-up inspection 2018-10-09:  **Time Extended**     - From follow-up inspection 2018-11-08:  **Time Extended**
-
-Peach's Restaurant
-6057 26 St W, Bradenton
-Routine inspection Nov. 8.
-Follow-up needed: Earlier violations were not corrected.
-One violation, with one high-priority violation:
--- High Priority - - From initial inspection : High Priority - Potentially hazardous (time/temperature control for safety) food cold held at greater than 41 degrees Fahrenheit. At triple door hooded reach in cooler, Observed ambient air temperature at 45°F. Observed the following temperatures: tuna salad 45-50°F, chicken salad 44-49°F, Canadian bacon 44-51°F, sliced tomatoes 46°F, cheddar cheese 66°F, Swiss cheese 69°F, ham steak 46-58°F. At triple hooded reach in cooler for salad, Observed ambient air temperature at 41°F. Sausage links 64°F, honey dew melon 47°F, cantaloupe 47°F, yogurt 46°F. Operator assessed ice to food items.**Repeat Violation** **Corrective Action Taken** **Repeat Violation** **Admin Complaint**     - From follow-up inspection 2018-08-03: At walk in cooler, Observed ambient air temperature at 44°F. Observed the following temperatures: diced chicken 44°F, sliced ham 44-45°F, sliced corn beef 44-45°F, Swiss cheese 44-45°F. At hooded reach in cooler for salad, Observed ambient air temperature at . Observed the following temperatures: Sausage links 67-71°F, Sausage patties 58-60, and Cut lettuce 44-50°F. At hooded reach in cooler proximal to expo window, Observed ambient air temperature at 50°F. Observed the following temperatures: Observed the following temperatures: Diced chicken 44-46°F, Diced ham 52-53°F, Shredded mozzarella and cheddar cheese 46-52°F, Tuna salad 48-50°F, Chicken salad 48-51°F. Operator assessed time marking for all newly utilized food at hooded reach in coolers and opened walk in freezer door to lower temperatures walk in cooler.**Admin Complaint** **Admin Complaint** **Corrective Action Taken**     - From follow-up inspection 2018-11-08: At hooded reach in cooler for salad, Observed ambient air temperature at 54°F. Observed the following cold holding temperatures: cantaloupe 55°F, sausage links 59°F, sausage patties 54°F, hard boiled eggs 61°F. Operator manually lowered temperature at unit.**Admin Complaint** **Admin Complaint** **Corrective Action Taken**
-
-Boneyard BBQ
-6581 State Road 70 E, Bradenton
-Routine inspection Nov. 5.
+Complaint inspection Nov. 15.
 Met standards; earlier problems corrected.
-Six total violations, with no high-priority violations.
--- Intermediate - - From initial inspection : Intermediate - Ambient air thermometer in holding unit not accurate within plus or minus 3 degrees Fahrenheit. At reach in cooler across from fryer, ambient air temperature at 41°F. Per digital ambient air thermometer in use, ambient air temperature at 31°F. Operator put a working ambient thermometer in unit. **Corrected On-Site** **Warning**     - From follow-up inspection 2018-11-05:  **Time Extended**
--- Intermediate - - From initial inspection : Intermediate - Certified Food Manager or person in charge lacks knowledge of foodborne illnesses and symptoms of illness that would prevent an employee from working with food, clean equipment and utensils, and single-service items. **Warning**     - From follow-up inspection 2018-11-05:  **Time Extended**
--- Intermediate - - From initial inspection : Intermediate - Food manager certification expired.  A list of accredited food manager certification examination providers can be found at http://www.myfloridalicense.com/DBPR/hotels-restaurants/food-lodging/food-manager/ Jesse **Warning**     - From follow-up inspection 2018-11-05:  **Time Extended**
--- Intermediate - - From initial inspection : Intermediate - No proof of required state approved employee training provided for employee hired more than 60 days ago. To order approved program food safety material, call DBPR contracted provider:  Florida Restaurant and Lodging Association (SafeStaff) 866-372-7233. (Dom and Jonathan) **Warning**     - From follow-up inspection 2018-11-05:  **Time Extended**
--- Intermediate - - From initial inspection : Intermediate - No quaternary ammonium chemical test kit provided when using quaternary ammonium chemical sanitizer at three-compartment sink/warewashing machine. **Warning**     - From follow-up inspection 2018-11-05:  **Time Extended**
--- Basic - - From initial inspection : Basic - Bowl or other container with no handle used to dispense food. (Flour and shredded cheese) **Corrected On-Site** **Warning**     - From follow-up inspection 2018-11-05: (Flour) **Time Extended**
-
-Poppo's Taqueria
-212 Pine Ave, Anna Maria
-Routine inspection Nov. 6.
-Follow-up needed: Warning issued.
-Five total violations, with no high-priority violations.
--- Intermediate - Ice chute on self-service drink machine soiled/build up of mold-like substance/slime. **Warning**
--- Intermediate - Soda gun soiled. **Corrected On-Site** **Warning**
--- Basic - Establishment did not report seating change that affects the license fee, Clean Indoor Air Act, sewage system approval or other related requirements. Observed 14 interior seating, 12 exterior seating. **Warning**
--- Basic - Establishment increased seating without providing written approval from the local fire authority and wastewater provider. **Warning**
--- Basic - Working containers of food removed from original container not identified by common name. Bottle at front grill area not labeled. **Corrected On-Site** **Warning**
-
-Jiggs Landing Fish Camp
-6106 63rd St E., Bradenton
-Routine inspection Nov. 5.
-Met standards.
-Five total violations, with no high-priority violations.
--- Intermediate - Certified Food Manager or person in charge lacks knowledge of foodborne illnesses and symptoms of illness that would prevent an employee from working with food, clean equipment and utensils, and single-service items.
--- Intermediate - Commercially processed ready-to-eat, potentially hazardous (time/temperature control for safety) food opened and held more than 24 hours not properly date marked after opening. Observed whole milk at glass front reach in cooler opened without date marking. Operator discarded milk. **Corrected On-Site**
--- Intermediate - Probe thermometer not accurate within plus or minus 2 degrees Fahrenheit.
--- Basic - No handwashing sign provided at a hand sink used by food employees at restrooms.
--- Basic - Single-service articles not stored inverted or protected from contamination. **Corrected On-Site**
-
-Applebees Neighborhood Grill & Bar
-7175 53rd Ave E State Road 70, Bradenton
-Complaint inspection Nov. 5.
-Met standards; earlier problems corrected.
-Four total violations, with no high-priority violations.
--- Intermediate - - From initial inspection : Intermediate - Cutting board(s) stained/soiled at cook line near grill area. **Warning**     - From follow-up inspection 2018-10-31:  **Time Extended**     - From follow-up inspection 2018-11-05:  **Time Extended**
--- Intermediate - - From initial inspection : Intermediate - No chlorine chemical test kit provided when using chlorine sanitizer at warewashing machine. **Warning**     - From follow-up inspection 2018-10-31:  **Time Extended**     - From follow-up inspection 2018-11-05:  **Time Extended**
--- Basic - - From initial inspection : Basic - Plumbing system in disrepair. No cold water at exterior mop sink. **Warning**     - From follow-up inspection 2018-10-31:  **Time Extended**     - From follow-up inspection 2018-11-05:  **Time Extended**
--- Basic - - From initial inspection : Basic - Unnecessary items/unused equipment on the premises. Observed unused reach-in freezer at bar inoperable and confirmed by manager not used. **Warning**     - From follow-up inspection 2018-10-31:  **Time Extended**     - From follow-up inspection 2018-11-05:  **Time Extended**
-
-Sunshine Caribbean Restaurant
-6320 15 St E 2, Sarasota
-Routine inspection Nov. 5.
-Follow-up needed: Administrative complaint recommended.
-Four total violations, with no high-priority violations.
--- Intermediate - - From initial inspection : Intermediate - No certified food manager for establishment.  A list of accredited food manager certification examination providers can be found at http://www.myfloridalicense.com/DBPR/hotels-restaurants/food-lodging/food-manager/ **Warning**     - From follow-up inspection 2018-09-06:  **Time Extended**     - From follow-up inspection 2018-10-05:  **Time Extended**     - From follow-up inspection 2018-11-05:  **Admin Complaint**
--- Intermediate - - From initial inspection : Intermediate - No proof of required state approved employee training provided for any employees. To order approved program food safety material, call DBPR contracted provider:  Florida Restaurant and Lodging Association (SafeStaff) 866-372-7233. **Warning**     - From follow-up inspection 2018-09-06:  **Time Extended**     - From follow-up inspection 2018-10-05:  **Time Extended**     - From follow-up inspection 2018-11-05:  **Admin Complaint**
--- Basic - - From initial inspection : Basic - Handle missing at plumbing fixture at restroom. **Warning**     - From follow-up inspection 2018-09-06:  **Time Extended**     - From follow-up inspection 2018-10-05:  **Time Extended**     - From follow-up inspection 2018-11-05:  **Admin Complaint**
--- Basic - - From initial inspection : Basic - Plumbing system in disrepair. No cold water available at hand washing sink in restroom. **Warning**     - From follow-up inspection 2018-09-06:  **Time Extended**     - From follow-up inspection 2018-10-05:  **Time Extended**     - From follow-up inspection 2018-11-05:  **Admin Complaint**
-
-Ponce Restaurant
-6130 15th St E, Bradenton
-Routine inspection Nov. 6.
-Met standards; earlier problems corrected.
-Four total violations, with no high-priority violations.
--- Intermediate - - From initial inspection : Intermediate - Certified Food Manager or person in charge lacks knowledge of foodborne illnesses and symptoms of illness that would prevent an employee from working with food, clean equipment and utensils, and single-service items. **Warning**     - From follow-up inspection 2018-11-06:  **Time Extended**
--- Basic - - From initial inspection : Basic - Bowl or other container with no handle used to dispense food. (Sugar and flour bins) **Warning**     - From follow-up inspection 2018-11-06:  **Time Extended**
--- Basic - - From initial inspection : Basic - Ceiling not smooth, nonabsorbent and easily cleanable in food preparation, food storage, warewashing areas or bathroom. **Warning**     - From follow-up inspection 2018-11-06:  **Time Extended**
--- Basic - - From initial inspection : Basic - Lights in food preparation, food storage or warewashing area missing the proper shield, sleeve coatings or covers at rear kitchen storage area. **Warning**     - From follow-up inspection 2018-11-06:  **Time Extended**
-
-Takeria Alexander
-618 23 St E, Bradenton
-Routine inspection Nov. 8.
-Follow-up needed: Administrative complaint recommended.
-Four total violations, with no high-priority violations.
--- Intermediate - - From initial inspection : Intermediate - Hot water not provided/shut off at employee handwash sink. **Corrected On-Site** **Repeat Violation** **Warning**     - From follow-up inspection 2018-11-08:  **Time Extended**
--- Intermediate - - From initial inspection : Intermediate - No hot running water at three-compartment sink. **Corrected On-Site** **Repeat Violation** **Warning**     - From follow-up inspection 2018-11-08:  **Time Extended**
--- Intermediate - - From initial inspection : Intermediate - No plan review submitted and approved - renovations were made or are in progress. Must submit plans and plan review application to DBPR H and R Plan Review office located at 2601 Blair Stone Rd., Tallahassee, FL 32399-1011.  Plans must be submitted AND approved within 30 days. Observed frozen sorbet in reach in freezer at exterior of food truck. Observed dry storage unit with ice machine, food and single service goods on premises and being utilized by staff.  **Warning**     - From follow-up inspection 2018-11-08:  **Admin Complaint**
--- Basic - - From initial inspection : Basic - Potentially hazardous (time/temperature control for safety) food thawed at room temperature. At three compartment sink, observed tongues thawing at room temperature at 33-36°F. **Warning**     - From follow-up inspection 2018-11-08:  **Time Extended**
-
-Dominos Pizza
-5606 Marina Dr, Holmes Beach
-Routine inspection Nov. 6.
-Met standards.
 Two total violations, with no high-priority violations.
--- Intermediate - Handwash sink used for purposes other than handwashing. Food in drain at hand washing sink near prep area, cleaning supplies in kitchen hand washing sink. Manager removed debris and cleaning supplies from sinks. **Corrected On-Site**
--- Basic - No handwashing sign provided at a hand sink used by food employees. Near prep and back kitchen. Manager made signs to put at both hand washing sinks. **Corrected On-Site**
+-- Basic - - From initial inspection : Basic - Double door Reach-in freezer proximal to bin toaster, gasket torn/in disrepair. **Warning**     - From follow-up inspection 2018-11-15:  **Time Extended**
+-- Basic - - From initial inspection : Basic - Garbage on the ground and/or pad around dumpster. **Warning**     - From follow-up inspection 2018-11-15:  **Time Extended**
 
-Fire Taco Corp
-1919 55 Avenue East, Bradenton
-Complaint inspection Nov. 8.
+Beef 'O' Brady'S
+4925  Cortez Road West, Bradenton
+Routine inspection Nov. 15.
 Met standards; earlier problems corrected.
-No violations were found.
+One violation, with no high-priority violations.
+-- Intermediate - - From initial inspection : Intermediate - Cutting board(s) stained/soiled. **Warning**     - From follow-up inspection 2018-11-15: Cutting boards at cook line still soiled. **Time Extended**
 
-
-Taste Time To Love Us
-3516 US Hwy 41 N, Palmetto
-Licensing inspection Nov. 8.
-Met standards.
+Burger King #23660
+5417 Lockwood Ridge Road, Bradenton
+Routine inspection Nov. 13.
+Met standards. Violations from earlier administrative complaint have been corrected.
 No violations were found.
 
