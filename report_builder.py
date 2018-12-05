@@ -16,7 +16,7 @@ import smtplib
 import sqlite3
 
 # COUNTY for inspection reports; unselect the one you want
-countywanted = 'Marion'
+#countywanted = 'Marion'
 #countywanted = 'Alachua'
 #countywanted = 'Polk'
 #countywanted = 'Sarasota'

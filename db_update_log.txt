@@ -1,2 +1,5 @@
 
 Scrape run 2018-10-15 14:22:10.734856
+***Problem gathering from https://www.myfloridalicense.com/inspectionDetail.asp?InspVisitID=6723990&id=4043364
+
+***Problem gathering from https://www.myfloridalicense.com/inspectionDetail.asp?InspVisitID=6779190&id=4230647
