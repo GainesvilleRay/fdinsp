@@ -21,6 +21,9 @@ import sqlite3
 #countywanted = 'Polk'
 #countywanted = 'Sarasota'
 #countywanted = 'Manatee'
+#countywanted = 'Walton'
+#countywanted = 'Okaloosa'
+#countywanted = 'Santa Rosa'
 
 # DATE RANGE for report, week prior
 today = datetime.date.today()
@@ -46,6 +49,12 @@ elif countywanted == 'Sarasota':
     receiver = ['doug.ray@starbanner.com', 'brian.ries@heraldtribune.com']
 elif countywanted == 'Manatee':
     receiver = ['doug.ray@starbanner.com', 'brian.ries@heraldtribune.com']
+elif countywanted == 'Walton':
+    receiver = ['doug.ray@starbanner.com', 'jblakeney@nwfdailynews.com']
+elif countywanted == 'Santa Rosa':
+    receiver = ['doug.ray@starbanner.com', 'jblakeney@nwfdailynews.com']
+elif countywanted == 'Okaloosa':
+    receiver = ['doug.ray@starbanner.com', 'jblakeney@nwfdailynews.com']
 
 # The new report and, later, its path:
 path_directory = os.path.dirname(os.path.abspath(__file__))
