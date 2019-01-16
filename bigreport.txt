@@ -1,64 +1,464 @@
-These are recent restaurant inspection reports for Santa Rosa County — from Jan. 07 to Jan. 12 — filed by state safety and sanitation inspectors.
+These are recent restaurant inspection reports for Marion County — from Jan. 07 to Jan. 12 — filed by state safety and sanitation inspectors.
 The Florida Department of Business & Professional Regulation describes an inspection report as “a ‘snapshot’ of conditions present at the time of the inspection. On any given day, an establishment may have fewer or more violations than noted in their most recent inspection. An inspection conducted on any given day may not be representative of the overall, long-term conditions at the establishment.
 Please note that some more recent, follow-up inspections may not be included here.
 
-El Paso Mexican Grill 3
-5041 Dogwood Dr, Milton
-Complaint inspection Jan. 10.
+Cracker House BBQ
+10863 E Hwy 40, Silver Springs
+Routine inspection Jan. 10.
 Follow-up needed: Warning issued.
 16 total violations, with 5 high-priority violations:
--- High Priority - Cooked potentially hazardous (time/temperature control for safety) food not cooled from 135 degrees Fahrenheit to 41 degrees Fahrenheit within 6 hours - chicken enchiladas 47°f overnight. **Warning**
--- High Priority - Cooked/heated potentially hazardous (time/temperature control for safety) food not cooled from 135 degrees Fahrenheit to 41 degrees Fahrenheit within six hours. See stop sale - chicken enchiladas 47°f overnight. **Warning**
--- High Priority - Employee rubbed hands together for less than 10-15 seconds while washing hands - employee washed hands for five seconds. Manager told employee to wash his hands longer. The employee then washed his hands for 8 seconds. **Warning**
--- High Priority - Potentially hazardous (time/temperature control for safety) food hot held at less than 135 degrees Fahrenheit or above - shrimp 99°f les then four hours on top of stove. **Warning**
--- High Priority - Raw animal food stored over ready-to-eat food in reach-in cooler -raw shell eggs over shredded cheese. Operator moved shell eggs to the bottom. **Corrected On-Site** **Warning**
--- Intermediate - Accumulation of encrusted food debris on/around mixer head. **Warning**
--- Intermediate - Handwash sink removed from food preparation/dishwashing area. Must be reinstalled in the same location where removed -hand wash sink removed in the cook line next to the walk in cooler. **Warning**
--- Intermediate - No soap provided at handwash sink - no soap at the bar. Operator replaced soap. **Corrected On-Site** **Warning**
--- Intermediate - Potentially hazardous (time/temperature control for safety) food cooled in quantity deeper than 4 inches. **Warning**
--- Basic - Ceiling/ceiling tiles/vents soiled with accumulated food debris, grease, dust, or mold-like substance - in the kitchen above reach in coolers. **Warning**
--- Basic - Employee beverage container in a food preparation/clean dishware area does not have a lid and a straw or equivalent dispensing mechanism to prevent hand contact with lip contact area of drink container. **Warning**
--- Basic - Floor tiles missing - missing tiles in the kitchen and storage area.  **Warning**
--- Basic - Ice scoop handle in contact with ice - in ice bin in the wait station. Bucket placed in the ice machine. Operator removed handle and bucket. **Corrected On-Site** **Warning**
--- Basic - No conspicuously located ambient air temperature thermometer in holding unit - in all reach in coolers. **Warning**
+-- High Priority - Cooked meats or poultry hot held at less than 135 degrees Fahrenheit or above. In steam table at cookline: pulled pork 99°. Began reheating.  **Corrective Action Taken**
+-- High Priority - Nonfood-grade containers used for food storage - direct contact with food. In reach in chest freezer. Okra stored in cardboard box
+-- High Priority - Raw animal food stored over ready-to-eat food. In walk in cooler: case of raw bacon over cooked beef.
+-- High Priority - Toxic substance/chemical stored by or with food. Cleaner next to can of pickles. Also, spray bottles of cleaner on shelf over clean towels.  **Repeat Violation**
+-- High Priority - Vacuum breaker missing at hose bibb or on fitting/splitter added to hose bibb. On side of building. Hose attached. **Corrected On-Site**
+-- Intermediate - Accumulation of food debris/grease on food-contact surface. Interior of hot holding case on cook-line. Interior of reach in freezer in back room. Interior of over drawer on cookline. Interior of microwave on cookline. **Repeat Violation**
+-- Intermediate - Handwash sink not accessible for employee use due to items stored in the sink. Bucket on hand sink near ice machine. Moved. **Corrected On-Site** **Repeat Violation**
+-- Intermediate - Menu does not identify which items contain raw or undercooked animal foods covered by the consumer advisory. Burgers offered undercooked. No identifying marks.
+-- Intermediate - No paper towels or mechanical hand drying device provided at handwash sink. Sink at entrance of kitchen
+-- Intermediate - Ready-to-eat, potentially hazardous (time/temperature control for safety) food prepared onsite and held more than 24 hours not properly date marked. In walk in cooler: beef and pork from Wednesday and Tuesday,
+-- Basic - Accumulation of dead or trapped birds, insects, rodents, or other pests, in control devices. More than 100 dead flies on fly strips throughout kitchen area.  **Repeat Violation**
+-- Basic - Build-up of food debris, dust or dirt on nonfood-contact surface. On exterior of steam tables. Exterior of microwaves. Exterior of reach in chest freezer. Exterior of crock pot.  **Repeat Violation**
+-- Basic - Floor soiled/has accumulation of debris. Under fryers. Behind chest freezer near back door.
+-- Basic - Food stored in holding unit not covered. Box of okra in chest freezer in back room.
+-- Basic - Unused equipment on the premises.  Beer cooler in back yard area around smoker.  Also, Two lids and slide door open on dumpster.  Also, drain plug missing at dumpster.  Also, high weeds in back yard area.  **Repeat Violation**
+-- Basic - Wet wiping cloth not stored in sanitizing solution between uses. One towel n server station.
 
-
-
-New Jin Jin Chinese Restaurant
-6209 Hwy 90, Milton
-Licensing inspection Jan. 10.
+Jan's River Park Cafe
+2774 NE 102 Ave Road, Silver Springs
+Routine inspection Jan. 7.
 Met standards.
-Eight total violations, with two high-priority violations:
--- High Priority - Raw animal food stored over or with ready-to-eat food in walk-in freezer - not all products commercially packaged - raw beef and chicken over ready to eat products.
--- High Priority - Raw animal foods not properly separated from one another based upon minimum required cooking temperature in walk-in cooler - beef over chicken. Operator moved the chicken to the bottom. **Corrected On-Site**
--- Intermediate - Handwash sink not accessible for employee use due to items stored in the sink - ice scoops. Operator removed ice scoops. **Corrected On-Site**
--- Basic - Bowl or other container with no handle used to dispense food - bowl in flour.
--- Basic - Ceiling/ceiling tile shows damage or is in disrepair - ceiling tile has cardboard attached to prevent holes.
--- Basic - Equipment or utensils not designed or constructed in a durable manner - mental brush used in the cook line to wash the woc.
--- Basic - No Heimlich maneuver/choking sign posted.
--- Basic - Wall soiled with accumulated grease, food debris, and/or dust - throughout kitchen.
+10 total violations, with 5 high-priority violations:
+-- High Priority - Container of medicine improperly stored. Advil and inhaler on shelf over clean dishes. Moved all. **Corrected On-Site**
+-- High Priority - Employee began working with food, handling clean equipment or utensils, or touching unwrapped single-service items without first washing hands. Male employee put on gloves to work with food without washing hands. Employee stopped by inspector and instructed to wash hands
+-- High Priority - Potentially hazardous (time/temperature control for safety) food cold held at greater than 41 degrees Fahrenheit. On front counter, butter 68°. Placed on counter at 9:30 am. Provided TPHC documentation.  **Corrective Action Taken**
+-- High Priority - Wiping cloth sanitizer solution exceeds the maximum concentration allowed. Near ware wash area chlorine over 200 ppm. Refreshed. **Corrective Action Taken**
+-- Intermediate - Accumulation of black/green mold-like substance in the interior of the ice machine. On deflector plate of ice machine.
+-- Intermediate - Menu does not identify which items contain raw or undercooked animal foods covered by the consumer advisory. Consumer advisory is present with no identifying marks. **Repeat Violation**
+-- Intermediate - Records/documents for required employee training do not contain all of the required information. Missing Cfm number.
+-- Basic - Employee beverage container on a food preparation table or over/next to clean equipment/utensils. Two drinks at entrance of kitchen. Moved both.
+-- Basic - Wet wiping cloth not stored in sanitizing solution between uses. One on back prep table. **Repeat Violation**
 
-Shrimp Basket Of Milton
-6389 Hwy 90, Milton
-Complaint inspection Jan. 10.
+
+Wolfy's Restaurant
+2159 E Silver Spgs Blvd, Ocala
+Routine inspection Jan. 8.
+Met standards.
+Eight total violations, with five high-priority violations:
+-- High Priority - Dishmachine chlorine sanitizer not at proper minimum strength. Discontinue use of dishmachine for sanitizing and set up manual sanitization until dishmachine is repaired and sanitizing properly. 0 ppm manager refilled then 100 ppm. **Corrected On-Site**
+-- High Priority - Potentially hazardous (time/temperature control for safety) food cold held at greater than 41 degrees Fahrenheit. On front counter: potatoes 69°. Cooked onions 76°. Added to TPHC **Corrected On-Site** **Repeat Violation**
+-- High Priority - Raw animal food stored over ready-to-eat food. In walk in cooler: eggs on top shelf over butter packets. Moved all. **Corrected On-Site**
+-- High Priority - Ready-to-eat, potentially hazardous (time/temperature control for safety) food marked with a date that exceeds 7 days after opening/preparation. Aujus in walk in cooler 12/26/18.
+-- High Priority - Ready-to-eat, potentially hazardous (time/temperature control for safety) food not consumed/sold within 7 days after opening/preparation. See stop sale. Aujus in walk in cooler date marked 12/26/18.  **Repeat Violation**
+-- Basic - Employee beverage container on a food preparation table or over/next to clean equipment/utensils. Drink on counter over prep table. Moved. **Corrected On-Site**
+-- Basic - Equipment and utensils not properly air-dried - wet nesting. Glasses in server station. Pans on clean dish shelf.
+-- Basic - Gaskets with slimy/mold-like build-up. Reach in cooler on cookline.
+
+Fired Up Bar B Q
+20199 E Penn Ave, Suite 1& 2, Dunnellon
+Routine inspection Jan. 9.
+Met standards.
+17 total violations, with 4 high-priority violations:
+-- High Priority - Employee touching ready-to-eat food with their bare hands - food was not being heated as a sole ingredient to 145 degrees F or immediately added to other ingredients to be cooked/heated to the minimum required temperature to allow bare hand contact.  Establishment has no approved Alternative Operating Procedure. Male employee at the kitchen after washing his hands moved chicken from Hot holding cabinet to oven with no gloves, Inspector addressed situation and explained the correct way, Employee washed his hand again and started wearing gloves.  **Corrected On-Site**
+-- High Priority - Potentially hazardous (time/temperature control for safety) food cold held at greater than 41 degrees Fahrenheit. Reach-in cooler at the cook line, coleslaw 48°, pork 68°. Manager moved the coleslaw to the freezer and the pork to the oven.   **Corrective Action Taken**
+-- High Priority - Ready-to-eat, potentially hazardous (time/temperature control for safety) food marked with a date that exceeds 7 days after opening/preparation. Reach-in cooler At the cook line, turkey and ham date marked 12/27/18.
+-- High Priority - Ready-to-eat, potentially hazardous (time/temperature control for safety) food not consumed/sold within 7 days after opening/preparation. See stop sale. Reach-in cooler At the cook line, turkey and ham date marked 12/27/18.
+-- Intermediate - Accumulation of black/green mold-like substance in the interior of the ice machine. Ice machines at the bar area.  **Repeat Violation**
+-- Intermediate - Interior of reach-in cooler soiled with accumulation of food residue. At the cook line.
+-- Intermediate - No proof of required state approved employee training provided for employee hired more than 60 days ago. To order approved program food safety material, call DBPR contracted provider:  Florida Restaurant and Lodging Association (SafeStaff) 866-372-7233. For four employees.
+-- Intermediate - Ready-to-eat, potentially hazardous (time/temperature control for safety) food prepared onsite and held more than 24 hours not properly date marked. Reach-in cooler at the cook line, chicken wing no date marked, also at the bar area, half and half no date marked.  **Repeat Violation**
+-- Intermediate - Soda gun soiled. At the bar area, soda gun heavily soiled.
+-- Basic - Bowl or other container with no handle used to dispense food. At the cook line, bowl no handle inside coleslaw container and inside flour container, Manager removed.  **Corrected On-Site** **Repeat Violation**
+-- Basic - Carbon dioxide/helium tanks not adequately secured. Room At the bar area, two tanks not secured.
+-- Basic - Case/container/bag of food stored on floor in walk-in cooler/freezer. In walk-in cooler , potatoes case and half half containers on floor, Employee stored properly, also at the kitchen area, oil on floor, Manager moved.  **Corrected On-Site**
+-- Basic - Current Hotel and Restaurant license not displayed.
+-- Basic - Employee smoking in a food preparation, storage or warewashing area. Female employee at the bar area, Female was smoking and handling clean cups inside the bar area, Inspector addressed situation.  **Corrective Action Taken**
+-- Basic - Floor soiled/has accumulation of debris. At the cook line, under and behind equipment.
+-- Basic - Food storage container/container lid cracked or broken. Multiple containers and lids cracked, Manager replace some.  **Corrective Action Taken**
+-- Basic - Single-service articles not stored inverted or protected from contamination. At the cook line, to go containers not inverted, Manager inverted.  **Corrected On-Site**
+
+Don Pepe Mexican Restaurant
+20744 W Pennsylvania Ave, Dunnellon
+Routine inspection Jan. 9.
+Met standards.
+Six total violations, with four high-priority violations:
+-- High Priority - Potentially hazardous (time/temperature control for safety) food cold held at greater than 41 degrees Fahrenheit. Reach-in cooler at the cook line, cheese dip 57° and 58°, items were left in ric at night, also cut tomatoes 52°, pico 47°, sour cream 56° items pulled out at 9:30, Employee added more ice, temperatures dropped to 43°.  **Corrective Action Taken** **Repeat Violation**
+-- High Priority - Potentially hazardous (time/temperature control for safety) food hot held at less than 135 degrees Fahrenheit or above. At the cook line, on top of oven beans 106°, Employee moved  to stove And reheated to 168°.  **Corrected On-Site**
+-- High Priority - Raw animal food stored over ready-to-eat food. Reach-in cooler at the server area, raw chicken above cooked rice and enchiladas, Manager moved and stored properly.  **Corrected On-Site**
+-- High Priority - Stop Sale issued on potentially hazardous (time/temperature control for safety) food due to temperature abuse. Reach-in cooler at the cook line, cheese dip 57° and 58°.
+-- Intermediate - Ready-to-eat, potentially hazardous (time/temperature control for safety) food prepared onsite and held more than 24 hours not properly date marked. In walk-in cooler, chiles rellenos no date marked, Manager date marked 1/6/19.  **Corrected On-Site**
+-- Basic - Bowl or other container with no handle used to dispense food. At the dry storage area, bowl inside beans, Manager removed the bowl.  **Corrected On-Site**
+
+Southern Pig And Cattle Co Ii
+6105 SW Hwy 200, Ocala
+Routine inspection Jan. 8.
+Met standards.
+Six total violations, with four high-priority violations:
+-- High Priority - Cooked potentially hazardous (time/temperature control for safety) food not cooled from 135 degrees Fahrenheit to 41 degrees Fahrenheit within 6 hours. In walk-in cooler , potatoes 47°.
+-- High Priority - Cooked/heated potentially hazardous (time/temperature control for safety) food not cooled from 135 degrees Fahrenheit to 41 degrees Fahrenheit within six hours. See stop sale. In walk-in cooler, potatoes 47°.
+-- High Priority - Dented/rusted cans present. See stop sale. At the dry storage area fruit salad can dented.
+-- High Priority - Potentially hazardous (time/temperature control for safety) food hot held at less than 135 degrees Fahrenheit or above. At the cook line, beef broth 98°, pork 130°, Manager moved items to oven, broth reach 198°. **Corrective Action Taken**
+-- Basic - Bowl or other container with no handle used to dispense food. Inside cornstarch, Manager removed the bowl.  **Corrected On-Site** **Repeat Violation**
+-- Basic - Employee beverage container on a food preparation table or over/next to clean equipment/utensils. One employee drink on prep table, Manager discarded.  **Corrected On-Site** **Repeat Violation**
+
+Mojo Grill & Catering Company
+4496 SE 100 Pl, Belleview
+Routine inspection Jan. 7.
+Met standards.
+17 total violations, with 3 high-priority violations:
+-- High Priority - Raw animal food stored over ready-to-eat food. Reach-in cooler at the prep area, raw chicken above cooked chicken wings, Manager moved and stored properly.  **Corrected On-Site**
+-- High Priority - Ready-to-eat, potentially hazardous (time/temperature control for safety) food marked with a date that exceeds 7 days after opening/preparation. In walk-in cooler, chili made 12/30/18.
+-- High Priority - Ready-to-eat, potentially hazardous (time/temperature control for safety) food not consumed/sold within 7 days after opening/preparation. See stop sale. In walk-in cooler , chili made 12/30/18.
+-- Intermediate - Buildup of soiled material on racks in the reach-in cooler. Reach-in cooler at the prep area, shelves with mold-like substance.
+-- Intermediate - Food manager certification expired.  A list of accredited food manager certification examination providers can be found at http://www.myfloridalicense.com/DBPR/hotels-restaurants/food-lodging/food-manager/ J. Lewis 05/31/2012
+-- Intermediate - Interior of reach-in cooler soiled with accumulation of food residue. Reach-in cooler at the cook line.  **Repeat Violation**
+-- Intermediate - No currently certified food service manager on duty with four or more employees engaged in food preparation/handling.  A list of accredited food manager certification examination providers can be found at http://www.myfloridalicense.com/DBPR/hotels-restaurants/food-lodging/food-manager/
+-- Intermediate - No proof of required state approved employee training provided for employee hired more than 60 days ago. To order approved program food safety material, call DBPR contracted provider:  Florida Restaurant and Lodging Association (SafeStaff) 866-372-7233. For one male employee  **Repeat Violation**
+-- Intermediate - No soap provided at handwash sink. Handwash sink at the cook line.
+-- Basic - Employee beverage container in a food preparation/clean dishware area does not have a lid and a straw or equivalent dispensing mechanism to prevent hand contact with lip contact area of drink container. At the cook line, one employee drink above reach-in cooler, no lid no straw, Manager removed the drink.  **Corrected On-Site**
+-- Basic - Floor area(s) covered with standing water. In walk-in cooler floor (beer).  **Repeat Violation**
+-- Basic - Floor drains/drain covers heavily soiled. In front of walk-in cooler entrance.
+-- Basic - Food stored in dry storage area not covered. At the cook line, taco bowl container on top of reach in freezer not covered, Manger covered.  **Corrected On-Site**
+-- Basic - In-use utensil not stored with handle above the top of potentially hazardous (time/temperature control for safety) food and rim of the container. In walk-in cooler, scoop handles touching beef, Manager removed the scoop.  **Corrected On-Site**
+-- Basic - Single-service articles improperly stored. In front of walk-in cooler entrance (beer), cups on floor, Manager moved and stored off the floor.  **Corrected On-Site**
+-- Basic - Soiled reach-in cooler gaskets. Multiple reach-in coolers gaskets.
+-- Basic - Walk-in cooler/walk-in freezer floor soiled. Walk-in freezer floors soiled also with ice build up.
+
+Laki's Restaurant
+3405 SW College Road, Ocala
+Routine inspection Jan. 10.
+Met standards.
+12 total violations, with 3 high-priority violations:
+-- High Priority - Cooked potentially hazardous (time/temperature control for safety) food not cooled from 135 degrees Fahrenheit to 41 degrees Fahrenheit within 6 hours. Reach-in cooler at the cook line, rice cooked 01/09/19 54°
+-- High Priority - Cooked/heated potentially hazardous (time/temperature control for safety) food not cooled from 135 degrees Fahrenheit to 41 degrees Fahrenheit within six hours. See stop sale. Reach-in cooler at the cook line, rice cooked 01/09/19 54°
+-- High Priority - Wiping cloth sanitizer solution exceeds the maximum concentration allowed. Chlorine 200 ppm
+-- Intermediate - Encrusted material on can opener blade. At the prep area, Employee washed.  **Corrected On-Site** **Repeat Violation**
+-- Intermediate - No currently certified food service manager on duty with four or more employees engaged in food preparation/handling.  A list of accredited food manager certification examination providers can be found at http://www.myfloridalicense.com/DBPR/hotels-restaurants/food-lodging/food-manager/ Total of 5 Employees, Manager arrived.  **Corrected On-Site**
+-- Intermediate - Reach-in cooler shelves soiled with food debris. Reach-in cooler at the prep area, shelves heavily soiled, also the interior of the cooler.  **Repeat Violation**
+-- Intermediate - Ready-to-eat, potentially hazardous (time/temperature control for safety) food prepared onsite and held more than 24 hours not properly date marked. Reach-in cooler  at the cook line, pasta and lasagna no date marked,  oath item were cooked 01/08/19  **Repeat Violation**
+-- Basic - Employee personal items stored with or above food, clean equipment and utensils, or single-service items. At the cook line, red jacket on top of chips and single service, Manager moved.  **Corrected On-Site**
+-- Basic - In-use utensil in nonpotentially hazardous (non-time/temperature control for safety) food not stored with handle above top of food within a closed container. Reach-in cooler at the cook line, spoon handle touching tuna salad and ricotta cheese, Employee moved the spoons  **Corrected On-Site**
+-- Basic - No handwashing sign provided at a hand sink used by food employees. Handwash sink at the dish machine area.
+-- Basic - Single-service articles not stored inverted or protected from contamination. At the prep area I. Front of walk-in cooler entrance, containers not inverted, Manager inverted.  **Corrected On-Site** **Repeat Violation**
+-- Basic - Wall soiled with accumulated grease, food debris, and/or dust. At the prep area, wall in front of walk-in cooler entrance heavily soiled, also floors under and behind cooking equipment at the cook line.
+
+Crunchies & Munchies
+529 NE 36 Avenue, Ocala
+Routine inspection Jan. 7.
+Met standards.
+Six total violations, with three high-priority violations:
+-- High Priority - Employee touched bare body part and then engaged in food preparation, handled clean equipment or utensils, or touched unwrapped single-service items without washing hands. Female employee wiped back of gloves hand on face and continued to work without washing her hands.
+-- High Priority - Potentially hazardous (time/temperature control for safety) food cold held at greater than 41 degrees Fahrenheit. Chicken 61° on cart near fryers. Manager stated that chicken is placed on cart thru lunch. Instructed to utilize ice to control temperature. **Corrective Action Taken**
+-- High Priority - Toxic substance/chemical improperly stored. Several chemical bottles hanging on bag in a box soda shelf. One on prep table. All moved.  Also, several unlabeled bottles.**Corrective Action Taken** **Corrective Action Taken** **Repeat Violation**
+-- Basic - Employee beverage container on a food preparation table or over/next to clean equipment/utensils. Several throughout kitchen and in refrigeration units. Moved all.  **Corrected On-Site** **Repeat Violation**
+-- Basic - Employee personal items stored with or above food, clean equipment and utensils, or single-service items. Hat on top of bag of breading. Apron on dry storage shelf. Moved all. **Corrected On-Site** **Repeat Violation**
+-- Basic - Food-contact surface not smooth and easily cleanable. Bottles with handles in use with dressing and on shelf over triple sink.
+
+Fiore's Cafã\x89
+2327 S Pine Ave, Ocala
+Routine inspection Jan. 8.
+Follow-up needed: Warning issued.
+11 total violations, with 2 high-priority violations:
+-- High Priority - Potentially hazardous (time/temperature control for safety) food cold held at greater than 41 degrees Fahrenheit. In reach in make table: sausage 48°. Meatball 44°, 46°. Cheese 46°. Cheese 46°. Ham 50°. **Repeat Violation**
+-- High Priority - Stop Sale issued on potentially hazardous (time/temperature control for safety) food due to temperature abuse. In reach in make table: sausage, ham, meatball and cheese
+-- Intermediate - Handwash sink not accessible for employee use due to items stored in the sink. Blue bucket in sink near stove. Moved. **Corrected On-Site** **Repeat Violation**
+-- Intermediate - Reach-in cooler not maintained in good repair.  Do not store potentially hazardous (time/temperature control for safety) food in this unit until the unit is repaired. Reach in make table ambient air 47°.
+-- Intermediate - Ready-to-eat, potentially hazardous (time/temperature control for safety) food prepared onsite and held more than 24 hours not properly date marked. Sausage from yesterday in walk in cooler **Repeat Violation**
+-- Basic - Build-up of food debris, dust or dirt on nonfood-contact surface. Food debris on top of oven.
+-- Basic - Employee beverage container on a food preparation table or over/next to clean equipment/utensils. Two bottles of water on shelf over make table. **Repeat Violation**
+-- Basic - Employee personal items stored with or above food, clean equipment and utensils, or single-service items. Apron, shirt, wallet and keys on shelf over single service items
+-- Basic - Food stored on floor. Several bottles of water and cases of canned vegetables in dry storage area. **Repeat Violation**
+-- Basic - Ice buildup in walk-in freezer. Around door and top of unit
+-- Basic - Working containers of food removed from original container not identified by common name. Several squeeze bottles in salad cooler
+
+The Cubby Hole
+4901 E Silver Springs Blvd, Ocala
+Routine inspection Jan. 8.
+Follow-up needed: Warning issued.
+10 total violations, with 2 high-priority violations:
+-- High Priority - Raw animal food stored over or with ready-to-eat food in reach-in freezer - not all products commercially packaged. In reach in freezer at cookline: Opened case of steak over potatoes. Moved to proper order.  In reach in cooler near ware wash area: pooled shell eggs over cooked ground beef. Moved. **Corrected On-Site**
+-- High Priority - Toxic substance/chemical stored by or with food. Several bottles of cleaner on shelf over bag in box sodas. Moved all. **Corrected On-Site**
+-- Intermediate - Handwash sink not accessible for employee use due to being blocked by garbage can. On cookline, trash can in front of sink.
+-- Intermediate - No proof of required state approved employee training provided for employee hired more than 60 days ago. To order approved program food safety material, call DBPR contracted provider:  Florida Restaurant and Lodging Association (SafeStaff) 866-372-7233.
+-- Intermediate - Ready-to-eat, potentially hazardous (time/temperature control for safety) food prepared onsite and held more than 24 hours not properly date marked. In reach in cooler: roast beef, bologna sausage and hotdogs opened prior to today. Manager date marked all. **Corrected On-Site**
+-- Basic - Bathroom located inside establishment not completely enclosed with tight-fitting, self-closing doors. Closure missing in restroom near back door.
+-- Basic - Employee beverage container on a food preparation table or over/next to clean equipment/utensils. Drink on table over ice bin. Moved. **Corrected On-Site**
+-- Basic - Employee personal food not properly identified and segregated from food to be served to the public. Sandwich on shelf in make table. Moved. **Corrected On-Site**
+-- Basic - Employee personal items stored in or above a food preparation area. Apron on top of single service items in server pass thru. Phone on prep table in kitchen. Moved all. **Corrected On-Site**
+-- Basic - Equipment and utensils not properly air-dried - wet nesting. Glasses near fountain machine.
+
+Wendys Old Fashioned Hamburgers 4938
+3001 E Silver Springs Blvd, Ocala
+Routine inspection Jan. 7.
+Follow-up needed: Warning issued.
+Seven total violations, with two high-priority violations:
+-- High Priority - Employee touched bare body part and then engaged in food preparation, handled clean equipment or utensils, or touched unwrapped single-service items without washing hands. Female employee touched mouth and continued to work with food without washing hands.  Also, hot water at sink near dining room door takes more than one minute to get hot.
+-- High Priority - Toxic substance/chemical stored by or with food. Cleaner on counter near coffee. Moved. **Corrected On-Site**
+-- Intermediate - No proof of required state approved employee training provided for any employees. To order approved program food safety material, call DBPR contracted provider:  Florida Restaurant and Lodging Association (SafeStaff) 866-372-7233. Unable to provide current training records.
+-- Basic - In-use tongs stored on equipment door handle between uses. One pair on drawer handle. Moved. **Corrected On-Site**
+-- Basic - Interior of oven has heavy accumulation of black substance/grease/food debris. Interior of oven near triple sink. **Repeat Violation**
+-- Basic - Stored food not covered in walk-in freezer. Three bags of chicken and one bag of fish open. Manager closed. **Corrected On-Site**
+-- Basic - Wet wiping cloth not stored in sanitizing solution between uses. Several on cookline. All placed in bucket during this inspection.  **Corrected On-Site**
+
+Zaxby'S
+6033 SW Hwy 200, Ocala
+Routine inspection Jan. 8.
+Met standards.
+Three total violations, with two high-priority violations:
+-- High Priority - Potentially hazardous (time/temperature control for safety) food cold held at greater than 41 degrees Fahrenheit. Reach-in cooler at the cook line, Cole 44°-48°, Manager add ice.  **Corrective Action Taken**
+-- High Priority - Potentially hazardous (time/temperature control for safety) food identified in the written procedure as a food held using time as a public health control has no time marking. At the cook line, chicken wings and boneless wing no time marked, Manager time marked.  **Corrected On-Site**
+-- Intermediate - No proof of required state approved employee training provided for employee hired more than 60 days ago. To order approved program food safety material, call DBPR contracted provider:  Florida Restaurant and Lodging Association (SafeStaff) 866-372-7233. For six employee
+
+Bob Evans Farms Rest #153
+3535 SW College Road, Ocala
+Complaint inspection Jan. 8.
+Follow-up needed: Warning issued.
+Five total violations, with one high-priority violation:
+-- High Priority - Potentially hazardous (time/temperature control for safety) food cold held at greater than 41 degrees Fahrenheit. Reach-in cooler at the cook line, ham 50°, cut tomatoes 50°, egg whites 47°, liquid eggs 47°, Manager moved to freezer, items pulled out at 7:00 am.  **Corrective Action Taken**
+-- Intermediate - Reach-in cooler not maintained in good repair.  Do not store potentially hazardous (time/temperature control for safety) food in this unit until the unit is repaired. Reach-in cooler at the cook line, ambient air temperature 51°.
+-- Basic - Interior of microwave soiled with encrusted food debris. At the prep area, employee cleaned.  **Corrected On-Site** **Repeat Violation**
+-- Basic - Old food stuck to clean dishware/utensils. Containers at the dry storage shelf with old food also with old labels, Manager moved containers to dish machine.  **Corrective Action Taken**
+-- Basic - Single-service articles improperly stored. At the dry storage area, single service boxes on floor, Manager moved off the floor.  **Corrected On-Site**
+
+Dunkin Donuts
+2303 N Pine Ave, Ocala
+Routine inspection Jan. 7.
+Follow-up needed: Administrative complaint recommended.
+Four total violations, with one high-priority violation:
+-- High Priority - - From initial inspection : High Priority - Potentially hazardous (time/temperature control for safety) food cold held at greater than 41 degrees Fahrenheit. On the Delfield Cooler next to the ovens. Butter Packets 77°F Beverage Cooler in the lobby. Milk 46°F     - From follow-up inspection 2019-01-07: Coffee and milk beverage 47°F **Admin Complaint**
+-- Intermediate - - From initial inspection : Intermediate - Required employee training provided by a third-party employee training program and operator unable to provide original certificate for employees trained.     - From follow-up inspection 2019-01-07: No change **Time Extended**
+-- Basic - - From initial inspection : Basic - No copy of latest inspection report available.     - From follow-up inspection 2019-01-07: No change **Time Extended**
+-- Basic - - From initial inspection : Basic - Walk-in cooler floor soiled. Old food and debris     - From follow-up inspection 2019-01-07: No change **Time Extended**
+
+Kentucky Fried Chicken
+11583 N Williams St, Dunnellon
+Routine inspection Jan. 9.
+Met standards.
+Three total violations, with one high-priority violation:
+-- High Priority - Quaternary ammonium sanitizer not at proper minimum strength for manual warewashing. Do not use equipment/utensils not properly sanitized. Quaternary ammonium 100 ppm, Employee made a fresh solution, quaternary ammonium 300 ppm.  **Corrected On-Site**
+-- Intermediate - Interior of reach-in cooler soiled with accumulation of food residue. Reach-in cooler near office.
+-- Basic - Cove molding at floor/wall juncture broken/missing. Near three compartment sink area.
+
+Zaxby'S
+2900 SW 27 Ave, Ocala
+Routine inspection Jan. 11.
+Met standards.
+Three total violations, with one high-priority violation:
+-- High Priority - Potentially hazardous (time/temperature control for safety) food identified in the written procedure as a food held using time as a public health control has no time marking.  At the coin,one, boneless chicken wings and regular chicken wings no time marked, Employee time marked.  **Corrected On-Site**
+-- Basic - Floor tiles missing. In front of fryers, also tiles cracked.
+-- Basic - Observed standing water in bottom of reach-in cooler. Reach-in cooler at the cook line.
+
+Jan's River Park Cafe
+2774 NE 102 Ave Road, Silver Springs
+Routine inspection Jan. 11.
+Follow-up needed: High-priority violations found, and administrative action recommended.
+Two total violations, with one high-priority violation:
+-- High Priority - Rodent activity present as evidenced by rodent droppings found. Fifteen dry hard droppings in cabinet under hand sink at front counter containing fountain compressor.
+-- Basic - Dead roaches on premises. One dead roach in cabinet at front counter with fountain compressor under hand sink. Discarded. **Corrected On-Site**
+
+Jersey Mikes Subs
+2602 SW 19th Road, Suite 106, Ocala
+Routine inspection Jan. 10.
+Met standards; earlier problems corrected.
+Two total violations, with one high-priority violation:
+-- High Priority - - From initial inspection : High Priority - Vacuum breaker missing at mop sink faucet or on fitting/splitter added to mop sink faucet. Splitter added. No device on splitter. **Repeat Violation**     - From follow-up inspection 2019-01-10: No Change **Time Extended**
+-- Basic - - From initial inspection : Basic - Wet wiping cloth not stored in sanitizing solution between uses. One towel on prep table. Removed. **Corrected On-Site** **Repeat Violation**     - From follow-up inspection 2019-01-10: One on prep table near slicer. **Time Extended**
+
+Huddle House #879
+331 NW 20Th St Unit #2, Ocala
+Routine inspection Jan. 7.
+Follow-up needed: Administrative complaint recommended.
+Two total violations, with one high-priority violation:
+-- High Priority - - From initial inspection : High Priority - Employee failed to wash hands before changing gloves and/or putting on gloves to work with food. Cook touched raw beef, changed gloves and began preparing ready to eat food and touching clean plates without washing hands between the glove change.     - From follow-up inspection 2019-01-07: Cook cracked open raw shell eggs, changed gloves and touched toast.  He did not wash his hands before putting on a new pair of gloves. **Admin Complaint**
+-- Basic - - From initial inspection : Basic - Equipment and utensils not properly air-dried - wet nesting. Clean Dish Storage Shelving: Food storage containers. **Repeat Violation**     - From follow-up inspection 2019-01-07: No change **Time Extended**
+
+Gaetanos Subs & More
+11943 N Williams St, Suite D, Dunnellon
+Routine inspection Jan. 9.
+Met standards.
+One violation, with one high-priority violation:
+-- High Priority - Raw animal food stored over cooked food. Reach-in cooler at the cook line, raw beef above cooked pork, Manager stored properly.  **Corrected On-Site**
+
+D J & Gina's Lounge
+16535 SE 99 Ave, Summerfield
+Routine inspection Jan. 10.
+Time extension given to correct earlier problems.
+Five total violations, with no high-priority violations.
+-- Intermediate - - From initial inspection : Intermediate - Food manager certification expired.  A list of accredited food manager certification examination providers can be found at http://www.myfloridalicense.com/DBPR/hotels-restaurants/food-lodging/food-manager/ B. Morgan 10/15/2018 **Repeat Violation**     - From follow-up inspection 2019-01-10: Operator will take class on 01/13/19.  **Time Extended**
+-- Intermediate - - From initial inspection : Intermediate - No certified food manager for establishment.  A list of accredited food manager certification examination providers can be found at http://www.myfloridalicense.com/DBPR/hotels-restaurants/food-lodging/food-manager B.Morgan 10/15/2013 **Repeat Violation**     - From follow-up inspection 2019-01-10: Operator will take the class on 01/13/2019 **Time Extended**
+-- Intermediate - - From initial inspection : Intermediate - No proof of required state approved employee training provided for any employees. To order approved program food safety material, call DBPR contracted provider:  Florida Restaurant and Lodging Association (SafeStaff) 866-372-7233. For four employees.     - From follow-up inspection 2019-01-10: No change, no evidence of employee training.  **Time Extended**
+-- Intermediate - - From initial inspection : Intermediate - No quaternary ammonium chemical test kit provided when using quaternary ammonium chemical sanitizer at three-compartment sink/warewashing machine.     - From follow-up inspection 2019-01-10: Only Chlorine test kit available.  **Time Extended**
+-- Basic - - From initial inspection : Basic - Well water testing report/documentation is not available upon request. **Repeat Violation**     - From follow-up inspection 2019-01-10: Not available.  **Time Extended**
+
+McDonald's Belleview
+5515 SE Abshier Blvd, Belleview
+Routine inspection Jan. 7.
 Met standards.
 Five total violations, with no high-priority violations.
--- Intermediate - Clam/mussel/oyster tags not maintained in chronological order according to the last date they were served in the establishment.
--- Intermediate - Interior of reach-in cooler soiled with accumulation of food residue - reach in cooler in the cook line.
--- Basic - Build-up of food debris, dust or dirt on nonfood-contact surface - build up food on food containers. **Repeat Violation**
--- Basic - Hood soiled with accumulated grease, dust or food debris.  .
--- Basic - Objectionable odor in establishment - in wait staff area.
+-- Intermediate - Interior of reach-in cooler soiled with accumulation of food residue. Reach-in cooler at the drive thru area.
+-- Basic - Coffee filters not stored in a protected manner to prevent contamination. At the drive thru area, Employee inverted.  **Corrected On-Site**
+-- Basic - Current Hotel and Restaurant license not displayed. June, 2018.
+-- Basic - Single-service articles not stored inverted or protected from contamination. At the prep area, multiple single service not inverted.
+-- Basic - Stored food not covered in walk-in freezer. In walk-in freezer, apple pie not covered.
 
-Oops Alley
-3721 Hwy 90, Milton
-Routine inspection Jan. 9.
+Papa Pineapple'S
+16235 S Hwy 475, Summerfield
+Routine inspection Jan. 7.
+Met standards.
+Four total violations, with no high-priority violations.
+-- Intermediate - Interior of refrigerator soiled with accumulation of food residue. Freezer soiled.
+-- Basic - Lights in food preparation, food storage or warewashing area missing the proper shield, sleeve coatings or covers. Two lights.
+-- Basic - Mobile food dispensing vehicle license number not permanently affixed on the side of the unit in figures at least 2 inches high and in contrasting colors from the background of the vehicle.
+-- Basic - Well water testing report/documentation is not available upon request.
+
+Market Of Marion Concession H
+12888 SE Hwy 441, Belleview
+Routine inspection Jan. 11.
+Met standards.
+Three total violations, with no high-priority violations.
+-- Intermediate - Interior of reach-in cooler soiled with accumulation of food residue.  Reach-in cooler in front of grill
+-- Basic - Cutting board has cut marks and is no longer cleanable. Cutting board on reach-in cooler.  **Repeat Violation**
+-- Basic - Single-service articles not stored inverted or protected from contamination. To go containers on shelf not inverted, Employee inverted.  **Corrected On-Site**
+
+Market Of Marion (The)
+12888 SE US 441, Belleview
+Routine inspection Jan. 11.
+Met standards.
+Three total violations, with no high-priority violations.
+-- Intermediate - Accumulation of black/green mold-like substance in the interior of the ice machine. **Repeat Violation**
+-- Basic - Reach-in cooler gasket torn/in disrepair. Reach-in cooler at the cook line (left door).  **Repeat Violation**
+-- Basic - Well water testing report/documentation is not available upon request. **Repeat Violation**
+
+Pirats Oasis
+19240 SE Hwy 42, Weirsdale
+Routine inspection Jan. 10.
 Time extension given to correct earlier problems.
-One violation, with no high-priority violations.
--- Intermediate - - From initial inspection : Intermediate - No plan review submitted and approved - bar area added. Must submit plans and plan review application to DBPR H and R Plan Review office located at 2601 Blair Stone Rd., Tallahassee, FL 32399-1011. Plans must be submitted AND approved within 30 days. **Warning**     - From follow-up inspection 2018-11-30: Plans submitted -Manager not on duty to discuss plan review. **Time Extended**     - From follow-up inspection 2018-12-10: Plans are not accurate. Submitting new plans. **Time Extended**     - From follow-up inspection 2019-01-09: New general manager / he is going to submit the plans. **Time Extended**
+Three total violations, with no high-priority violations.
+-- Intermediate - - From initial inspection : Intermediate - No plan review submitted and approved - renovations were made or are in progress. Must submit plans and plan review application to DBPR H and R Plan Review office located at 2601 Blair Stone Rd., Tallahassee, FL 32399-1011.  Plans must be submitted AND approved within 30 days. Establishment has attached food truck to exterior wall of building containing DPPR licensed kitchen. Unable to access unit from outside. Ware washing and storage taking place inside seating establishment.      - From follow-up inspection 2019-01-10: No change.  **Time Extended**
+-- Basic - - From initial inspection : Basic - Hotel and Restaurant license decal not displayed on mobile food dispensing vehicle.     - From follow-up inspection 2019-01-10: No change.  **Time Extended**
+-- Basic - - From initial inspection : Basic - Mobile food dispensing vehicle connected to building on more than a temporary basis. Operator attached MFDV to main building, axel are mounted and tires are in good condition.     - From follow-up inspection 2019-01-10: No changes, MFDV attached to Building (5201402).  **Time Extended**
 
-Shrimp Basket Of Milton
-6389 Hwy 90, Milton
-Complaint inspection Jan. 10.
+Burgerim
+4414 SW College Road , Suite 1460, Ocala
+Routine inspection Jan. 7.
+Time extension given to correct earlier problems.
+Two total violations, with no high-priority violations.
+-- Intermediate - - From initial inspection : Intermediate - Food manager certification expired.  A list of accredited food manager certification examination providers can be found at http://www.myfloridalicense.com/DBPR/hotels-restaurants/food-lodging/food-manager/ Only one card available, F. Perez 12/11/2018.     - From follow-up inspection 2019-01-07: Manage will take class on February 19.  **Time Extended**
+-- Basic - - From initial inspection : Basic - Case/container/bag of food stored on floor in walk-in cooler/freezer. In walk-in cooler, case of lettuce on floor, also in Walk-in freezer, case of chicken on floor.     - From follow-up inspection 2019-01-07: No change, In Walk-in cooler, case of raw chicken on floor. In walk-in freezer, chicken boxes on floor.  **Time Extended**
+
+Pirats Oasis Bar And Grill
+19240 SE Hwy 42, Weirsdale
+Routine inspection Jan. 10.
+Time extension given to correct earlier problems.
+Two total violations, with no high-priority violations.
+-- Intermediate - - From initial inspection : Intermediate - No plan review submitted and approved - renovations were made or are in progress. Must submit plans and plan review application to DBPR H and R Plan Review office located at 2601 Blair Stone Rd., Tallahassee, FL 32399-1011.  Plans must be submitted AND approved within 30 days. Establishment change the layout of the prep area, ice machine room and removed the cook line (screen room) and replaced it. Operator attached a MFDV with license as a cook line (were was the screen room). Room behind bar area: all refrigeration was moved, only a handwash sink, dry storage shelves and three compartment sink for bar glasses are on site.  Ice machine room and mop sink room (left side room), Operator added a three compartment sink for cook line (MFDV) and a chest freezer, no handwash sink available inside room. Also in room at the right side, dry storage shelves, freezers and coolers for the cook line (MFDV).  Walk-in cooler was far from main building, during inspection walk-in cooler and MFDV are attache to main building.       - From follow-up inspection 2019-01-10: Handwash sink installed at the ware washing area next to the three compartment sink (were mop sink and ice machine are located). Seating establishment is also being utilized as a storage area for 52500702, (chest freezers with TCS food, dry food on storage shelves, single service items etc)  **Time Extended**
+-- Basic - - From initial inspection : Basic - Lights in food preparation, food storage or warewashing area missing the proper shield, sleeve coatings or covers. At the three compartment sink room, two lamps above chest freezer no shield.     - From follow-up inspection 2019-01-10:  NO change.  **Time Extended**
+
+The Olive Garden Italian Restaurant
+3363 SW College Road, Ocala
+Routine inspection Jan. 11.
+Met standards.
+Two total violations, with no high-priority violations.
+-- Intermediate - Required employee training expired for some employees. To order approved program food safety material, call DBPR contracted provider:  Florida Restaurant and Lodging Association (SafeStaff) 866-372-7233. For two employees.
+-- Basic - Observed standing water in bottom of reach-in cooler. Reach-in cooler at the server station.
+
+Market Of Marion Ice Cream Con
+12888 SE US Hwy 441, Belleview
+Routine inspection Jan. 11.
+Met standards.
+Two total violations, with no high-priority violations.
+-- Intermediate - No paper towels or mechanical hand drying device provided at handwash sink. Dispenser Not working, Employee moved the paper towel out of the dispenser.  **Corrected On-Site**
+-- Basic - Well water testing report/documentation is not available upon request.
+
+Off The Hook Seafood 2
+1301 NW 10 St, Ocala
+Routine inspection Jan. 7.
+Follow-up needed: Administrative complaint recommended.
+Two total violations, with no high-priority violations.
+-- Intermediate - - From initial inspection : Intermediate - Clam/mussel/oyster tags not marked with last date served.     - From follow-up inspection 2019-01-07: Dates not on the tags. **Admin Complaint**
+-- Intermediate - - From initial inspection : Intermediate - Manager lacking proof of food manager certification.  A list of accredited food manager certification examination providers can be found at http://www.myfloridalicense.com/DBPR/hotels-restaurants/food-lodging/food-manager/     - From follow-up inspection 2019-01-07: No change **Admin Complaint**
+
+The Fiery Chef
+809 N Magnolia Ave, Ocala
+Routine inspection Jan. 10.
+Met standards.
+Two total violations, with no high-priority violations.
+-- Intermediate - Ready-to-eat, potentially hazardous (time/temperature control for safety) food prepared onsite and held more than 24 hours not properly date marked. In reach-in cooler, marinara sauce 01/07/19, Manager date marked.  **Corrected On-Site**
+-- Basic - Current Hotel and Restaurant license not displayed. June1, 2018
+
+Burger King #6845
+2728 N Pine St, Ocala
+Routine inspection Jan. 7.
 Met standards; earlier problems corrected.
 One violation, with no high-priority violations.
--- Basic - - From initial inspection : Basic - Soil residue build-up on nonfood-contact surface - on food containers. **Warning**     - From follow-up inspection 2019-01-10: Soil residue on food containers. **Time Extended**
+-- Basic - - From initial inspection : Basic - Floor soiled/has accumulation of debris. *Floors have heavy soil and trash build up under the storage shelving, under the cooking equipment, under the prep tables, under the coolers, under the shake machine, in the walk in cooler and walk in freezer, the dry storage area, the rear prep area and the office. *Walls in the rear prep room, the dish wash area and the drive thru area are soiled.     - From follow-up inspection 2019-01-07: Walsall in cooler, walk in freezer, under the shelving at the front counter and drive thru area behind the cooler have soil and trash debris buildup. **Time Extended**
+
+Zaxby'S
+13451 SW 17 Ct, Ocala
+Complaint inspection Jan. 7.
+Met standards; earlier problems corrected.
+One violation, with no high-priority violations.
+-- Intermediate - - From initial inspection : Intermediate - Reach-in cooler not maintained in good repair.  Do not store potentially hazardous (time/temperature control for safety) food in this unit until the unit is repaired. Reach-in cooler at the cook line, ambient air temperature 72°. Items on top of cooler are on ice bath.     - From follow-up inspection 2019-01-07: Not working properly, ambient air temperature 66°-68°, Manager ordered parts.  **Time Extended**
+
+M Of M Con#C
+12888 SE U S Hwy 441, Belleview
+Routine inspection Jan. 11.
+Met standards.
+One violation, with no high-priority violations.
+-- Basic - Single-service articles not stored inverted or protected from contamination. To go containers not inverted, Employee moved and stored properly.  **Corrected On-Site**
+
+Fiore's Cafã\x89
+2327 S Pine Ave, Ocala
+Routine inspection Jan. 10.
+Met standards; earlier problems corrected.
+One violation, with no high-priority violations.
+-- Basic - - From initial inspection : Basic - Working containers of food removed from original container not identified by common name. Several squeeze bottles in salad cooler     - From follow-up inspection 2019-01-10: No change. **Time Extended**
+
+The Depot
+22060 N US Hwy 441, Micanopy
+Complaint inspection Jan. 9.
+Met standards; earlier problems corrected.
+No violations were found.
+
+
+Steak N Shake #437
+5180 NE 24 St, Ocala
+Routine inspection Jan. 10.
+Met standards; earlier problems corrected.
+No violations were found.
+
+
+China Max
+10345 SE US Hwy 441, Belleview
+Routine inspection Jan. 7.
+Met standards; earlier problems corrected.
+No violations were found.
+
+
+Bob Evans Farms Rest #153
+3535 SW College Road, Ocala
+Complaint inspection Jan. 10.
+Met standards; earlier problems corrected.
+No violations were found.
+
+
+Pineapple Sam's Cafe
+18976 E Hwy 40, Silver Springs
+Routine inspection Jan. 10.
+Met standards. Violations from earlier administrative complaint have been corrected.
+No violations were found.
+
+
+Ocala National Golf Club
+4782 NW 80 Ave, Ocala
+Routine inspection Jan. 8.
+Met standards; earlier problems corrected.
+No violations were found.
+
+
+Cal's Place
+11007 SE 66 Terr, Belleview
+Complaint inspection Jan. 7.
+Met standards. Violations from earlier administrative complaint have been corrected.
+No violations were found.
+

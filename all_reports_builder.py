@@ -16,7 +16,7 @@ import smtplib
 import sqlite3
 
 # COUNTIES for inspection reports
-counties = ['Alachua', 'Marion', 'Manatee', 'Polk', 'Okaloosa', 'Santa Rosa', 'Sarasota', 'Walton']
+counties = ['Alachua', 'Marion']#, 'Manatee', 'Polk', 'Okaloosa', 'Santa Rosa', 'Sarasota', 'Walton']
 
 # CONVERTS datetime into AP style text; from Stucka
 def get_big_timestamp(date_object=None):
@@ -258,7 +258,7 @@ def clean_report(id):
 
     return(pn)
 
-# CALL MAIN function, create big report
+# CALL MAIN function, create reports for each count in list
 for county in counties:
     # DATE RANGE for report, week prior
     today = datetime.date.today()
@@ -273,6 +273,17 @@ for county in counties:
     # The new report and, later, its path:
     path_directory = os.path.dirname(os.path.abspath(__file__))
     bigreport = os.path.join(path_directory, 'bigreport.txt')
+    # Delete old report file since we'll be building a new one here.
+    if os.path.exists(bigreport):
+        os.remove(bigreport)
+    else:
+        print(f"The old file for {bigreport} isn't there.")
+
+    # Add intro graph to the top
+    intro = f"""These are recent restaurant inspection reports for {county} County — from {pn_startdate} to {pn_enddate} — filed by state safety and sanitation inspectors.\nThe Florida Department of Business & Professional Regulation describes an inspection report as “a ‘snapshot’ of conditions present at the time of the inspection. On any given day, an establishment may have fewer or more violations than noted in their most recent inspection. An inspection conducted on any given day may not be representative of the overall, long-term conditions at the establishment.\nPlease note that some more recent, follow-up inspections may not be included here.\n"""
+    f=open(bigreport, "w+")
+    f.write(intro)
+    f.close()
 
     # Access database
     sqlite_file = os.path.join(path_directory, 'rinspect.sqlite')
@@ -322,17 +333,7 @@ for county in counties:
         f.write(pn)
         f.close()
 
-    # Delete old report file since we'll be building a new one here.
-    if os.path.exists(bigreport):
-        os.remove(bigreport)
-    else:
-        print(f"The old file for {bigreport} isn't there.")
-
-    intro = f"""These are recent restaurant inspection reports for {county} County — from {pn_startdate} to {pn_enddate} — filed by state safety and sanitation inspectors.\nThe Florida Department of Business & Professional Regulation describes an inspection report as “a ‘snapshot’ of conditions present at the time of the inspection. On any given day, an establishment may have fewer or more violations than noted in their most recent inspection. An inspection conducted on any given day may not be representative of the overall, long-term conditions at the establishment.\nPlease note that some more recent, follow-up inspections may not be included here.\n"""
-    f= open(bigreport,'a+')
-    f.write(intro)
-
-    # Who gets the report:
+        # Who gets the report:
     if county == 'Marion':
         receiver = ['doug.ray@starbanner.com', 'joe.byrnes@gvillesun.com', \
         'alan.youngblood@starbanner.com']
@@ -352,7 +353,7 @@ for county in counties:
         receiver = ['doug.ray@starbanner.com', 'jblakeney@nwfdailynews.com']
     elif county == 'Okaloosa':
         receiver = ['doug.ray@starbanner.com', 'jblakeney@nwfdailynews.com']
-    # SEND REPORT to recipient(s).
+    # SEND REPORT to receivers.
     with open(bigreport) as fp:
         # Create a text/plain message
         msg = EmailMessage()
@@ -373,7 +374,7 @@ for county in counties:
         server.quit()
 
         print('Email sent!')
-        print(f'There are {reportnum} inspections in the new report.')
+        print(f'There are {reportnum} inspections in the {county} report.')
     except:
         print('Something went wrong...')
 
