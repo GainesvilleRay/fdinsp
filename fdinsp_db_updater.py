@@ -14,21 +14,13 @@ from bs4 import BeautifulSoup
 from urllib.request import urlopen
 from email.message import EmailMessage
 
-
 # built-in libraries
-import datetime
-import re
-import sqlite3
 import csv
+import datetime
+import os.path
+import re
 import smtplib
-
-# append to log that goes out by email with each run
-#log_directory = os.path.dirname(os.path.abspath(__file__))
-#log_file = os.path.join(log_directory, "db_update_log.txt")
-log_file = "db_update_log.text"
-
-with open(log_file,'a') as outFile:
-    outFile.write('\n' + 'Scrape: ' + str(datetime.datetime.now()))
+import sqlite3
 
 # DATAFRAME built from summary of recent inspections
 # Read state summary report for District into Pandas df;
@@ -195,6 +187,14 @@ for url in urlList:
     make_obs()
 
 conn.close()
+
+# append to log that goes out by email with each run
+log_directory = os.path.dirname(os.path.abspath(__file__))
+log_file = os.path.join(log_directory, "db_update_log.txt")
+# log_file = "db_update_log.text"
+
+with open(log_file,'a') as outFile:
+    outFile.write('\n' + 'Scrape: ' + str(datetime.datetime.now()))
 
 # LOG each run
 with open(log_file,'a') as outFile:
