@@ -18,3 +18,5 @@ insptypes.csv -- a module of sorts that has some text which goes into the narrat
 bigreport.txt -- the report, which gets overwritten on each run of the report_builder, and emailed to recipients
 
 dbbuilder.py -- a script to build the database file
+
+db_update_log.txt -- info that goes into the email to record how many reports gathered or what was missed
