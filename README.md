@@ -5,9 +5,11 @@ It was developed by Doug Ray at The Gainesville Sun in Gainesville, Florida. dou
 
 Files included:
 
-fd_db_updater.py -- scrapes data and deposits it into a database
+fdinsp_updater.py -- scrapes data and deposits it into a database
 
-report_builder.py -- formats a weekly narrative from the database
+report_builder.py -- formats a weekly narrative from the database (for individual county)
+
+all_reports_builder.py -- updated script to produce all reports in the list of counties
 
 rinspect.sqlite -- the database
 
@@ -16,6 +18,3 @@ insptypes.csv -- a module of sorts that has some text which goes into the narrat
 bigreport.txt -- the report, which gets overwritten on each run of the report_builder, and emailed to recipients
 
 dbbuilder.py -- a script to build the database file
-
-alerter.py -- a script to allow the scrape and report builder to run weekly on PythonAnywhere
-
