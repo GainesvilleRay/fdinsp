@@ -16,7 +16,7 @@ import smtplib
 import sqlite3
 
 # COUNTIES for inspection reports
-counties = ['Alachua', 'Marion']#, 'Manatee', 'Polk', 'Okaloosa', 'Santa Rosa', 'Sarasota', 'Walton']
+counties = ['Alachua', 'Marion', 'Manatee', 'Polk', 'Okaloosa', 'Santa Rosa', 'Sarasota', 'Walton']
 
 # CONVERTS datetime into AP style text; from Stucka
 def get_big_timestamp(date_object=None):
