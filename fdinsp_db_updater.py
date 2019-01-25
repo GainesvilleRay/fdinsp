@@ -1,3 +1,4 @@
+#!/usr/bin/python3.6
 # coding: utf-8
 
 # This script gathers data on restaurant inspections by the state of Florida

@@ -1,3 +1,5 @@
+#!/usr/bin/python3.6
+
 """ This script gathers data on restaurant inspections by the state of Florida
 that have been collected into a database by a related script
 and builds a txt report for a particular county within a date range.

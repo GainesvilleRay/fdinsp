@@ -1,3 +1,5 @@
+#!/usr/bin/python3.6
+
 import sqlite3
 conn = sqlite3.connect("rinspect.sqlite")
 cursor = conn.cursor()
