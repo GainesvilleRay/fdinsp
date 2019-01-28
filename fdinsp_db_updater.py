@@ -185,11 +185,11 @@ def make_obs():
                 conn.commit()
 
 # Run this script on a particular day of the week only
-today = datetime.date.today()
-weekday = today.weekday()
-if (weekday == 0): #Monday
-    for url in urlList:
-        make_obs()
+#today = datetime.date.today()
+#weekday = today.weekday()
+#if (weekday == 0): #Monday
+for url in urlList:
+    make_obs()
 
 conn.close()
 
