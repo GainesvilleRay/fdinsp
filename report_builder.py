@@ -19,7 +19,7 @@ import sqlite3
 
 # COUNTY for inspection reports; unselect the one you want
 #countywanted = 'Marion'
-#countywanted = 'Alachua'
+countywanted = 'Alachua'
 #countywanted = 'Polk'
 #countywanted = 'Sarasota'
 #countywanted = 'Manatee'
