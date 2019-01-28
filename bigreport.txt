@@ -1,117 +1,160 @@
-These are recent restaurant inspection reports for Alachua County — from Jan. 21 to Jan. 26 — filed by state safety and sanitation inspectors.
+These are recent restaurant inspection reports for Walton County — from Jan. 21 to Jan. 26 — filed by state safety and sanitation inspectors.
 The Florida Department of Business & Professional Regulation describes an inspection report as “a ‘snapshot’ of conditions present at the time of the inspection. On any given day, an establishment may have fewer or more violations than noted in their most recent inspection. An inspection conducted on any given day may not be representative of the overall, long-term conditions at the establishment.
 Please note that some more recent, follow-up inspections may not be included here.
 
-The Diner
-615 NW Santa Fe Blvd, High Springs
-Routine inspection Jan. 25.
-Follow-up needed: High-priority violations found, and administrative action recommended.
-26 total violations, with 7 high-priority violations:
-
-Wyndham Garden Gainesville
-2900 SW 13 St, Gainesville
-Routine inspection Jan. 23.
-Follow-up needed: Warning issued.
-16 total violations, with 5 high-priority violations:
-
-Woodyard Grill
-102 NW 250 St, Newberry
-Routine inspection Jan. 25.
-Follow-up needed: Warning issued.
-12 total violations, with 4 high-priority violations:
-
-Jersey Mike's Sub
-2803 SW 42 St Butler Plaza North, Gainesville
-Routine inspection Jan. 23.
-Met standards.
-Eight total violations, with three high-priority violations:
-
-Volcanic Sushi + Sake
-5141 SW 91 Way , Suite I-101, Gainesville
-Routine inspection Jan. 22.
-Met standards.
-11 total violations, with 2 high-priority violations:
-
-Limerock Road
-9158 SW 51 Road J-101&102, Gainesville
+Holy Cakes
+158 Sandestin Blvd N, Miramar Beach
 Routine inspection Jan. 22.
 Follow-up needed: Warning issued.
-10 total violations, with 2 high-priority violations:
+17 total violations, with 4 high-priority violations:
+-- High Priority - Dishmachine chlorine sanitizer not at proper minimum strength. Discontinue use of dishmachine for sanitizing and set up manual sanitization until dishmachine is repaired and sanitizing properly.  0ppm adjusted to 100ppm. Chlorine line was not primed and had an air bubble. Primed line . **Corrected On-Site** **Warning**
+-- High Priority - Employee touching ready-to-eat food with their bare hands - food was not being heated as a sole ingredient to 145 degrees F or immediately added to other ingredients to be cooked/heated to the minimum required temperature to allow bare hand contact.  Establishment has no approved Alternative Operating Procedure.  Server had bare hand contact with cooked bacon. Bacon was discarded, server was educated on bare hand contact. **Warning**
+-- High Priority - Food contaminated by employees/consumers and operator continued to serve food. See stop sale.  Barehand contact with bacon by server. Bacon was discarded. Server was educated. **Warning**
+-- High Priority - Potentially hazardous (time/temperature control for safety) food hot held at less than 135 degrees Fahrenheit or above.  Sausage patties held at 104°F- chef moved to reach-in cooler to cool. Out for less than 4 hours. **Corrective Action Taken** **Warning**
+-- Intermediate - Accumulation of encrusted food debris on/around mixer head. Chef cleaned mixer during inspection. **Corrected On-Site** **Warning**
+-- Intermediate - Chemical test kit not used to ensure proper sanitization of equipment and utensils when using a chemical sanitizer.  Chlorine test kit not being used to check dish machine sanitizer levels. 0ppm **Warning**
+-- Intermediate - Employee used handwash sink (cookline)as a dump sink. **Warning**
+-- Intermediate - No chlorine chemical test kit provided when using chlorine sanitizer at three-compartment sink/warewashing machine. **Warning**
+-- Basic - Build-up of grease/dust/debris on hood filters. **Warning**
+-- Basic - Cove molding at floor/wall juncture broken/missing.  Cove molding at the back door missing. **Warning**
+-- Basic - Employee (Expo) with no hair restraint while engaging in food preparation.   **Warning**
+-- Basic - Fly sticky tape hanging over food/food preparation area/food-contact equipment.  Sticky fly trap stored on bar three-compartment sink. Operator discarded trap during inspection. **Corrected On-Site** **Warning**
+-- Basic - Food stored on floor.  Case of water stored on the floor at wait station. Chef moved to shelf during inspection. **Corrected On-Site** **Warning**
+-- Basic - Hole in or other damage to wall.  Wall at wait station has a large hole in the drywall.  Ceiling tile not mounted properly at the wait station. **Warning**
+-- Basic - Stored food not covered in walk-in freezer.  Cheese curds not covered inside reach-in freezer. Chef covered during inspection. **Corrected On-Site** **Warning**
+-- Basic - Unsealed concrete floor in food preparation, food storage, warewashing area or bathroom.  Walk-in cooler floor is unsealed concrete. **Warning**
+-- Basic - Utensils in poor condition.  Rubber spatula cracked, chef discarded. **Corrected On-Site** **Warning**
 
-Arby's #95
-1405 SW 13 St, Gainesville
-Routine inspection Jan. 24.
+Sunset Bay Cafe
+158 Sandestin Blvd North, Miramar Beach
+Routine inspection Jan. 22.
+Follow-up needed: Warning issued.
+17 total violations, with 4 high-priority violations:
+-- High Priority - Dishmachine chlorine sanitizer not at proper minimum strength. Discontinue use of dishmachine for sanitizing and set up manual sanitization until dishmachine is repaired and sanitizing properly.  0ppm adjusted to 100ppm. Chlorine had an air bubble in the line. Inspector educated chef on how to prime the dish machine sanitizer line. **Corrected On-Site** **Warning**
+-- High Priority - Employee touching ready-to-eat food with their bare hands - food was not being heated as a sole ingredient to 145 degrees F or immediately added to other ingredients to be cooked/heated to the minimum required temperature to allow bare hand contact.  Establishment has no approved Alternative Operating Procedure.  Server observed touching bacon with his bare hand to move from warming area to the plate. Inspector intervened. Bacon discarded. Server educated on bare hand contact. **Warning**
+-- High Priority - Food contaminated by employees/consumers and operator continued to serve food. See stop sale.  Server observed having bare hand contact with cooked bacon. Server moved bacon from the warming area to a plate. Inspector intervened. 3 pieces of bacon were discarded. Served was educated on bare hand contact. **Warning**
+-- High Priority - Potentially hazardous (time/temperature control for safety) food hot held at less than 135 degrees Fahrenheit or above.  Cooked sausage patties held at 104°F on the cook line. Chef moved to reach-in cooler to rapid cool during inspection. **Corrective Action Taken** **Warning**
+-- Intermediate - Accumulation of encrusted food debris on/around mixer head. Chef cleaned mixer head during inspection. **Corrected On-Site** **Warning**
+-- Intermediate - Chemical test kit not used to ensure proper sanitization of equipment and utensils when using a chemical sanitizer.  Test kit is not being used to check sanitizer levels. Dish machine was measured at 0ppm during inspection and was adjusted to 100ppm. **Warning**
+-- Intermediate - Employee used handwash sink on cookline as a dump sink. **Warning**
+-- Intermediate - No chlorine chemical test kit provided when using chlorine sanitizer at three-compartment sink/warewashing machine.  No chlorine test kit in use or present at the time of inspection. **Warning**
+-- Basic - Build-up of grease/dust/debris on hood filters on the cookline. **Repeat Violation** **Warning**
+-- Basic - Cove molding at floor/wall juncture neat the back door broken/missing. **Repeat Violation** **Warning**
+-- Basic - Employee (food expo) with no hair restraint while engaging in food preparation. **Warning**
+-- Basic - Fly sticky tape hanging over food/food preparation area/food-contact equipment.  Sticky fly trap observed stored on bar three-compartment sink. Manager discarded trap and sanitized sink during inspection. **Corrected On-Site** **Warning**
+-- Basic - Food stored on floor.  Case of water (plastic bottles) stored on the floor under shelf in the wait station area. Manager moved to shelf during inspection. **Corrected On-Site** **Warning**
+-- Basic - Hole in or other damage to wall.  Large hole in drywall on the wall located at the wait station.  Ceiling tile not properly installed leaving a large opening in the ceiling at the wait station. **Warning**
+-- Basic - Stored food not covered in reach in freezer.  Cheese curds on sheet pan inside reach-in freezer observed stored uncovered. Chef covered cheese curds during inspection. **Corrected On-Site** **Warning**
+-- Basic - Unsealed concrete floor in food preparation, food storage, warewashing area or bathroom.  Walk-in cooler floor is bare unsealed concrete. **Warning**
+-- Basic - Utensils in poor condition.  Cracked rubber spatula in utensil storage. Chef discarded spatula during inspection. **Corrected On-Site** **Warning**
+
+Watersound Cafe
+530 Pathways Dr, Watersound
+Routine inspection Jan. 25.
+Met standards.
+Six total violations, with two high-priority violations:
+-- High Priority - Potentially hazardous (time/temperature control for safety) food hot held at less than 135 degrees Fahrenheit or above.  Jasmine rice stored in food warmer 103°F(out less than 4 hours, tapir reheard inside convection oven 144°F) **Corrected On-Site**
+-- High Priority - Raw animal food stored over ready-to-eat food.  Raw chicken stored above ready to eat hotdogs in lowboy drawer. Chef inverted during inspection. No cross contamination observed. **Corrected On-Site**
+-- Basic - Build-up of mold-like substance on nonfood-contact surface.  Observed a mold like substance along the wall (caulk line) at three-compartment sink.
+-- Basic - Ceiling tile missing.  Ceiling tile across from the dish machine pushed to the side leaving a large open hole in the ceiling.
+-- Basic - Employee personal items stored in or above a food preparation area.  Employee cell phone stored on the cook line make table. Chef moved phone to correct storage during inspection. **Corrected On-Site**
+-- Basic - Hole in or other damage to wall.  Wall to the left of stand up reach-in freezer in prep kitchen has a large hole in it. Inside the hole is a fire extinguisher.
+
+Hibiscus Coffee & Guest House
+85 Defuniak St, Grayton, Santa Rosa Beach
+Routine inspection Jan. 23.
 Met standards.
 Five total violations, with two high-priority violations:
+-- High Priority - Ready-to-eat, potentially hazardous (time/temperature control for safety) food marked with a date that exceeds 7 days after opening/preparation.  Shredded cheddar cheese date marked 1/4/18. Operator discarded. See Stop Sale. **Corrected On-Site**
+-- High Priority - Ready-to-eat, potentially hazardous (time/temperature control for safety) food not consumed/sold within 7 days after opening/preparation. See stop sale.  Shredded cheddar cheese date marked 1/4/19. Operator discarded.
+-- Basic - Hole in or other damage to wall.  Hole in Sheetrock below three-compartment sink.
+-- Basic - Lights in food preparation, food storage or warewashing area missing the proper shield, sleeve coatings or covers.  Lights in back storage room are glass bulbs with no protective shield.
+-- Basic - Single-service articles improperly stored.  Case of cups stored on the dry storage floor. Operator moved to shelf during inspection. **Corrected On-Site**
 
-Haile Plantation Golf & Cc
-9905 SW 44 Ave, Gainesville
-Routine inspection Jan. 22.
-Met standards.
-Four total violations, with two high-priority violations:
-
-Adam's Rib Co
-1515 SW 13 St, Gainesville
-Routine inspection Jan. 24.
-Met standards.
-Eight total violations, with one high-priority violation:
-
-Wyndham Garden Gainesville
-2900 SW 13 St, Gainesville
-Routine inspection Jan. 24.
-Time extension given to correct earlier problems.
-Seven total violations, with one high-priority violation:
-
-Burger Fi
-3524 SW Archer Road, Suite 110, Gainesville
-Complaint inspection Jan. 23.
+Mi Casita Mexican Restaurant
+4141 E Co Hwy 30A, Santa Rosa Beach
+Routine inspection Jan. 23.
 Follow-up needed: Warning issued.
-Three total violations, with one high-priority violation:
+Nine total violations, with one high-priority violation:
+-- High Priority - Live, small flying insects in kitchen, food preparation area, or food storage area.  Four small live flying flys observed near boxes of gloves on top of the cookline stand up reach-in cooler. **Warning**
+-- Intermediate - Spray bottle containing toxic substance not labeled.  Bleachwater stored in unlabeled generic spray bottle. Manager labeled bottle by its common name during inspection. **Corrected On-Site** **Repeat Violation** **Warning**
+-- Basic - Case/container/bag of food stored on floor in kitchen.  Case of cooking oil stored on the kitchen floor. **Warning**
+-- Basic - In-use knife/knives stored in cracks between pieces of equipment.  Observed three knives stored between equipment (reach-in coolers), manager moved knives to be washed. **Corrective Action Taken** **Repeat Violation** **Warning**
+-- Basic - No conspicuously located ambient air temperature thermometer in reach-in cooler.  Front counter stand up reach-in cooler(salsa) no ambient air thermometer. **Repeat Violation** **Warning**
+-- Basic - Reach-in cooler gasket torn/in and up reach-in cooler and make table reach-in cooler gaskets both observed torn during inspection.   **Repeat Violation** **Warning**
+-- Basic - Standing water or very slow draining water in handwash sink, three-compartment sink, or mop sink.  Very slow draining water at front counter handwash sink. **Repeat Violation** **Warning**
+-- Basic - Utensils in poor condition.  Plastic food containers observed cracked and in disrepair at the time of inspection. **Warning**
+-- Basic - Wet mop not stored in a manner to allow the mop to dry. Wet mop head stored on the floor next to the front counter stand up reach-in cooler. **Warning**
 
-Big Mills Cheesesteaks
-2111 NW 13 St, Gainesville
+Pizza By The Sea
+10343 E County Hwy 30A Unit C114, Seacrest
+Routine inspection Jan. 25.
+Follow-up needed: Warning issued.
+Eight total violations, with no high-priority violations.
+-- Intermediate - Potentially hazardous (time/temperature control for safety) food covered while cooling.  Spaghetti pasta observed cooling in the reach-in cooler while covered. Cook moved spaghetti pasta uncovered into the walk-in cooler to rapid cool. **Corrective Action Taken** **Warning**
+-- Basic - Clean linens stored in improper location.  Clean wiping clothes and aprons stored inside restroom. Manager moved out linens to shelf in dry storage during inspection. **Warning**
+-- Basic - Covered waste receptacle not provided in unisex bathroom. **Warning**
+-- Basic - Cutting boards on make tables have cut marks and are no longer cleanable. **Warning**
+-- Basic - Soiled dry wiping cloth in use. Manager moved clothes to soiled cloth bin. **Corrected On-Site** **Warning**
+-- Basic - Unsealed concrete floor in food preparation, food storage, warewashing areas and bathroom. **Warning**
+-- Basic - Walk-in coolerand reach-in cooler (make table)  gaskets torn/in disrepair. **Warning**
+-- Basic - Wall and/or ceiling obstructed with exposed utility lines.    Ceilings in food prep, dry storage, and dish pit areas all have exposed utilitity lines, air conditioning duct work. Application called for drywall ceiling. District Manager Contacted. Must have smooth easily cleanable ceilings in place covering utility lines and exposed air conditioning ducts. **Warning**
+
+723 Whiskey Bravo
+3031 E County Hwy 30A, Santa Rosa Beach
+Routine inspection Jan. 23.
+Met standards.
+Six total violations, with no high-priority violations.
+-- Intermediate - Raw/undercooked animal food offered and establishment has no written consumer advisory. Raw animal foods must be fully cooked prior to service.  Establishment has previously had a consumer advisory posted on the wall. The advisory was recently taken down due to a local music festival held at establishment. Inspector printed two new consumer advisory notices for the operator. **Corrected On-Site**
+-- Intermediate - Spray bottle containing toxic substance not labeled.  Generic spray bottle containing bleach water not labeled by its common name. Chef labeled during inspection. **Corrected On-Site**
+-- Basic - Equipment and utensils not properly air-dried - wet nesting.  Drinking glasses at the upstairs bar stored wet. Chef moved glasses to be rewashed. **Corrective Action Taken**
+-- Basic - Unsealed concrete floor in food preparation, food storage, warewashing area or bathroom.  Epoxy on the kitchen floor has worn out in the heavy traffic areas leaving areas of the floor unsealed.
+-- Basic - Utensils in poor condition.  Plastic food containers observed in disrepair. Chipped and cracked food containers observed stored on shelf.
+
+
+International House Of Pancakes
+10859 E Emerald Coast Pky206, Destin
 Routine inspection Jan. 25.
 Met standards.
 Four total violations, with no high-priority violations.
+-- Basic - Floor tiles in the kitchen, expo, and dish pit areas cracked and broken. **Repeat Violation**
+-- Basic - Old labels stuck to food containers after cleaning.  Old label observed on metal food container stored on shelf. Manager moved food container to be rewashed. **Corrective Action Taken**
+-- Basic - Single-service articles not stored inverted or protected from contamination.  To go drink lids observed not stored inverted at wait station. Manager inverted during inspection. **Corrected On-Site**
+-- Basic - Utensils in poor condition.  Clean stored spatula observed in poor repair. Spatula flaking and partially melted. Manager discarded during the inspection. **Corrected On-Site** **Repeat Violation**
 
-Haile Village Bistro
-5323 SW 91 Ter, Suite A, Gainesville
-Routine inspection Jan. 22.
-Met standards; earlier problems corrected.
-Three total violations, with no high-priority violations.
-
-Chef Brothers 19Th Hole
-11400 Turkey Creek Blvd, Alachua
-Routine inspection Jan. 22.
+Sunset Bay Cafe
+158 Sandestin Blvd North, Miramar Beach
+Routine inspection Jan. 24.
 Met standards; earlier problems corrected.
 Two total violations, with no high-priority violations.
+-- Basic - - From initial inspection : Basic - Hole in or other damage to wall.  Large hole in drywall on the wall located at the wait station.  Ceiling tile not properly installed leaving a large opening in the ceiling at the wait station. **Warning**     - From follow-up inspection 2019-01-24: Large hole in drywall still remains. Hole has been covered with plastic until repairs can be made. *time extended * Corrective action taken*  Ceiling tiles has been installed *complied* **Time Extended**
+-- Basic - - From initial inspection : Basic - Unsealed concrete floor in food preparation, food storage, warewashing area or bathroom.  Walk-in cooler floor is bare unsealed concrete. **Warning**     - From follow-up inspection 2019-01-24: Walk-in cooler floor remains unsealed concrete. **Time Extended**
 
-Subway Medical Plaza
-2000 SW Archer Road, Gainesville
+Holy Cakes
+158 Sandestin Blvd N, Miramar Beach
+Routine inspection Jan. 24.
+Met standards; earlier problems corrected.
+Two total violations, with no high-priority violations.
+-- Basic - - From initial inspection : Basic - Hole in or other damage to wall.  Wall at wait station has a large hole in the drywall.  Ceiling tile not mounted properly at the wait station. **Warning**     - From follow-up inspection 2019-01-24: Hole in the wall at wait station remains. Hole has been covered with plastic until proper repairs can be made. *Time extended*corrective action taken*  Ceiling tile has been replaced.*Complied* **Time Extended**
+-- Basic - - From initial inspection : Basic - Unsealed concrete floor in food preparation, food storage, warewashing area or bathroom.  Walk-in cooler floor is unsealed concrete. **Warning**     - From follow-up inspection 2019-01-24: Walk-in cooler floor continues to remain unsealed at the time of callback inspection. **Time Extended**
+
+Mi Casita Mexican Restaurant
+4141 E Co Hwy 30A, Santa Rosa Beach
+Routine inspection Jan. 24.
+Met standards; earlier problems corrected.
+One violation, with no high-priority violations.
+-- Basic - - From initial inspection : Basic - Standing water or very slow draining water in handwash sink, three-compartment sink, or mop sink.  Very slow draining water at front counter handwash sink. **Repeat Violation** **Warning**     - From follow-up inspection 2019-01-24: Sink remains slow draining at the time of callback inspection. **Time Extended**
+
+Lin's Asian Cuisine Of Ke Inc
+130 Scenic Gulf Dr, Suite 5B, Miramar Beach
 Routine inspection Jan. 22.
 Met standards; earlier problems corrected.
 One violation, with no high-priority violations.
+-- Basic - - From initial inspection : Basic - Nonfood-contact surfaces not designed and constructed to allow easy cleaning and maintenance.  Commercial non food grade drill (Ridgid) used to mix ingredients with. **Warning**     - From follow-up inspection 2019-01-22: Non food grade drill (Ridgid) observed still in use at the time of callback inspection. **Time Extended**
 
-Daybreak Pleasant Street
-308 NW 5 Ave, Gainesville
+Village Door Seascape
+60 Seascape Drive, Miramar Beach
 Complaint inspection Jan. 25.
 Met standards; earlier problems corrected.
 No violations were found.
 
-Sandy's Place
-5001 NW 34 St, Suite G, Gainesville
-Routine inspection Jan. 22.
-Met standards; earlier problems corrected.
-No violations were found.
-
-Big Mills Cheesesteaks
-2111 NW 13 St, Gainesville
-Routine inspection Jan. 25.
-Met standards; earlier problems corrected.
-No violations were found.
-
-Burger Fi
-3524 SW Archer Road, Suite 110, Gainesville
-Complaint inspection Jan. 24.
-Met standards; earlier problems corrected.
-No violations were found.
