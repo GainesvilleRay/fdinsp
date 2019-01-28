@@ -184,8 +184,12 @@ def make_obs():
                 (visitid, violation, details_id, obs) VALUES (?,?,?,?)''', values)
                 conn.commit()
 
-for url in urlList:
-    make_obs()
+# Run this script on a particular day of the week only
+today = datetime.date.today()
+weekday = today.weekday()
+if (weekday == 0): #Monday
+    for url in urlList:
+        make_obs()
 
 conn.close()
 

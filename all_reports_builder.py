@@ -261,123 +261,129 @@ def clean_report(id):
     return(pn)
 
 # CALL MAIN function, create reports for each count in list
-for county in counties:
-    # DATE RANGE for report, week prior
-    today = datetime.date.today()
-    idx = (today.weekday() + 1) % 7
-    start_day = today - datetime.timedelta(6+idx) # Monday prior week; date object
-    start_date = str(start_day.strftime("%Y, %m, %d")) # Monday; date as string
-    end_day = today - datetime.timedelta(1+idx) # following Saturday; date object
-    end_date = str(end_day.strftime("%Y, %m, %d")) # Saturday; date as string
-    pn_startdate = start_day.strftime("%b. %d") # date as string for email narrative
-    pn_enddate = end_day.strftime("%b. %d") # date as string for email narrative
+# Run this script on a particular day of the week only
+today = datetime.date.today()
+weekday = today.weekday()
+if (weekday == 0): #Monday
+    for county in counties:
+        # DATE RANGE for report, week prior
+        today = datetime.date.today()
+        idx = (today.weekday() + 1) % 7
+        start_day = today - datetime.timedelta(6+idx) # Monday prior week; date object
+        start_date = str(start_day.strftime("%Y, %m, %d")) # Monday; date as string
+        end_day = today - datetime.timedelta(1+idx) # following Saturday; date object
+        end_date = str(end_day.strftime("%Y, %m, %d")) # Saturday; date as string
+        pn_startdate = start_day.strftime("%b. %d") # date as string for email narrative
+        pn_enddate = end_day.strftime("%b. %d") # date as string for email narrative
 
-    # The new report and, later, its path:
-    path_directory = os.path.dirname(os.path.abspath(__file__))
-    bigreport = os.path.join(path_directory, 'bigreport.txt')
-    # Delete old report file since we'll be building a new one here.
-    if os.path.exists(bigreport):
-        os.remove(bigreport)
-    else:
-        print(f"The old file for {bigreport} isn't there.")
+        # The new report and, later, its path:
+        path_directory = os.path.dirname(os.path.abspath(__file__))
+        bigreport = os.path.join(path_directory, 'bigreport.txt')
+        # Delete old report file since we'll be building a new one here.
+        if os.path.exists(bigreport):
+            os.remove(bigreport)
+        else:
+            print(f"The old file for {bigreport} isn't there.")
 
-    # Add intro graph to the top
-    intro = f"""These are recent restaurant inspection reports for {county} County — from {pn_startdate} to {pn_enddate} — filed by state safety and sanitation inspectors.\nThe Florida Department of Business & Professional Regulation describes an inspection report as “a ‘snapshot’ of conditions present at the time of the inspection. On any given day, an establishment may have fewer or more violations than noted in their most recent inspection. An inspection conducted on any given day may not be representative of the overall, long-term conditions at the establishment.\nPlease note that some more recent, follow-up inspections may not be included here.\n"""
-    f=open(bigreport, "w+")
-    f.write(intro)
-    f.close()
-
-    # Access database
-    sqlite_file = os.path.join(path_directory, 'rinspect.sqlite')
-    conn = sqlite3.connect('rinspect.sqlite')
-    conn.row_factory = lambda cursor, row: row[0]
-    c = conn.cursor()
-
-    # CSV FILE as sort of a mini module to streamline narrative
-    insptypedict = {}
-    insptypes = os.path.join(path_directory, 'insptypes.csv')
-    with open(insptypes, "r") as csvfile:
-        reader = csv.DictReader(csvfile)
-        for row in reader:
-            insptypedict[row["inspdisposition"]] = row["text"]
-
-    # Ordered by severity, most high-priority violations first; choose later
-    ids_vio = c.execute("""SELECT visitid
-        FROM fdinsp WHERE county = '{}'
-        AND inspdate BETWEEN '{}' AND '{}'
-        ORDER BY highvio DESC, totalvio DESC
-        """.format(county, start_date, end_date)).fetchall()
-
-    # Ordered by date, most recent first; choose later
-    ids_date_desc = c.execute("""SELECT visitid
-        FROM fdinsp WHERE county = '{}'
-        AND inspdate BETWEEN '{}' AND '{}'
-        ORDER BY inspdate DESC, highvio DESC, totalvio DESC
-        """.format(county, start_date, end_date)).fetchall()
-
-    # Ordered by date, Monday to Saturday; choose later
-    ids_date_asc = c.execute("""SELECT visitid
-        FROM fdinsp WHERE county = '{}'
-        AND inspdate BETWEEN '{}' AND '{}'
-        ORDER BY inspdate ASC, highvio DESC, totalvio DESC
-        """.format(county, start_date, end_date)).fetchall()
-
-    reportnum = len(ids_vio)
-
-    ids = ids_vio # to order reports by severity of violations
-    #ids = ids_date_desc # to order reports by date, most recent first
-    #ids = ids_date_asc # to order reports by date, Monday to Saturday
-    for id in ids:
-        pn = ""
-        clean_report(id)
-        # append pn to text file
-        f= open(bigreport,"a")
-        f.write(pn)
+        # Add intro graph to the top
+        intro = f"""These are recent restaurant inspection reports for {county} County — from {pn_startdate} to {pn_enddate} — filed by state safety and sanitation inspectors.\nThe Florida Department of Business & Professional Regulation describes an inspection report as “a ‘snapshot’ of conditions present at the time of the inspection. On any given day, an establishment may have fewer or more violations than noted in their most recent inspection. An inspection conducted on any given day may not be representative of the overall, long-term conditions at the establishment.\nPlease note that some more recent, follow-up inspections may not be included here.\n"""
+        f=open(bigreport, "w+")
+        f.write(intro)
         f.close()
 
-        # Who gets the report:
-    if county == 'Marion':
-        receiver = ['doug.ray@starbanner.com', 'joe.byrnes@gvillesun.com', \
-        'alan.youngblood@starbanner.com']
-    elif county == 'Alachua':
-        receiver = ['doug.ray@starbanner.com', 'joe.byrnes@gvillesun.com', \
-        'alan.youngblood@starbanner.com']
-    elif county == 'Polk':
-        receiver = ['doug.ray@starbanner.com', 'laura.davis@theledger.com', \
-        'bheist@theledger.com']
-    elif county == 'Sarasota':
-        receiver = ['doug.ray@starbanner.com', 'brian.ries@heraldtribune.com']
-    elif county == 'Manatee':
-        receiver = ['doug.ray@starbanner.com', 'brian.ries@heraldtribune.com']
-    elif county == 'Walton':
-        receiver = ['doug.ray@starbanner.com', 'jblakeney@nwfdailynews.com']
-    elif county == 'Santa Rosa':
-        receiver = ['doug.ray@starbanner.com', 'jblakeney@nwfdailynews.com']
-    elif county == 'Okaloosa':
-        receiver = ['doug.ray@starbanner.com', 'jblakeney@nwfdailynews.com']
-    # SEND REPORT to receivers.
-    with open(bigreport) as fp:
-        # Create a text/plain message
-        msg = EmailMessage()
-        msg.set_content(fp.read())
+        # Access database
+        sqlite_file = os.path.join(path_directory, 'rinspect.sqlite')
+        conn = sqlite3.connect('rinspect.sqlite')
+        conn.row_factory = lambda cursor, row: row[0]
+        c = conn.cursor()
 
-    sender = 'data@sunwriters.com'
-    gmail_password = '%WatchingTheDetectives'
-    msg['Subject'] = f'Latest restaurant inspection report for {county}'
-    msg['from'] = sender
-    msg['To'] = receiver
+        # CSV FILE as sort of a mini module to streamline narrative
+        insptypedict = {}
+        insptypes = os.path.join(path_directory, 'insptypes.csv')
+        with open(insptypes, "r") as csvfile:
+            reader = csv.DictReader(csvfile)
+            for row in reader:
+                insptypedict[row["inspdisposition"]] = row["text"]
 
-    # Send the message via our own SMTP server.
-    try:
-        server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
-        server.ehlo()
-        server.login(sender, gmail_password)
-        server.send_message(msg)
-        server.quit()
+        # Ordered by severity, most high-priority violations first; choose later
+        ids_vio = c.execute("""SELECT visitid
+            FROM fdinsp WHERE county = '{}'
+            AND inspdate BETWEEN '{}' AND '{}'
+            ORDER BY highvio DESC, totalvio DESC
+            """.format(county, start_date, end_date)).fetchall()
 
-        print('Email sent!')
-        print(f'There are {reportnum} inspections in the {county} report.')
-    except:
-        print('Something went wrong...')
+        # Ordered by date, most recent first; choose later
+        ids_date_desc = c.execute("""SELECT visitid
+            FROM fdinsp WHERE county = '{}'
+            AND inspdate BETWEEN '{}' AND '{}'
+            ORDER BY inspdate DESC, highvio DESC, totalvio DESC
+            """.format(county, start_date, end_date)).fetchall()
 
-conn.close()
+        # Ordered by date, Monday to Saturday; choose later
+        ids_date_asc = c.execute("""SELECT visitid
+            FROM fdinsp WHERE county = '{}'
+            AND inspdate BETWEEN '{}' AND '{}'
+            ORDER BY inspdate ASC, highvio DESC, totalvio DESC
+            """.format(county, start_date, end_date)).fetchall()
+
+        reportnum = len(ids_vio)
+
+        ids = ids_vio # to order reports by severity of violations
+        #ids = ids_date_desc # to order reports by date, most recent first
+        #ids = ids_date_asc # to order reports by date, Monday to Saturday
+        for id in ids:
+            pn = ""
+            clean_report(id)
+            # append pn to text file
+            f= open(bigreport,"a")
+            f.write(pn)
+            f.close()
+
+            # Who gets the report:
+        if county == 'Marion':
+            receiver = ['doug.ray@starbanner.com', 'joe.byrnes@gvillesun.com', \
+            'alan.youngblood@starbanner.com']
+        elif county == 'Alachua':
+            receiver = ['doug.ray@starbanner.com', 'joe.byrnes@gvillesun.com', \
+            'alan.youngblood@starbanner.com']
+        elif county == 'Polk':
+            receiver = ['doug.ray@starbanner.com', 'laura.davis@theledger.com', \
+            'bheist@theledger.com']
+        elif county == 'Sarasota':
+            receiver = ['doug.ray@starbanner.com', 'brian.ries@heraldtribune.com']
+        elif county == 'Manatee':
+            receiver = ['doug.ray@starbanner.com', 'brian.ries@heraldtribune.com']
+        elif county == 'Walton':
+            receiver = ['doug.ray@starbanner.com', 'jblakeney@nwfdailynews.com']
+        elif county == 'Santa Rosa':
+            receiver = ['doug.ray@starbanner.com', 'jblakeney@nwfdailynews.com']
+        elif county == 'Okaloosa':
+            receiver = ['doug.ray@starbanner.com', 'jblakeney@nwfdailynews.com']
+        # SEND REPORT to receivers.
+        with open(bigreport) as fp:
+            # Create a text/plain message
+            msg = EmailMessage()
+            msg.set_content(fp.read())
+
+        sender = 'data@sunwriters.com'
+        gmail_password = '%WatchingTheDetectives'
+        msg['Subject'] = f'Latest restaurant inspection report for {county}'
+        msg['from'] = sender
+        msg['To'] = receiver
+
+        # Send the message via our own SMTP server.
+        try:
+            server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
+            server.ehlo()
+            server.login(sender, gmail_password)
+            server.send_message(msg)
+            server.quit()
+
+            print('Email sent!')
+            print(f'There are {reportnum} inspections in the {county} report.')
+        except:
+            print('Something went wrong...')
+
+    conn.close()
+else:
+    print("Today's not Monday! No reports for you.")
