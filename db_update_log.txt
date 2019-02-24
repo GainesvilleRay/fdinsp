@@ -22,3 +22,35 @@ Scrape: 2019-01-28 14:28:43.165692
 Run complete: 2019-01-28 14:28:43.172095
  -- with 2570 new records added
 
+
+Scrape: 2019-02-04 13:36:38.233241
+Run complete: 2019-02-04 13:36:38.240825
+ -- with 3596 new records added
+
+
+Scrape: 2019-02-04 14:37:58.110178
+Run complete: 2019-02-04 14:37:58.115863
+ -- with 0 new records added
+
+
+Scrape: 2019-02-04 14:39:13.491647
+Run complete: 2019-02-04 14:39:13.495445
+ -- with 0 new records added
+
+
+Scrape: 2019-02-04 16:38:26.976982
+Run complete: 2019-02-04 16:38:26.984137
+ -- with 0 new records added
+
+
+***Problem gathering from https://www.myfloridalicense.com/inspectionDetail.asp?InspVisitID=6677337&id=6322103
+
+Scrape: 2019-02-11 18:34:34.769075
+Run complete: 2019-02-11 18:34:34.775073
+ -- with 3457 new records added
+
+
+Scrape: 2019-02-18 16:19:42.834949
+Run complete: 2019-02-18 16:19:42.838647
+ -- with 3502 new records added
+

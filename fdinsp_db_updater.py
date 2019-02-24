@@ -207,7 +207,7 @@ with open(log_file,'a') as outFile:
     outFile.write('\n' + 'Run complete: ' + str(datetime.datetime.now()) + '\n' + val_text + '\n')
 
 # SEND Log
-receiver = 'doug.ray@starbanner.com'
+receivers = ['doug.ray@starbanner.com', 'joe.byrnes@gvillesun.com']
 with open(log_file) as fp:
     # Create a text/plain message
     msg = EmailMessage()
@@ -217,7 +217,7 @@ sender = 'data@sunwriters.com'
 gmail_password = '%WatchingTheDetectives'
 msg['Subject'] = 'Latest scrape'
 msg['from'] = sender
-msg['To'] = receiver
+msg['To'] = receivers
 
 # Send the message via our own SMTP server.
 try:
