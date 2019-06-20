@@ -23,6 +23,9 @@ import re
 import smtplib
 import sqlite3
 
+# local library
+import creds
+
 # DATAFRAME built from summary of recent inspections
 # Read state summary report for District into Pandas df;
 # filter for needed fields and assign headers
@@ -214,7 +217,7 @@ with open(log_file) as fp:
     msg.set_content(fp.read())
 
 sender = 'data@sunwriters.com'
-gmail_password = '%WatchingTheDetectives'
+gmail_password = creds.gmail_password
 msg['Subject'] = 'Latest scrape'
 msg['from'] = sender
 msg['To'] = receivers

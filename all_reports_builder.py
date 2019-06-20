@@ -17,6 +17,9 @@ import os
 import smtplib
 import sqlite3
 
+#Local library
+import creds
+
 # COUNTIES for inspection reports
 counties = ['Alachua', 'Marion', 'Manatee', 'Polk', 'Okaloosa', 'Santa Rosa', 'Sarasota', 'Walton']
 
@@ -366,7 +369,7 @@ if (weekday == 0): #Monday
             msg.set_content(fp.read())
 
         sender = 'data@sunwriters.com'
-        gmail_password = '%WatchingTheDetectives'
+        gmail_password = creds.gmail_password
         msg['Subject'] = f'Latest restaurant inspection report for {county}'
         msg['from'] = sender
         msg['To'] = receiver
