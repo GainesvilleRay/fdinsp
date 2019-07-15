@@ -21,7 +21,7 @@ import sqlite3
 import creds
 
 # COUNTIES for inspection reports
-counties = ['Alachua', 'Marion', 'Manatee', 'Polk', 'Okaloosa', 'Santa Rosa', 'Sarasota', 'Walton']
+counties = ['Alachua', 'Marion', 'Manatee', 'Polk', 'Okaloosa', 'Santa Rosa', 'Sarasota', 'Walton', 'Volusia', 'Flagler']
 
 # CONVERTS datetime into AP style text; from Stucka
 def get_big_timestamp(date_object=None):
@@ -344,14 +344,11 @@ if (weekday == 0): #Monday
 
             # Who gets the report:
         if county == 'Marion':
-            receiver = ['doug.ray@starbanner.com', 'joe.byrnes@gvillesun.com', \
-            'alan.youngblood@starbanner.com']
+            receiver = ['doug.ray@starbanner.com', 'joe.byrnes@gvillesun.com']
         elif county == 'Alachua':
-            receiver = ['doug.ray@starbanner.com', 'joe.byrnes@gvillesun.com', \
-            'alan.youngblood@starbanner.com']
+            receiver = ['doug.ray@starbanner.com', 'joe.byrnes@gvillesun.com']
         elif county == 'Polk':
-            receiver = ['doug.ray@starbanner.com', 'laura.davis@theledger.com', \
-            'bheist@theledger.com']
+            receiver = ['doug.ray@starbanner.com', 'laura.davis@theledger.com', 'bheist@theledger.com']
         elif county == 'Sarasota':
             receiver = ['doug.ray@starbanner.com', 'brian.ries@heraldtribune.com']
         elif county == 'Manatee':
@@ -362,6 +359,11 @@ if (weekday == 0): #Monday
             receiver = ['doug.ray@starbanner.com', 'jblakeney@nwfdailynews.com']
         elif county == 'Okaloosa':
             receiver = ['doug.ray@starbanner.com', 'jblakeney@nwfdailynews.com']
+        elif county == 'Flagler':
+            receiver = ['doug.ray@starbanner.com', 'nancy.niles@news-jrnl.com', 'Chris.Bridges@news-jrnl.com']
+        elif county == 'Volusia':
+            receiver = ['doug.ray@starbanner.com', 'nancy.niles@news-jrnl.com', 'Chris.Bridges@news-jrnl.com']
+            
         # SEND REPORT to receivers.
         with open(bigreport) as fp:
             # Create a text/plain message
