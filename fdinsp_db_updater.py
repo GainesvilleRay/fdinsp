@@ -5,9 +5,9 @@
 # from the state's website and updates a local database. The information
 # is used by another script to build a report for publication.
 
-# Script by Douglas Ray, doug.ray@gainesville.com, updated 10/05/2018
+# Script by Douglas Ray, doug.ray@gainesville.com, updated updated 4/15/2019
 
-# Requires access to rinspect.sqlite
+# Requires access to rinspect.sqlite and creds.py
 
 #installed with pip
 from pandas import pandas as pd
