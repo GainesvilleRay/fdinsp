@@ -1,155 +1,82 @@
-These are recent restaurant inspection reports for Walton County — from Feb. 11 to Feb. 16 — filed by state safety and sanitation inspectors.
+These are recent restaurant inspection reports for Flagler County — from Jul. 08 to Jul. 13 — filed by state safety and sanitation inspectors.
 The Florida Department of Business & Professional Regulation describes an inspection report as “a ‘snapshot’ of conditions present at the time of the inspection. On any given day, an establishment may have fewer or more violations than noted in their most recent inspection. An inspection conducted on any given day may not be representative of the overall, long-term conditions at the establishment.
 Please note that some more recent, follow-up inspections may not be included here.
 
-Bestwestern Crossroads Inn
-2343 Freeport  Road, Defuniak Springs
-Routine inspection Feb. 11.
+Cinnamon Bistro & Bar
+519 Cinnamon Beach Ln, Palm Coast
+Routine inspection July 12.
 Follow-up needed: Warning issued.
-10 total violations, with 4 high-priority violations:
--- High Priority - Employee cracked raw shell eggs and then handled ready-to-eat food and/or clean equipment or utensils without washing hands. - cook cracked eggs into pan and then grabbed a plate without removing her gloves and washing her hands. Kitchen manager had her put the plate in the dish room, wash her hands, and put new gloves on.  **Corrected On-Site**
--- High Priority - Ready-to-eat, potentially hazardous (time/temperature control for safety) food marked with a date that exceeds 7 days after opening/preparation. - 2 pounds of corned beef in reach-in cooler date marked for 01/25/2019.kitchen manager discarded.  **Corrected On-Site**
--- High Priority - Stop Sale issued due to adulteration of food product. - 2 pounds of corned beef with date mark of 01/25/2019. Kitchen manager had them discarded.
--- High Priority - Vacuum breaker missing at hose bibb or on fitting/splitter added to hose bibb. - faucet has a splitter on it and the backflow preventer/vacuum breaker is before the splitter and not on the part with the connected hose.
--- Intermediate - No proof of required state approved employee training provided for any employees. To order approved program food safety material, call DBPR contracted provider:  Florida Restaurant and Lodging Association (SafeStaff) 866-372-7233. - kitchen manager unable to locate training certificates for any employees that do not have Certified Food Manager.
--- Intermediate - Whole fruit displayed for self-service not wrapped and no utensils provided. - apples in dining room on cold hold bar. Kitchen manager had an employee pull them and wrap them.  **Corrected On-Site**
--- Basic - Cove molding at floor/wall juncture broken/missing. - behind chest reach-in freezer under electrical panels.
--- Basic - Ice buildup in walk-in freezer. - in back on wall, on floor, and right inside the door. Door does not close all the way leaving a gap around the edges allowing the cold air to escape.
--- Basic - Soiled reach-in cooler/reach-in freezer gaskets.
+Five total violations, with one high-priority violation:
+-- High Priority - Potentially hazardous (time/temperature control for safety) food cold held at greater than 41 degrees Fahrenheit.  Shrimp 50°F;  ( - Cold Holding) bleu cheese 52°F ;  ( - Cold Holding) in tall reach in cooler by fry station.  Cooked onions 64°F ;  ( - Cold Holding) in ice bath on cook line, butter 68°F for toast on cook line( - Cold Holding)
+-- Intermediate - Accumulation of black/green mold-like substance in the interior of the ice machine.  Interior of bulk ice bin with build up of mold on plastic shield.
+-- Intermediate - Employee with long fingernails working with exposed food, single-service items or clean equipment and utensils.  Bartender with long fingernails and excessive jewelry mixing drinks and scooping ice.
+-- Intermediate - No currently certified food service manager on duty with four or more employees engaged in food preparation/handling.  A list of accredited food manager certification examination providers can be found at http://www.myfloridalicense.com/DBPR/hotels-restaurants/food-lodging/food-manager/. 5 Employees on site, no CFM on site.
+-- Basic - Single-service articles not stored inverted or protected from contamination.  Plastic spoons on cook line not inverted.  Corrected on site by inverting plastic spoons. **Corrected On-Site**
 
-
-Mcdonald's 24468
-12830 Emerald Coast Pkwy, Destin
-Routine inspection Feb. 15.
-Follow-up needed: Warning issued.
-10 total violations, with 3 high-priority violations:
--- High Priority - Potentially hazardous (time/temperature control for safety) food cold held at greater than 41 degrees Fahrenheit.  Liquid eggs 52°F, 53°,52°F, 54°F,50°F(out more than 4 hours,see Stop Sale) **Warning**
--- High Priority - Stop Sale issued on potentially hazardous (time/temperature control for safety) food due to temperature abuse.  Liquid eggs 52°F, 53°,52°F, 54°F,50°F(out more than 4 hours,see Stop Sale) **Warning**
--- High Priority - Vacuum breaker missing at mop sink faucet or on splitter added to mop sink faucet. **Warning**
--- Intermediate - Ice chute on self-service drink machine (Coke) soiled/build up of mold-like substance/slime. **Warning**
--- Basic - Accumulation of debris on exterior of warewashing machine. **Warning**
--- Basic - All cookline and prep lines have soiled reach-in cooler gaskets. **Warning**
--- Basic - Employee personal items stored with or above food, clean equipment and utensils, or single-service items.  Employee jacket stores at the coffee station. Manager moved jacket to the break room. **Corrected On-Site** **Warning**
--- Basic - No handwashing sign provided at a hand sink used by food employees in both male and female restrooms. Inspector printed signs for operator. **Corrective Action Taken** **Warning**
--- Basic - Standing water or very slow draining water in cookline handwash sink. **Warning**
--- Basic - Wiping cloth chlorine sanitizing solution not at proper minimum strength.  Sani bucket 0ppm adjusted to 100ppm. **Corrected On-Site** **Warning**
-
-Bogey's Bar And Restaurant
-660 Baldwin Ave, Defuniak Springs
-Routine inspection Feb. 13.
-Follow-up needed: Warning issued.
-Five total violations, with two high-priority violations:
--- High Priority - Warewashing sanitizing solution exceeding the maximum concentration allowed. - dishmachine testing to 100+ but less than 200. Owner notified company.  **Corrective Action Taken** **Warning**
--- High Priority - Wiping cloth sanitizer solution exceeds the maximum concentration allowed. - chlorine sanitation in wash cloth buckets stringer than 100ppm but not quite 200ppm. Owner had employee change the buckets and make new sanitizing solution. Retested to 100ppm.  **Corrected On-Site** **Warning**
--- Intermediate - Required employee training expired for some employees. To order approved program food safety material, call DBPR contracted provider:  Florida Restaurant and Lodging Association (SafeStaff) 866-372-7233. - 3 employees expired.  **Warning**
--- Basic - Bowl or other container with no handle used to dispense food. - plastic container in bin of rice with edges touching the rice. Owner had an employee remove.  **Corrected On-Site** **Warning**
--- Basic - Build-up of grease/dust/debris on hood filters. - heavily soiled.  **Warning**
-
-Taco City
-915 Hwy 90 W, Defuniak Springs
-Routine inspection Feb. 11.
+Whaam!
+400 S Oceanshore Blvd, Flagler Beach
+Routine inspection July 8.
 Met standards.
-Three total violations, with one high-priority violation:
--- High Priority - Employee failed to wash hands before changing gloves and/or putting on gloves to work with food. - employee was wearing gloves and cutting raw ground beef, she took off the gloves and started to put new ones on to make a wrap. Inspector stopped her and had her wash her hands.  **Corrected On-Site**
--- Basic - Carbon dioxide/helium tanks not adequately secured. - all three in back room next to soda rack.
--- Basic - In-use tongs stored on equipment door handle between uses. - 2 sets of tongs on oven door handle. Owner removed them.  **Corrected On-Site**
+Four total violations, with one high-priority violation:
+-- High Priority - Potentially hazardous (time/temperature control for safety) food cold held at greater than 41 degrees Fahrenheit.  Cut cabbage 46°F;  ( - Cold Holding) in reach in cooler.  American cheese 50°F ;  ( - Cold Holding). in cook line reach in cooler.  American cheese ambient cooled to 43°F within 30minutes. **Corrective Action Taken**
+-- Intermediate - No paper towels or mechanical hand drying device provided at handwash sink.  No paper towels at rear hand wash sink.  Corrected on site by supplying  **Corrected On-Site**
+-- Basic - Employee with no hair restraint while engaging in food preparation. Staff handling unpackaged food with no hair restraint, corrected on site by wearing hat. **Corrected On-Site**
 
-Super 8 Motel
-402 Hugh Adams Road, Defuniak Springs
-Routine inspection Feb. 14.
-Follow-up needed: Warning issued.
-Seven total violations, with no high-priority violations.
--- Intermediate - Manager lacking proof of food manager certification.  A list of accredited food manager certification examination providers can be found at http://www.myfloridalicense.com/DBPR/hotels-restaurants/food-lodging/food-manager/ - owner schedule to attend class on03/22/2019. **Repeat Violation**
--- Intermediate - No chlorine chemical test kit provided when using chlorine sanitizer at three-compartment sink/warewashing machine. **Repeat Violation**
--- Intermediate - No paper towels or mechanical hand drying device provided at handwash sink. - hand wash sink in kitchen. Owner got some napkins for inspector to dry hands with.  **Corrected On-Site**
--- Intermediate - No proof of required state approved employee training provided for any employees. To order approved program food safety material, call DBPR contracted provider:  Florida Restaurant and Lodging Association (SafeStaff) 866-372-7233. **Repeat Violation**
--- Intermediate - Spray bottle containing toxic substance not labeled. - pine sol in spray bottle in kitchen.  **Repeat Violation**
--- Intermediate - Whole fruit displayed for self-service not wrapped and no utensils provided. - apples on buffet.
--- Basic - Trash receptacles not provided where needed in establishment. - needed for hand wash sink.
 
-Kfc
-2482 US 331 S, Defuniak Springs
-Routine inspection Feb. 13.
-Time extension given to correct earlier problems.
-Five total violations, with no high-priority violations.
--- Intermediate - - From initial inspection : Intermediate - Manager lacking proof of food manager certification and no other certified food service manager employed at this location.  A list of accredited food manager certification examination providers can be found at http://www.myfloridalicense.com/DBPR/hotels-restaurants/food-lodging/food-manager/ **Warning**     - From follow-up inspection 2019-02-13: Manager has been scheduled for training. Will be conducted on 02/18/2019.  **Time Extended**
--- Basic - - From initial inspection : Basic - Ceiling/ceiling tile shows damage or is in disrepair. -5 ceiling tiles in dining room have water stains on them (addressed on previous inspection that still has an open callback on it); - 1 ceiling tile in kitchen at drive thru area above the monitor has a hole in it. **Warning**     - From follow-up inspection 2019-02-13: 3 in dining room still have water marks on them; 1 at drive thru still has a hole in it.  **Time Extended**
--- Basic - - From initial inspection : Basic - Floor drains/drain covers heavily soiled. - drains in kitchen by fryers have a heavy build-up of grease and debris. **Warning**     - From follow-up inspection 2019-02-13: Drains still have a heavy buildup at callback inspection.  **Time Extended**
--- Basic - - From initial inspection : Basic - No conspicuously located ambient air temperature thermometer in holding unit. - chicken walk-in cooler does not have a thermometer on the outside of the door nor is there one anywhere inside. **Warning**     - From follow-up inspection 2019-02-13: Still no thermometer available at callback inspection.  **Time Extended**
--- Basic - - From initial inspection : Basic - Water leaking from pipe and/or faucet/handle. - hand wash sink at drive thru. **Warning**     - From follow-up inspection 2019-02-13: Water still leaking from drive thru hand wash sink.  **Time Extended**
+Morts Discount Liquor And Farley
+101 Palm Harbor Pkwy , Suite 132, Palm Coast
+Routine inspection July 11.
+Met standards; earlier problems corrected.
+Two total violations, with no high-priority violations.
+-- Intermediate - - From initial inspection : Intermediate - Accumulation of black/green mold-like substance inside the ice bin.  Debris on inside of ice bin.     - From follow-up inspection 2019-07-11: Ice bin with mold like substance inside and around exterior  **Time Extended**
+-- Basic - - From initial inspection : Basic - Build-up of soil/debris on the floor under shelving.  Buildup Grease under fryer.     - From follow-up inspection 2019-07-11: Grease under Fryer. **Time Extended**
 
-La Chalupita Mexican Market
-3422 US Hwy 98 W #2, Santa Rosa Beach
-Routine inspection Feb. 13.
-Follow-up needed: Warning issued.
-Three total violations, with no high-priority violations.
--- Intermediate - Hot water not provided at employee handwash sink on the cookline near the griddle. **Warning**
--- Intermediate - Ice chute on self-service drink machine soiled/build up of mold-like substance/slime. **Warning**
--- Basic - Unsealed concrete floor in food preparation, food storage, warewashing, and deli area. **Warning**
-
-Fat Daddys Pizza
-4942 W U S Hwy 98  , Suite 18, Santa Rosa Beach
-Routine inspection Feb. 13.
+Pickle Bar Of Flagler Beach
+105 N Ocean Shore Blvd Suite E, Flagler Beach
+Routine inspection July 11.
 Met standards.
 Two total violations, with no high-priority violations.
--- Basic - Floors in the walk in cooler not maintained smooth and durable. Seam in the walk-in cooler floor is not properly bolted down creating a tripping safety hazard.
--- Basic - Unsealed concrete floor in food preparation area. Floor had originally been sealed however heavy traffic has worn the sealant off.
+-- Basic - Interior of refrigerator or freezer in disrepair/has exposed insulation.  Door on reach in freezer with exposed insulation.
+-- Basic - Stored food not covered in reach-in freezer.  Restaurant made Popsicles not covered in reach in freezer.  Corrected on site by covering popsicles. **Corrected On-Site**
 
-Edie'S
-161 N State Hwy 83, Defuniak Springs
-Routine inspection Feb. 13.
-Met standards.
-Two total violations, with no high-priority violations.
--- Intermediate - Accumulation of black/green mold-like substance in the interior of the ice machine.
--- Basic - Soiled reach-in cooler/reach-in freezer gaskets. -  all units.
-
-Dave's Carry Out
-435 US Hwy W 90, Defuniak Springs
-Routine inspection Feb. 11.
-Met standards.
-Two total violations, with no high-priority violations.
--- Basic - Carbon dioxide/helium tanks not adequately secured. - One in kitchen.
--- Basic - Wiping cloth sanitizing solution stored on the floor. - by sink.
-
-Derryck's Pastries
-519 Lincoln Ave, Defuniak Springs
-Routine inspection Feb. 15.
-Met standards.
-Two total violations, with no high-priority violations.
--- Basic - Ceiling not smooth, nonabsorbent and easily cleanable in food preparation, food storage, warewashing areas or bathroom. The storage area in the back.
--- Basic - No hot running water at mop sink.
-
-Bestwestern Crossroads Inn
-2343 Freeport  Road, Defuniak Springs
-Routine inspection Feb. 13.
-Time extension given to correct earlier problems.
+Carrabba's Italian Grill
+160 Cypress Edge Pkwy, Palm Coast
+Routine inspection July 11.
+Met standards; earlier problems corrected.
 One violation, with no high-priority violations.
--- Intermediate - - From initial inspection : Intermediate - No proof of required state approved employee training provided for any employees. To order approved program food safety material, call DBPR contracted provider:  Florida Restaurant and Lodging Association (SafeStaff) 866-372-7233. - kitchen manager unable to locate training certificates for any employees that do not have Certified Food Manager.     - From follow-up inspection 2019-02-13: Employees still lacking training.  **Time Extended**
+-- Basic - - From initial inspection : Basic - Equipment in poor repair.  Walk in freezer door hinge in disrepair.     - From follow-up inspection 2019-05-14: Walk in freezer door in disrepair  **Time Extended**     - From follow-up inspection 2019-07-11: Walk in freezer door in disrepair. **Time Extended**
 
-Fireside Cafe
-122 Poinciana Blvd, Miramar
-Routine inspection Feb. 14.
-Met standards.
-No violations were found.
--- Basic - Sanitizer bucket stored with food, equipment, utensils, linens, single-service, or single-use articles.  Sani bucket stored on top of the make table. Operator moved bucket to bottom shelf of the prep table. **Corrected On-Site**
-
-Whataburger #913
-2434 US 331 S, Defuniak Springs
-Routine inspection Feb. 13.
-Met standards.
+Bed And Breakfast By The Sea
+1536 S Oceanshore Dr, Flagler Beach
+Routine inspection July 11.
+Met standards; earlier problems corrected.
 No violations were found.
 
 
-Macho Taco
-4 Hub Ln, Watersound
-Licensing inspection Feb. 12.
+Tortugas Florida Kitchen Bar
+608 S Oceanshore Blvd, Flagler Beach
+Routine inspection July 8.
+Met standards. Violations from earlier administrative complaint have been corrected.
+No violations were found.
+
+
+Faro
+311 N Oceanshore Blvd Unit B, Flagler Beach
+Licensing inspection July 12.
 Met standards.
 No violations were found.
 
 
-Surf Hut Restaurant
-551 Scenic Gulf Dr, Miramar Beach
-Routine inspection Feb. 12.
+High Tides At Snack Jack
+2805 S Ocean Shore Blvd, Flagler Beach
+Routine inspection July 8.
+Met standards; earlier problems corrected.
+No violations were found.
+
+
+Hi Tulip Cafe
+400 Beach Village Dr, Flagler Beach
+Routine inspection July 8.
 Met standards; earlier problems corrected.
 No violations were found.
 

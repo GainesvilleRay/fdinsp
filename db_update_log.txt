@@ -54,3 +54,8 @@ Scrape: 2019-02-18 16:19:42.834949
 Run complete: 2019-02-18 16:19:42.838647
  -- with 3502 new records added
 
+
+Scrape: 2019-07-15 18:01:01.451088
+Run complete: 2019-07-15 18:01:01.476107
+ -- with 3995 new records added
+
