@@ -5,7 +5,7 @@ It was developed by Doug Ray at The Gainesville Sun in Gainesville, Florida. dou
 
 Files included:
 
-all_reports_builder.py -- updated script to produce all reports in the list of counties
+* all_reports_builder.py -- updated script to produce all reports in the list of counties
 
 all_reports_task.py -- script to automate the task of running all_reports_builder.py. Not currently in use.
 
@@ -19,7 +19,7 @@ dbbuilder.py -- a script to build the database file
 
 db_update_log.txt -- info that goes into the email to record how many reports gathered or what was missed
 
-fdinsp_db_ updater.py -- scrapes data and deposits it into a database. This is the version now in use.
+* fdinsp_db_ updater.py -- scrapes data and deposits it into a database. This is the version now in use.
 
 fdinsp_db_updater2.py -- a newer version of above that I think is more pythonic but not yet in use.
 
