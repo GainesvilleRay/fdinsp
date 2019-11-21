@@ -223,7 +223,9 @@ def make_obs():
 #today = datetime.date.today()
 #weekday = today.weekday()
 #if (weekday == 0): #Monday
-for url in urlList:
+print(f"Beginning to scrape {len(urlList)} pages.")
+
+for url in tqdm(urlList):
     make_obs()
 
 conn.close()
