@@ -65,49 +65,6 @@ for filename in filelist:
     print(f"\tTotal rows now: {len(insp)}")
     staging = None
             
-# insp1 = pd.read_csv("ftp://dbprftp.state.fl.us/pub/llweb/1fdinspi.csv",
-                    # usecols=[2, 4, 5, 6, 7, 8, 9, 12, 13, 14, 17, 18, 80, 81],
-                    # names=cols,
-                    # dtype=object,
-                    # encoding="ISO-8859-1")
-# insp2 = pd.read_csv("ftp://dbprftp.state.fl.us/pub/llweb/2fdinspi.csv",
-                    # usecols=[2, 4, 5, 6, 7, 8, 9, 12, 13, 14, 17, 18, 80, 81],
-                    # names=cols,
-                    # dtype=object,
-                    # encoding="ISO-8859-1")
-# insp3 = pd.read_csv("ftp://dbprftp.state.fl.us/pub/llweb/3fdinspi.csv",
-                    # usecols=[2, 4, 5, 6, 7, 8, 9, 12, 13, 14, 17, 18, 80, 81],
-                    # names=cols,
-                    # dtype=object,
-                    # encoding="ISO-8859-1")
-
-# insp4 = pd.read_csv("ftp://dbprftp.state.fl.us/pub/llweb/4fdinspi.csv",
-                    # usecols=[2, 4, 5, 6, 7, 8, 9, 12, 13, 14, 17, 18, 80, 81],
-                    # names=cols,
-                    # dtype=object,
-                    # encoding="ISO-8859-1")
-
-# insp5 = pd.read_csv("ftp://dbprftp.state.fl.us/pub/llweb/5fdinspi.csv",
-                    # usecols=[2, 4, 5, 6, 7, 8, 9, 12, 13, 14, 17, 18, 80, 81],
-                    # names=cols,
-                    # dtype=object,
-                    # encoding="ISO-8859-1")
-
-# insp6 = pd.read_csv("ftp://dbprftp.state.fl.us/pub/llweb/6fdinspi.csv",
-                    # usecols=[2, 4, 5, 6, 7, 8, 9, 12, 13, 14, 17, 18, 80, 81],
-                    # names=cols,
-                    # dtype=object,
-                    # encoding="ISO-8859-1")
-
-# insp7 = pd.read_csv("ftp://dbprftp.state.fl.us/pub/llweb/7fdinspi.csv",
-                    # usecols=[2, 4, 5, 6, 7, 8, 9, 12, 13, 14, 17, 18, 80, 81],
-                    # names=cols,
-                    # dtype=object,
-                    # encoding="ISO-8859-1")
-
-# insp_list = [insp1, insp2, insp3, insp4, insp5, insp6, insp7]
-# insp = pd.concat(insp_list, axis=0)
-
 #Clean up some of the data before storing it in the db
 insp.sitename = insp.sitename.str.title()
 insp.sitename = insp.sitename.str.replace('Mcdonald\'s', 'McDonald\'s')
